@@ -1,0 +1,2405 @@
+[
+  {
+    "app": "Add tag to note and send to Dropbox",
+    "description": "Add tag to note and send to Dropbox This is a method of using evernote with Dropbox as a blog platform.\r\nOnce the tag \"publish-note\" is added to the note, it will sync to specified folder. Using a repository as the folder you can then push your git changes to your production environment.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add tag to note and send to Dropbox This is a method of using evernote with Dropbox as a blog platform."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Once the tag \"publish-note\" is added to the note, it will sync to specified folder."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Using a repository as the folder you can then push your git changes to your production environment."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Send Evernote notes to Fleep",
+    "description": "Send Evernote notes to Fleep Share your Evernote notes with other Fleep users. No need to click on anything, it will just happen magically.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send Evernote notes to Fleep Share your Evernote notes with other Fleep users."
+      },
+      {
+        "manual-eval": 1,
+        "s": "No need to click on anything, it will just happen magically."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "MOI RMA Trigger",
+    "description": "MOI RMA Trigger Sends email if note is moved into evaluated.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "MOI RMA Trigger Sends email if note is moved into evaluated."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Trello To Do",
+    "description": "Evernote to Trello To Do Adds notes from Evernote to Trellow",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Trello To Do Adds notes from Evernote to Trellow"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "If Evernote note is tagged, then create quick event in Google Calendar",
+    "description": "If Evernote note is tagged, then create quick event in Google Calendar Tag a note in Evernote with a specific tag (such as \"schedule\"), and Google Calendar will create a quick event using the title of the Evernote note.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "If Evernote note is tagged, then create quick event in Google Calendar Tag a note in Evernote with a specific tag (such as \"schedule\"), and Google Calendar will create a quick event using the title of the Evernote note."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to RTM via email",
+    "description": "Evernote to RTM via email Simple task in RTM in 1 week when tagged RTM. See https://www.rememberthemilk.com/help/?ctx=basics.smartadd.whatis for edit instructions. Configure to send email to your RTM email address (found in settings).",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote to RTM via email Simple task in RTM in 1 week when tagged RTM."
+      },
+      {
+        "manual-eval": 0,
+        "s": "See https://www.rememberthemilk.com/help/?ctx=basics.smartadd."
+      },
+      {
+        "manual-eval": 0,
+        "s": "whatis for edit instructions."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Configure to send email to your RTM email address (found in settings)."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote",
+    "description": "Evernote evernote added creates task in todoist",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote evernote added creates task in todoist"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote-Todoist",
+    "description": "Evernote-Todoist test",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote-Todoist test"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote Cooked Applets - Trello",
+    "description": "Evernote Cooked Applets - Trello Use it",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote Cooked Applets - Trello Use it"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "if note added to \"buy\" notebook, add as task to \"buy\" project",
+    "description": "if note added to \"buy\" notebook, add as task to \"buy\" project use shortcut for android app, created dedicated button, just press, speak, and add",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "if note added to \"buy\" notebook, add as task to \"buy\" project use shortcut for android app, created dedicated button, just press, speak, and add"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Appointments",
+    "description": "Appointments To create appointments into todoist",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Appointments To create appointments into todoist"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "If a New note in Evernote then Post it in Slack Channel",
+    "description": "If a New note in Evernote then Post it in Slack Channel It checks for a new task or note in Evernote in particular notebook and posts in your Slack Channel.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If a New note in Evernote then Post it in Slack Channel It checks for a new task or note in Evernote in particular notebook and posts in your Slack Channel."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Save Evernote notes to #pocket",
+    "description": "Save Evernote notes to #pocket Tag your Evernote Notes as #pocket to read them later in pocket .",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Save Evernote notes to #pocket Tag your Evernote Notes as #pocket to read them later in pocket ."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Derby County Dentist",
+    "description": "Derby County Dentist Dr. Amandeep Singh Taunk who is a dentist and has over a decade of experience in Cosmetic and complex dental cases including the use of clear braces and implants and has completed thousands of smile improvements/makeovers. He is always there to help those who need a good doctor for their dental care.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Derby County Dentist Dr. Amandeep Singh Taunk who is a dentist and has over a decade of experience in Cosmetic and complex dental cases including the use of clear braces and implants and has completed thousands of smile improvements/makeovers."
+      },
+      {
+        "manual-eval": 0,
+        "s": "He is always there to help those who need a good doctor for their dental care."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Create a trello card from a meeting form note created with evernote",
+    "description": "Create a trello card from a meeting form note created with evernote Create a trello card from a meeting form note created with evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Create a trello card from a meeting form note created with evernote Create a trello card from a meeting form note created with evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Send Completed Zendone Tasks to iDoneThis",
+    "description": "Send Completed Zendone Tasks to iDoneThis Add your team email from idonethis.com as the email form.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send Completed Zendone Tasks to iDoneThis Add your team email from idonethis."
+      },
+      {
+        "manual-eval": 1,
+        "s": "com as the email form."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "If evernote tag then create dropbox file",
+    "description": "If evernote tag then create dropbox file If you tag an evernote note with the tag Dropbox then it will create a new text document in your Dropbox account.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If evernote tag then create dropbox file If you tag an evernote note with the tag Dropbox then it will create a new text document in your Dropbox account."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "MyRecipe",
+    "description": "MyRecipe evernote to inoreader",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "MyRecipe evernote to inoreader"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Todoist Task",
+    "description": "Evernote to Todoist Task New note in Evernote (Actions Pending) creates a task in the inbox for Todoist.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote to Todoist Task New note in Evernote (Actions Pending) creates a task in the inbox for Todoist."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "calendar",
+    "description": "calendar calendar",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "calendar calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "HPEG",
+    "description": "HPEG hi test msg here",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "HPEG hi test msg here"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Drive",
+    "description": "Evernote to Drive Evernote to Drive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Drive Evernote to Drive"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Tag to email",
+    "description": "Tag to email Send an email every time you add a tag to a note.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Tag to email Send an email every time you add a tag to a note."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to MeisterTask",
+    "description": "Evernote to MeisterTask So far Evernote to MeisterTask and MeisterTask to Evernote is not looping.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote to MeisterTask So far Evernote to MeisterTask and MeisterTask to Evernote is not looping."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote action items to TODOIST",
+    "description": "Evernote action items to TODOIST send your to-do items to todoist",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote action items to TODOIST send your to-do items to todoist"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote",
+    "description": "evernote evernote",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "evernote evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Sync Evernote notebook to Google Drive",
+    "description": "Sync Evernote notebook to Google Drive Every new note created in an Evernote notebook creates a new document in Google Drive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Sync Evernote notebook to Google Drive Every new note created in an Evernote notebook creates a new document in Google Drive"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "My",
+    "description": "My My text",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "My My text"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Collect monthly insights",
+    "description": "Collect monthly insights This recipe will add the content of a note with a specific tag of your choice to a note called 'Insights - this month'. This note will be created if it does't exist yet. At the end of the month, just change the title to 'Insights - ' and the recipe will automatically create a new note called 'Insights - this month' for new insights.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Collect monthly insights This recipe will add the content of a note with a specific tag of your choice to a note called 'Insights - this month'."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This note will be created if it does't exist yet."
+      },
+      {
+        "manual-eval": 0,
+        "s": "At the end of the month, just change the title to 'Insights - ' and the recipe will automatically create a new note called 'Insights - this month' for new insights."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote calendar",
+    "description": "evernote calendar rapiditate",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "evernote calendar rapiditate"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Ever-Connected",
+    "description": "Ever-Connected If you add a note in Evernote, then it creates a quick event in Google Calendar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Ever-Connected If you add a note in Evernote, then it creates a quick event in Google Calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote 2 onenote",
+    "description": "evernote 2 onenote useing evernote and onenote at the same time",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "evernote 2 onenote useing evernote and onenote at the same time"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Blog-Bulletin MeM",
+    "description": "Blog-Bulletin MeM De Evernote vers Wordpress",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Blog-Bulletin MeM De Evernote vers Wordpress"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to OneNote",
+    "description": "Evernote to OneNote This should convert Evernote to OneNote on Macbook.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to OneNote This should convert Evernote to OneNote on Macbook."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "If tag added to Evernote create task in Todoist",
+    "description": "If tag added to Evernote create task in Todoist Use a specific tag in evernote, e.g. #cook_me, when clipping recipes to evernote and they will be auto added to a selected todoist project.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "If tag added to Evernote create task in Todoist Use a specific tag in evernote, e.g."
+      },
+      {
+        "manual-eval": 0,
+        "s": "#cook_me, when clipping recipes to evernote and they will be auto added to a selected todoist project."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote Ideas 2 Trello",
+    "description": "Evernote Ideas 2 Trello Send the ideas that you write in Evernote to a Trello Board in order to actually work on them!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote Ideas 2 Trello Send the ideas that you write in Evernote to a Trello Board in order to actually work on them!"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote lost notes rescue to dropbox",
+    "description": "evernote lost notes rescue to dropbox evernote lost notes rescue to dropbox",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "evernote lost notes rescue to dropbox evernote lost notes rescue to dropbox"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "AutoPost",
+    "description": "AutoPost Publishes Clipped Articles to My WordPress Blog",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "AutoPost Publishes Clipped Articles to My WordPress Blog"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Sync Notes from Evernote to Google Calendar",
+    "description": "Sync Notes from Evernote to Google Calendar Syncs notes from Evernote to Google Calendar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Sync Notes from Evernote to Google Calendar Syncs notes from Evernote to Google Calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "if new note in (specific notebook) append to google sheet in drive for grocery list",
+    "description": "if new note in (specific notebook) append to google sheet in drive for grocery list if new note in (specific notebook) append to google sheet in drive for grocery list",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "if new note in (specific notebook) append to google sheet in drive for grocery list if new note in (specific notebook) append to google sheet in drive for grocery list"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote > ToDoist",
+    "description": "Evernote > ToDoist If I add a note with tag 'casestudy' it adds it to my to do list.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote > ToDoist If I add a note with tag 'casestudy' it adds it to my to do list."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Share a tagged #Evernote to a #Slack channel",
+    "description": "Share a tagged #Evernote to a #Slack channel Problem: \r\nAs a team member who has to attend multiple meetings and doesn't have time to search through email clutter for meeting notes, it is important to have those notes shared in an easy to access place. \r\n\r\nSolution:\r\nIntegrate Evernote tags into the Evernotes and trigger the action to post on a specific Slack channel for the team member to view/access later.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Share a tagged #Evernote to a #Slack channel Problem:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "As a team member who has to attend multiple meetings and doesn't have time to search through email clutter for meeting notes, it is important to have those notes shared in an easy to access place."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Solution:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Integrate Evernote tags into the Evernotes and trigger the action to post on a specific Slack channel for the team member to view/access later."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Diigo",
+    "description": "Evernote to Diigo Use a specific tag (in my case \"to_diigo\" to select notes to be exported into diigo. Keep original tags plus add a \"from evernote\" tag.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Diigo Use a specific tag (in my case \"to_diigo\" to select notes to be exported into diigo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Keep original tags plus add a \"from evernote\" tag."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Rocketbook -> Evernote -> Todoist",
+    "description": "Rocketbook -> Evernote -> Todoist This is a small workaround if you are the kind of person that likes to write todo's on Rocketbook pen and paper (after adding a special notebook in Evernote and a section in Todoist).",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Rocketbook -> Evernote -> Todoist This is a small workaround if you are the kind of person that likes to write todo's on Rocketbook pen and paper (after adding a special notebook in Evernote and a section in Todoist)."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Cool",
+    "description": "Cool Readytogo",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Cool Readytogo"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Email to Evernote to create quick add event hashtag #event in Google Calendar",
+    "description": "Email to Evernote to create quick add event hashtag #event in Google Calendar at  on  #\r\nEg: \"Meet Jane at 3PM on 11th January 2016 #event\" without quotes on the email subject. Event will be created perfectly in Google Calendar and able to check out full event description via Evernote URL",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Email to Evernote to create quick add event hashtag #event in Google Calendar at  on  #"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Eg: \"Meet Jane at 3PM on 11th January 2016 #event\" without quotes on the email subject."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Event will be created perfectly in Google Calendar and able to check out full event description via Evernote URL"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Keep track of brainstorming",
+    "description": "Keep track of brainstorming Tag a note as a brainstorm in Evernote, get it copied to Dropbox for sharing and archiving.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Keep track of brainstorming Tag a note as a brainstorm in Evernote, get it copied to Dropbox for sharing and archiving."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote - onenote",
+    "description": "evernote - onenote !",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "evernote - onenote !"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Tag in EN - Card in Trello list",
+    "description": "Tag in EN - Card in Trello list EN - Trello Recipe",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Tag in EN - Card in Trello list EN - Trello Recipe"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to WP",
+    "description": "Evernote to WP Save an note Evernote to a specific tag, and send it to WordPress as a draft. Carries over title and link of article.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to WP Save an note Evernote to a specific tag, and send it to WordPress as a draft."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Carries over title and link of article."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to trello",
+    "description": "Evernote to trello new card to trello?",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote to trello new card to trello?"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "vive",
+    "description": "vive create blogs from evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "vive create blogs from evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "create DayOne diary with evernote",
+    "description": "create DayOne diary with evernote create diary with evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "create DayOne diary with evernote create diary with evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote Tag Then Post In GroupMe",
+    "description": "Evernote Tag Then Post In GroupMe Add a tag to an Evernote note, and have it instantly shared to one of your GroupMe groups.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote Tag Then Post In GroupMe Add a tag to an Evernote note, and have it instantly shared to one of your GroupMe groups."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote To Delicious",
+    "description": "Evernote To Delicious If new note in a notebook, then add a public bookmark to shainsmith",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote To Delicious If new note in a notebook, then add a public bookmark to shainsmith"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to OneNote",
+    "description": "Evernote to OneNote Backup To OneNote",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote to OneNote Backup To OneNote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to RSS",
+    "description": "Evernote to RSS Evernote to RSS",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote to RSS Evernote to RSS"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "AT - evernote",
+    "description": "AT - evernote testing the options",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "AT - evernote testing the options"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Trello per Tag",
+    "description": "Evernote to Trello per Tag Evernote Notiz per Tag an Trello \u00fcbergeben",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Trello per Tag Evernote Notiz per Tag an Trello bergeben"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Create Event from Evernote",
+    "description": "Create Event from Evernote Tagging a note creates an event in Google calendar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Create Event from Evernote Tagging a note creates an event in Google calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "ETT",
+    "description": "ETT ETT",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "ETT ETT"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "daily evernote digest",
+    "description": "daily evernote digest evernote note book, send daily digest",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "daily evernote digest evernote note book, send daily digest"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "new note to day one",
+    "description": "new note to day one use evermemo to create new note and sync to day one",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "new note to day one use evermemo to create new note and sync to day one"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "work receipts",
+    "description": "work receipts work receipts - 7438",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "work receipts work receipts - 7438"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "word press",
+    "description": "word press from evernote to wordpress",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "word press from evernote to wordpress"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote to slack",
+    "description": "evernote to slack evernote to slack",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "evernote to slack evernote to slack"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "EvernoteToSlack",
+    "description": "EvernoteToSlack Post Notes to Slack",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "EvernoteToSlack Post Notes to Slack"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote2GCalendar",
+    "description": "Evernote2GCalendar Recordar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote2GCalendar Recordar"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Copy evernote article to pocket",
+    "description": "Copy evernote article to pocket add the tag pocket and it will call the pocket api",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Copy evernote article to pocket add the tag pocket and it will call the pocket api"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "@Business tag EN - Business list Trello",
+    "description": "@Business tag EN - Business list Trello EN - Trello Recipe",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "@Business tag EN - Business list Trello EN - Trello Recipe"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote ToDo to Google Cal",
+    "description": "Evernote ToDo to Google Cal Use the fantastic evernote tasks and calendar system to sync Gmail!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote ToDo to Google Cal Use the fantastic evernote tasks and calendar system to sync Gmail!"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Quickly save songs to Spotify",
+    "description": "Quickly save songs to Spotify Everytime a new note is created in an Evernote notebook, This Applet will automatically search for the specified track and save the first matching result to Your Music on Spotify. (Title of the new note created should be the name of the song you want to save to spotify)",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Quickly save songs to Spotify Everytime a new note is created in an Evernote notebook, This Applet will automatically search for the specified track and save the first matching result to Your Music on Spotify."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Title of the new note created should be the name of the song you want to save to spotify)"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "subscription for evernote",
+    "description": "subscription for evernote subscription for evernote",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "subscription for evernote subscription for evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Test",
+    "description": "Test News - Artikel",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Test News - Artikel"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "E to W",
+    "description": "E to W Add note in Evernote, tag it and it shows up on Wordpress.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "E to W Add note in Evernote, tag it and it shows up on Wordpress."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote to wordpress",
+    "description": "evernote to wordpress evernote to wordpress",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "evernote to wordpress evernote to wordpress"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "OneNote-Arnaldo",
+    "description": "OneNote-Arnaldo OneNote-Arnaldo",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "OneNote-Arnaldo OneNote-Arnaldo"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "note to task",
+    "description": "note to task evernote to doist",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "note to task evernote to doist"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Save Evernote Notes to Pocket To Read",
+    "description": "Save Evernote Notes to Pocket To Read I had already saved my notes in Evernote but I still want to read them in pocket. This way I can do that! I just may have to move notes in and out of the Evernote To Read notebook I had created to do so.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Save Evernote Notes to Pocket To Read I had already saved my notes in Evernote but I still want to read them in pocket."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This way I can do that!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "I just may have to move notes in and out of the Evernote To Read notebook I had created to do so."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Make a  Note in Evernote & upload a text file to Dropbox",
+    "description": "Make a  Note in Evernote & upload a text file to Dropbox made for jasmine and stephanie",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Make a  Note in Evernote & upload a text file to Dropbox made for jasmine and stephanie"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote Post log to Drive spreadsheet",
+    "description": "Evernote Post log to Drive spreadsheet Evernote Post log to Drive spreadsheet",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote Post log to Drive spreadsheet Evernote Post log to Drive spreadsheet"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "der",
+    "description": "der der",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "der der"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote Post to Wordpress",
+    "description": "Evernote Post to Wordpress Use this IFTTT to post to your wordpress site from evernote.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote Post to Wordpress Use this IFTTT to post to your wordpress site from evernote."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote note in specific notebook to photo upload to facebook page album",
+    "description": "Evernote note in specific notebook to photo upload to facebook page album Applet only pulls photo, then title and links to note if public. I've set mine to pull in tags as well.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote note in specific notebook to photo upload to facebook page album Applet only pulls photo, then title and links to note if public."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I've set mine to pull in tags as well."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Dropbox",
+    "description": "Evernote to Dropbox Tag a not in Evernote uploads to Dropbox",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Dropbox Tag a not in Evernote uploads to Dropbox"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Google Drive",
+    "description": "Evernote to Google Drive Syncing",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Google Drive Syncing"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Newly added note in Dad folder sent as email to Dad",
+    "description": "Newly added note in Dad folder sent as email to Dad Used for giving my kid restricted access to email",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Newly added note in Dad folder sent as email to Dad Used for giving my kid restricted access to email"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "If #cse in Evernote the. Post to slack engineers channel",
+    "description": "If #cse in Evernote the. Post to slack engineers channel Post from Evernote to slack.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If #cse in Evernote the."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Post to slack engineers channel Post from Evernote to slack."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote To Day One",
+    "description": "Evernote To Day One Use Evernote to create a note and add a tag to save it to a Day One journal.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote To Day One Use Evernote to create a note and add a tag to save it to a Day One journal."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "IF you add specific tag to note in evernote, THEN that note gets saved in pocket.",
+    "description": "IF you add specific tag to note in evernote, THEN that note gets saved in pocket. If you will save text notes or web articles of evernote to pocket, you'll be able to listen to that text in the speed you want even when you are offline.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "IF you add specific tag to note in evernote, THEN that note gets saved in pocket."
+      },
+      {
+        "manual-eval": 1,
+        "s": "If you will save text notes or web articles of evernote to pocket, you'll be able to listen to that text in the speed you want even when you are offline."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Recordatorio de tareas",
+    "description": "Recordatorio de tareas Conciste en crear una nota por medio de evernote de la tareas del d\u00eda o las tareas a realizar, donde se puede agregar cinco correros especiales para las tareas en equipos.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Recordatorio de tareas Conciste en crear una nota por medio de evernote de la tareas del da o las tareas a realizar, donde se puede agregar cinco correros especiales para las tareas en equipos."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Send Evernote to SMS",
+    "description": "Send Evernote to SMS Wish to share Evernote message via SMS?",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send Evernote to SMS Wish to share Evernote message via SMS?"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "EverNote to OneNote",
+    "description": "EverNote to OneNote When you create a note in a specific Book then replicate it at OneNote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "EverNote to OneNote When you create a note in a specific Book then replicate it at OneNote"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "If new link with tag RSS saved then add New Source to Feedly",
+    "description": "If new link with tag RSS saved then add New Source to Feedly If new link with tag RSS saved then add New Source to Feedly",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "If new link with tag RSS saved then add New Source to Feedly If new link with tag RSS saved then add New Source to Feedly"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "IFTTT Evernote",
+    "description": "IFTTT Evernote Backup",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "IFTTT Evernote Backup"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Day One",
+    "description": "Evernote to Day One Add a tag to an Evernote Note and send it to Day One.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Day One Add a tag to an Evernote Note and send it to Day One."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Add Notebook to Todoist",
+    "description": "Add Notebook to Todoist Add Notebook to Todoist",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Add Notebook to Todoist Add Notebook to Todoist"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Tag a note Fnord to create a google event",
+    "description": "Tag a note Fnord to create a google event Tag a note Fnord to create a google event.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Tag a note Fnord to create a google event Tag a note Fnord to create a google event."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Track job posting closing dates in Google Calendar",
+    "description": "Track job posting closing dates in Google Calendar Use Evernote Webclipper to quickadd events that mark the closing dates of job openings. When clipping the website of the job ad, put the closing date in the tag field. Google Calendar will automatically add an event to that day labelled with the title of the clipped note. Easy!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Track job posting closing dates in Google Calendar Use Evernote Webclipper to quickadd events that mark the closing dates of job openings."
+      },
+      {
+        "manual-eval": 1,
+        "s": "When clipping the website of the job ad, put the closing date in the tag field."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar will automatically add an event to that day labelled with the title of the clipped note."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Easy!"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "If Evernote, then drive",
+    "description": "If Evernote, then drive for documentation",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If Evernote, then drive for documentation"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Get notified on indoona when a new note is created in Evernote",
+    "description": "Get notified on indoona when a new note is created in Evernote Every time a new note is added to a specific Evernote notebook, you will receive a text message containing a link to the note.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Get notified on indoona when a new note is created in Evernote Every time a new note is added to a specific Evernote notebook, you will receive a text message containing a link to the note."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote tag to Trello list",
+    "description": "Evernote tag to Trello list Tag a note with a specified tag name and assign it to a trello list.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote tag to Trello list Tag a note with a specified tag name and assign it to a trello list."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Onenote migration",
+    "description": "Onenote migration Lol",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Onenote migration Lol"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Teste1",
+    "description": "Teste1 Teste",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Teste1 Teste"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote ToDo",
+    "description": "Evernote ToDo Transfert note vers Trello",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Evernote ToDo Transfert note vers Trello"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Applet Title",
+    "description": "Applet Title Notes",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Applet Title Notes"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Share tagged Evernote items on Trello",
+    "description": "Share tagged Evernote items on Trello Automatically add notes with a specific tag to Trello from Evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Share tagged Evernote items on Trello Automatically add notes with a specific tag to Trello from Evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "pine",
+    "description": "pine publish the pine psts",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "pine publish the pine psts"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "IF the note has a tag upload it to GDrive",
+    "description": "IF the note has a tag upload it to GDrive Upload each evernote notes which has a specific tag to Google Drive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "IF the note has a tag upload it to GDrive Upload each evernote notes which has a specific tag to Google Drive"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Add Evento to Calendar",
+    "description": "Add Evento to Calendar Add Event to Calendar",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Add Evento to Calendar Add Event to Calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Create a card from a taged note created with evernote",
+    "description": "Create a card from a taged note created with evernote Create a card from a taged note created with evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Create a card from a taged note created with evernote Create a card from a taged note created with evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote to wp",
+    "description": "evernote to wp NA",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "evernote to wp NA"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Dropbox",
+    "description": "Evernote to Dropbox Put #DB tag into an Evernote and that note will upload to Dropbox.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Dropbox Put #DB tag into an Evernote and that note will upload to Dropbox."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote table of content for notebook (Public sharing)",
+    "description": "Evernote table of content for notebook (Public sharing) Create a simple table of content (Public notes)",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote table of content for notebook (Public sharing) Create a simple table of content (Public notes)"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Schedule events from Evernote",
+    "description": "Schedule events from Evernote Create a Google Calendar event triggered by a new note in a Calendar notebook. The item title is the 'quick-add' description of the event e.g. 'meet Joe Tuesday at 12:00'",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Schedule events from Evernote Create a Google Calendar event triggered by a new note in a Calendar notebook."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The item title is the 'quick-add' description of the event e.g."
+      },
+      {
+        "manual-eval": 1,
+        "s": "'meet Joe Tuesday at 12:00'"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Send Evernote task to your todo.txt file in Dropbox.",
+    "description": "Send Evernote task to your todo.txt file in Dropbox. If you add #todo.txt tag to a note in Evernote, then append that note title as a \"todo\" to the todo.txt text file in Dropbox.\r\n\r\nThe task will appear in your todo.txt file in the format  @Evernote  [e.g. Your Evernote title is \"+Bank Apply for Loan @phone\" the todo.txt file will have a task appended that looks like \"+Bank Apply for Loan @phone @Evernote http://ift.tt/2b92FfA\"\r\n\r\nOnly the title gets sent so include all your \"todo.txt tags\" in the Evernote title (don't use the Evernote tag feature for this).\r\n\r\nMore about todo.txt at http://todotxt.com/\r\n\r\nIf you use Pomodoro Technique, \"Clockwork Tomato\" integrates the todo.txt file! https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato&hl=en_GB",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send Evernote task to your todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt file in Dropbox."
+      },
+      {
+        "manual-eval": 1,
+        "s": "If you add #todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt tag to a note in Evernote, then append that note title as a \"todo\" to the todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt text file in Dropbox."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The task will appear in your todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt file in the format  @Evernote  [e.g."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Your Evernote title is \"+Bank Apply for Loan @phone\" the todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt file will have a task appended that looks like \"+Bank Apply for Loan @phone @Evernote http://ift.tt/2b92FfA\""
+      },
+      {
+        "manual-eval": 1,
+        "s": "Only the title gets sent so include all your \"todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt tags\" in the Evernote title (don't use the Evernote tag feature for this)."
+      },
+      {
+        "manual-eval": 1,
+        "s": "More about todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt at http://todotxt.com/"
+      },
+      {
+        "manual-eval": 1,
+        "s": "If you use Pomodoro Technique, \"Clockwork Tomato\" integrates the todo."
+      },
+      {
+        "manual-eval": 1,
+        "s": "txt file!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato&hl=en_GB"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "News from evernote",
+    "description": "News from evernote News from evernote",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "News from evernote News from evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Google Sheets",
+    "description": "Evernote to Google Sheets testing",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Google Sheets testing"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Back up Evernote",
+    "description": "Back up Evernote This backs up Evernote into your Google Drive. I am a Student and they encourage us to use Google drive, but I use Evernote too much. So I made this to add my notes from Evernote tagged \"School\" to add to my Google drive, so I don't have to add them in later. You can also change the tag for your different classes you have. Hope you find this as useful as I do!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Back up Evernote This backs up Evernote into your Google Drive."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I am a Student and they encourage us to use Google drive, but I use Evernote too much."
+      },
+      {
+        "manual-eval": 1,
+        "s": "So I made this to add my notes from Evernote tagged \"School\" to add to my Google drive, so I don't have to add them in later."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You can also change the tag for your different classes you have."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Hope you find this as useful as I do!"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "From Evernote to Day One",
+    "description": "From Evernote to Day One I made this as there isn't a \"DO\" action for Day One. You will need to use the other half of this recipe to make this work (Recipe ID 41586650). Make sure your tags and notebooks all have the same name, it will make it easier to track.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "From Evernote to Day One I made this as there isn't a \"DO\" action for Day One."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You will need to use the other half of this recipe to make this work (Recipe ID 41586650)."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Make sure your tags and notebooks all have the same name, it will make it easier to track."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "blog",
+    "description": "blog cada tag blog manda direto pro blog",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "blog cada tag blog manda direto pro blog"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote bookmarks to Pocket",
+    "description": "Evernote bookmarks to Pocket Get our Evernote bookmarks into Pocket",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote bookmarks to Pocket Get our Evernote bookmarks into Pocket"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "hello !",
+    "description": "hello ! sdaf",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "hello !"
+      },
+      {
+        "manual-eval": 0,
+        "s": "sdaf"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Drive",
+    "description": "Evernote to Drive Evernote to Drive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Drive Evernote to Drive"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Notes in Evernote *INBOX* logged in Google Drive",
+    "description": "Notes in Evernote *INBOX* logged in Google Drive This is part of a much bigger project to build a personal dashboard. Find me on GitHub to read more github.com/barnwellsteve",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notes in Evernote *INBOX* logged in Google Drive This is part of a much bigger project to build a personal dashboard."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Find me on GitHub to read more github.com/barnwellsteve"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Send Evernote Note to OmniFocus",
+    "description": "Send Evernote Note to OmniFocus Send your specified Evernote Note (tagged with omnifocus ) to OmniFocus. (Get your OmniFocus Mail Drop email address from OmniFocus)",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send Evernote Note to OmniFocus Send your specified Evernote Note (tagged with omnifocus ) to OmniFocus."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Get your OmniFocus Mail Drop email address from OmniFocus)"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Recordatorio de Tareas",
+    "description": "Recordatorio de Tareas Sirve para tener todas las tareas al d\u00eda y en su correo.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Recordatorio de Tareas Sirve para tener todas las tareas al da y en su correo."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Tag an Evernote Note and Publish a Draft Post on Wordpress",
+    "description": "Tag an Evernote Note and Publish a Draft Post on Wordpress Add a specific tag to any note in Evernote and the note will be copied to Wordpress as a draft post",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Tag an Evernote Note and Publish a Draft Post on Wordpress Add a specific tag to any note in Evernote and the note will be copied to Wordpress as a draft post"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Create ToodledoTasks from Evernote",
+    "description": "Create ToodledoTasks from Evernote Send notes from Evernote to Toodledo by adding a custom tag. You can customize it however you like.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Create ToodledoTasks from Evernote Send notes from Evernote to Toodledo by adding a custom tag."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can customize it however you like."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Create a Wordpress Blog Post from Evernote",
+    "description": "Create a Wordpress Blog Post from Evernote A new note on  Evernote Notebook will trigger the note to be published on Wordpress blogg",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Create a Wordpress Blog Post from Evernote A new note on  Evernote Notebook will trigger the note to be published on Wordpress blogg"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote contact to Google contact",
+    "description": "Evernote contact to Google contact Still need to figure out how to automate data within the Evernote Business Card like email and phone.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote contact to Google contact Still need to figure out how to automate data within the Evernote Business Card like email and phone."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Print note with specific tag",
+    "description": "Print note with specific tag This recipe will print your notes that are tagged with the label you specify.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Print note with specific tag This recipe will print your notes that are tagged with the label you specify."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "EvernoteCalendar",
+    "description": "EvernoteCalendar create google cal event when tagged from Evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "EvernoteCalendar create google cal event when tagged from Evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Quickly add a Calendar Event from evernote",
+    "description": "Quickly add a Calendar Event from evernote Instructions:\r\nClip all of the relevant details of an event to your Evernote journal\r\nThe results will be processed and synced with your calendar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Quickly add a Calendar Event from evernote Instructions:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Clip all of the relevant details of an event to your Evernote journal"
+      },
+      {
+        "manual-eval": 1,
+        "s": "The results will be processed and synced with your calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "If a note has specific tag in Evernot, post message in Slack",
+    "description": "If a note has specific tag in Evernot, post message in Slack Just add the tag to look for and the Slack channel",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If a note has specific tag in Evernot, post message in Slack Just add the tag to look for and the Slack channel"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Todd's Evernote to Mozaic - save",
+    "description": "Todd's Evernote to Mozaic - save Type in the word \"save\" and any note in Evernote can be saved to Mozaic's blog as a draft",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Todd's Evernote to Mozaic - save Type in the word \"save\" and any note in Evernote can be saved to Mozaic's blog as a draft"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Copy Evernotes to Diigo",
+    "description": "Copy Evernotes to Diigo To copy your Evernotes into Diigo, just add the 'Diigo' tag and watch the sparks fly!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Copy Evernotes to Diigo To copy your Evernotes into Diigo, just add the 'Diigo' tag and watch the sparks fly!"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Trello",
+    "description": "Evernote to Trello Evernote Tasks To Trello",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Trello Evernote Tasks To Trello"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Crear carpeta f\u00edsica CT",
+    "description": "Crear carpeta f\u00edsica CT Carpeta bibliorato",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Crear carpeta fsica CT Carpeta bibliorato"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote to Calendar",
+    "description": "Evernote to Calendar Create",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote to Calendar Create"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Evernote-Trello",
+    "description": "Evernote-Trello Evernote",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Evernote-Trello Evernote"
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "evernote to Wordpress",
+    "description": "evernote to Wordpress evernote to wordpress",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "evernote to Wordpress evernote to wordpress"
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "redundant_note",
+    "description": "redundant_note Over Redundant IoT.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "redundant_note Over Redundant IoT."
+      }
+    ],
+    "permissions": [
+      "trigger : Add a specific tag to note (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : Add a specific tag to note (Evernote-trigger)",
+
+  },
+  {
+    "app": "Email digest for new Evernote content",
+    "description": "Email digest for new Evernote content Email digest for new Evernote content. Can be sent daily or weekly.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Email digest for new Evernote content Email digest for new Evernote content."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Can be sent daily or weekly."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  },
+  {
+    "app": "Crear evento en Calendar para notas de Evernote",
+    "description": "Crear evento en Calendar para notas de Evernote Mediante esta receta puedes crear un evento en Calendar por cada nota de Evernote.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Crear evento en Calendar para notas de Evernote Mediante esta receta puedes crear un evento en Calendar por cada nota de Evernote."
+      }
+    ],
+    "permissions": [
+      "trigger : New note in a notebook (Evernote-trigger)"
+    ],
+    "consider_perm": "trigger : New note in a notebook (Evernote-trigger)",
+
+  }
+]

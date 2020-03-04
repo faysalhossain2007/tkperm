@@ -1,0 +1,881 @@
+[
+  {
+    "app": "Whenever you add a new Google contact mark it in your Google Calendar",
+    "description": "Whenever you add a new Google contact mark it in your Google Calendar Remember exactly when you met new contacts by automatically adding an event in your Google calendar.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Whenever you add a new Google contact mark it in your Google Calendar Remember exactly when you met new contacts by automatically adding an event in your Google calendar."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Save new Google contacts to a Google Drive spreadsheet",
+    "description": "Save new Google contacts to a Google Drive spreadsheet This Recipe will save new contacts to a Google Drive spreadsheet.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Save new Google contacts to a Google Drive spreadsheet This Recipe will save new contacts to a Google Drive spreadsheet."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Save group contacts to a note in Evernote",
+    "description": "Save group contacts to a note in Evernote This Recipe will save new contacts added to a specific group in a note on Evernote.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Save group contacts to a note in Evernote This Recipe will save new contacts added to a specific group in a note on Evernote."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Turn new Google Contacts into sales leads on Salesforce",
+    "description": "Turn new Google Contacts into sales leads on Salesforce This Recipe will insert a new record into Salesforce for every new Google Contact.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Turn new Google Contacts into sales leads on Salesforce This Recipe will insert a new record into Salesforce for every new Google Contact."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Add new contact information to Google Drive when created in Google contacts",
+    "description": "Add new contact information to Google Drive when created in Google contacts Adjust if necessary",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add new contact information to Google Drive when created in Google contacts Adjust if necessary"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Novo contacto add linha em google doc",
+    "description": "Novo contacto add linha em google doc Novo contacto add linha em google doc",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Novo contacto add linha em google doc Novo contacto add linha em google doc"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Trello contacts board",
+    "description": "Trello contacts board Adds any new google contact to a dedicated trello board",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Trello contacts board Adds any new google contact to a dedicated trello board"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "IBO Connections Automated List",
+    "description": "IBO Connections Automated List When you add a connection to your android smartphone, it automatically uploads that contact to your google sheets contact spreadsheet so that you can start contacting prospects ASAP! Just make sure you fill in EVERY single option in your contact's details, blank items will not be entered into the spreadsheet and may be placed in the wrong column (if empty, just write 'unknown')",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "IBO Connections Automated List When you add a connection to your android smartphone, it automatically uploads that contact to your google sheets contact spreadsheet so that you can start contacting prospects ASAP!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Just make sure you fill in EVERY single option in your contact's details, blank items will not be entered into the spreadsheet and may be placed in the wrong column (if empty, just write 'unknown')"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Backup Contacts to Google Drive",
+    "description": "Backup Contacts to Google Drive when a contact is added a line is added to a contacts spreadsheet",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Backup Contacts to Google Drive when a contact is added a line is added to a contacts spreadsheet"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Backup de contatos",
+    "description": "Backup de contatos Ao salvar um contato, ir\u00e1 acrescentar a uma planilha no Drive.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Backup de contatos Ao salvar um contato, ir acrescentar a uma planilha no Drive."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "If new contact added, then Create a note in  Evernote by Jitu Das recipes",
+    "description": "If new contact added, then Create a note in  Evernote by Jitu Das recipes When you save a new contact to google account, after syncing, Evernote will create a notebook ( keep blank for default, or create a notebook \" Phonebook\" in Evernote, then add the notebook name.  After that you are done.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If new contact added, then Create a note in  Evernote by Jitu Das recipes When you save a new contact to google account, after syncing, Evernote will create a notebook ( keep blank for default, or create a notebook \" Phonebook\" in Evernote, then add the notebook name."
+      },
+      {
+        "manual-eval": 0,
+        "s": "After that you are done."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Add new Google contacts to a spreadsheet in Google Drive",
+    "description": "Add new Google contacts to a spreadsheet in Google Drive Link your Google/Gmail contacts to have new contacts saved into a spreadsheet. Good for if you need to provide someone with a list of contacts and how to reach them.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add new Google contacts to a spreadsheet in Google Drive Link your Google/Gmail contacts to have new contacts saved into a spreadsheet."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Good for if you need to provide someone with a list of contacts and how to reach them."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "New Google Contact to Day One Entry",
+    "description": "New Google Contact to Day One Entry This Applet will add every new Google Contact to your Day One journal",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "New Google Contact to Day One Entry This Applet will add every new Google Contact to your Day One journal"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Google Contacts to Box",
+    "description": "Google Contacts to Box Append to a note in Box",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Contacts to Box Append to a note in Box"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Duplicate contact from google to Microsoft",
+    "description": "Duplicate contact from google to Microsoft any new contact added on google is duplicated on Microsoft",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Duplicate contact from google to Microsoft any new contact added on google is duplicated on Microsoft"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "google contacts backup",
+    "description": "google contacts backup contacts to spread sheet",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "google contacts backup contacts to spread sheet"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Contact List to Google Sheet",
+    "description": "Contact List to Google Sheet If a new contact is created it is added to a google sheet.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Contact List to Google Sheet If a new contact is created it is added to a google sheet."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "New Acquaintance",
+    "description": "New Acquaintance A journal entry for when a new contact was last created.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "New Acquaintance A journal entry for when a new contact was last created."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "GOOGLE CONTACTS INFORMATION TO SMS",
+    "description": "GOOGLE CONTACTS INFORMATION TO SMS Add a Google Contact, and then send this information in a SMS.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "GOOGLE CONTACTS INFORMATION TO SMS Add a Google Contact, and then send this information in a SMS."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "If new contact added, then quick add event to my google calender.",
+    "description": "If new contact added, then quick add event to my google calender. This is just to know that when you'd saved the contact number of your friends, coworkers, family, or anyone that matters. Also usefull for keeping the track that when, & how the contact number are stored in your phone, so you can remeorised the things.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If new contact added, then quick add event to my google calender."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This is just to know that when you'd saved the contact number of your friends, coworkers, family, or anyone that matters."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Also usefull for keeping the track that when, & how the contact number are stored in your phone, so you can remeorised the things."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Whenever I add a new Google contact, mark it in my Google Calendar #graajkumaar",
+    "description": "Whenever I add a new Google contact, mark it in my Google Calendar #graajkumaar Trigger Channel: GOOGLE CONTACTS\r\nNew contact added: This Trigger fires every time a new Google Contact is created.\r\n\r\nAction Channel: GOOGLE CALENDAR\r\nQuick add event: This Action will add an event to your Google Calendar. Simply include a detailed description of when and what.\r\n\r\nIf new contact added, then quick add event to microsoft@hotmail.com.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Whenever I add a new Google contact, mark it in my Google Calendar #graajkumaar Trigger Channel: GOOGLE CONTACTS"
+      },
+      {
+        "manual-eval": 1,
+        "s": "New contact added: This Trigger fires every time a new Google Contact is created."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Action Channel: GOOGLE CALENDAR"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Quick add event: This Action will add an event to your Google Calendar."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Simply include a detailed description of when and what."
+      },
+      {
+        "manual-eval": 1,
+        "s": "If new contact added, then quick add event to microsoft@hotmail.com."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Automatically save/sync/upload my new Google contacts to a Google Drive spreadsheet #graajkumaar",
+    "description": "Automatically save/sync/upload my new Google contacts to a Google Drive spreadsheet #graajkumaar Trigger service: GOOGLE CONTACTS\r\nNew contact added: This Trigger fires every time a new Google Contact is created.\r\n\r\nAction service: GOOGLE DRIVE\r\nAdd row to spreadsheet: This Action will add a single row to the bottom of the first worksheet of the spreadsheet you specify. NOTE: A new spreadsheet is created after 2000 rows.\r\n\r\nIf new contact added, then add row to spreadsheet in Microsoft@Hotmail.com\u2019s Google Drive.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Automatically save/sync/upload my new Google contacts to a Google Drive spreadsheet #graajkumaar Trigger service: GOOGLE CONTACTS"
+      },
+      {
+        "manual-eval": 1,
+        "s": "New contact added: This Trigger fires every time a new Google Contact is created."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Action service: GOOGLE DRIVE"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Add row to spreadsheet: This Action will add a single row to the bottom of the first worksheet of the spreadsheet you specify."
+      },
+      {
+        "manual-eval": 0,
+        "s": "NOTE: A new spreadsheet is created after 2000 rows."
+      },
+      {
+        "manual-eval": 1,
+        "s": "If new contact added, then add row to spreadsheet in Microsoft@Hotmail."
+      },
+      {
+        "manual-eval": 0,
+        "s": "coms Google Drive."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "save Google contacts easyer",
+    "description": "save Google contacts easyer if add new contact on Google , then it is saved to GDrive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "save Google contacts easyer if add new contact on Google , then it is saved to GDrive"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Add new Google Contacts in a group to a SurveyMonkey contact list",
+    "description": "Add new Google Contacts in a group to a SurveyMonkey contact list When you add new contacts to the specified group, it will be saved a list in SurveyMonkey. Note: Name & Email address required",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add new Google Contacts in a group to a SurveyMonkey contact list When you add new contacts to the specified group, it will be saved a list in SurveyMonkey."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Note: Name & Email address required"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Add calendar event when a google contact is added",
+    "description": "Add calendar event when a google contact is added I always meet people and get their phone numbers then forget their name or where and how I met them. Well, this should help!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add calendar event when a google contact is added I always meet people and get their phone numbers then forget their name or where and how I met them."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Well, this should help!"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "If new Google Contact is added, add to Office365 (1 way sync, Google contacts is primary)",
+    "description": "If new Google Contact is added, add to Office365 (1 way sync, Google contacts is primary) If new Google Contact is added, add to Office365 (1 way sync, Google contacts is primary)",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If new Google Contact is added, add to Office365 (1 way sync, Google contacts is primary) If new Google Contact is added, add to Office365 (1 way sync, Google contacts is primary)"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Add Google Contacts to a Spreadsheet",
+    "description": "Add Google Contacts to a Spreadsheet Adds a new line to a spreadsheet whenever you add a new contact to Google Contacts.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Google Contacts to a Spreadsheet Adds a new line to a spreadsheet whenever you add a new contact to Google Contacts."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Contact Groups .cvs List Maker",
+    "description": "Contact Groups .cvs List Maker A fast easy DIY way to quickly make a uploadable .cvs Twitter Elite Blocked Contacts List which keeps itself updated perpetually &  magically via IOT!  \r\n\r\nHow to access the .cvs? \r\nsee here http://bit.ly/2alCYxn\r\n\r\nShare it well and hard!\r\n\r\nCome find me on Twitter!\r\n...or in here \r\nhttps://goo.gl/spaces/UB55rnQrKgSmmBot6\r\n\r\n\r\nHugz! \r\nIcey Hawt",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Contact Groups .cvs List Maker A fast easy DIY way to quickly make a uploadable .cvs Twitter Elite Blocked Contacts List which keeps itself updated perpetually &  magically via IOT!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "How to access the .cvs?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "see here http://bit.ly/2alCYxn"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Share it well and hard!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Come find me on Twitter!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "...or in here"
+      },
+      {
+        "manual-eval": 0,
+        "s": "https://goo.gl/spaces/UB55rnQrKgSmmBot6"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Hugz!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Icey Hawt"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Add New Google Contacts to Mail Chimp Newsletter",
+    "description": "Add New Google Contacts to Mail Chimp Newsletter Since Gmail automatically adds your email senders to google contacts, why not add them to your Newsletter?",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add New Google Contacts to Mail Chimp Newsletter Since Gmail automatically adds your email senders to google contacts, why not add them to your Newsletter?"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "If new contact added, then send an email from choekwangmo@gmail.com",
+    "description": "If new contact added, then send an email from choekwangmo@gmail.com If new contact added, then send an email from choekwangmo@gmail.com",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If new contact added, then send an email from choekwangmo@gmail."
+      },
+      {
+        "manual-eval": 1,
+        "s": "com If new contact added, then send an email from choekwangmo@gmail.com"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Add Blocked Contacts to a Twitter  uploadable .CVS File",
+    "description": "Add Blocked Contacts to a Twitter  uploadable .CVS File Similar but improved over my last one. Title is self-explanatory. Share it hard & well! Modify to suit your needs!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Blocked Contacts to a Twitter  uploadable .CVS File Similar but improved over my last one."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Title is self-explanatory."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Share it hard & well!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Modify to suit your needs!"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Google Contacts -> Mailchimp",
+    "description": "Google Contacts -> Mailchimp Adds Google contacts in a group to MailChimp",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Contacts -> Mailchimp Adds Google contacts in a group to MailChimp"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Google to Mailchimp",
+    "description": "Google to Mailchimp Clients",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Google to Mailchimp Clients"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Google Calendar note when new contact is added",
+    "description": "Google Calendar note when new contact is added When you add a new contact to your google contacts, keep a record of who, where and when in your google calendar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar note when new contact is added When you add a new contact to your google contacts, keep a record of who, where and when in your google calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "ContactAdded",
+    "description": "ContactAdded ContactAddToDB",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "ContactAdded ContactAddToDB"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Save your all new contacts in a text file at Dropbox.",
+    "description": "Save your all new contacts in a text file at Dropbox. Nothing to add. Enjoy.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Save your all new contacts in a text file at Dropbox."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Nothing to add."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Enjoy."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Contact Notification",
+    "description": "Contact Notification It will be add notification.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Contact Notification It will be add notification."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Contacts",
+    "description": "Contacts Google contacts",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Contacts Google contacts"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Google Contacts Sync",
+    "description": "Google Contacts Sync if new contact then add to spreadsheet.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Contacts Sync if new contact then add to spreadsheet."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Contacts",
+    "description": "Contacts if new contact add to spreadsheet.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Contacts if new contact add to spreadsheet."
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Copy google contacts to onenote",
+    "description": "Copy google contacts to onenote get all the contacts from your google contacts to one note",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Copy google contacts to onenote get all the contacts from your google contacts to one note"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Whenever I add a new Google contact mark it in my Google Calendar",
+    "description": "Whenever I add a new Google contact mark it in my Google Calendar Whenever I add a new Google contact mark it in my Google Calendar",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Whenever I add a new Google contact mark it in my Google Calendar Whenever I add a new Google contact mark it in my Google Calendar"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "if Google Contact then evernote",
+    "description": "if Google Contact then evernote follow-up to contact",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "if Google Contact then evernote follow-up to contact"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "google contacts to mailchimp",
+    "description": "google contacts to mailchimp adds new google contact to mailchimp",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "google contacts to mailchimp adds new google contact to mailchimp"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "Add Contacts to Google Sheets",
+    "description": "Add Contacts to Google Sheets Contacts to google sheets",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Contacts to Google Sheets Contacts to google sheets"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Google Contacts to Google Drive Spreadsheet",
+    "description": "Google Contacts to Google Drive Spreadsheet Google Contacts to Google Drive Spreadsheet",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Contacts to Google Drive Spreadsheet Google Contacts to Google Drive Spreadsheet"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added"
+    ],
+    "consider_perm": "trigger : New contact added",
+
+  },
+  {
+    "app": "YSA email automation",
+    "description": "YSA email automation New member email tree",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "YSA email automation New member email tree"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Contacts to Drive",
+    "description": "Contacts to Drive Contacts to Drive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Contacts to Drive Contacts to Drive"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  },
+  {
+    "app": "Back up Google contacts to Google Drive when you move them into a specific group",
+    "description": "Back up Google contacts to Google Drive when you move them into a specific group Just discovered an Applet to back up all your new contacts, but wondering how to easily transfer your old ones? We got you. Create a Google Contact group called \"Vintage\" (or the name of your choice). Configure this Applet with the Group name and move your pre-IFTTT contacts into it. Boom!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Back up Google contacts to Google Drive when you move them into a specific group Just discovered an Applet to back up all your new contacts, but wondering how to easily transfer your old ones?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "We got you."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Create a Google Contact group called \"Vintage\" (or the name of your choice)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Configure this Applet with the Group name and move your pre-IFTTT contacts into it."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Boom!"
+      }
+    ],
+    "permissions": [
+      "trigger : New contact added to group"
+    ],
+    "consider_perm": "trigger : New contact added to group",
+
+  }
+]

@@ -1,0 +1,893 @@
+[
+  {
+    "name": "notify me when",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "receive notifications when anything happens in your home.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "receive notifications when anything happens in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "photo burst when...",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "take a burst of photos and send a push notification when...",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "take a burst of photos and send a push notification when",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "rise and shine",
+    "manual-doc-label": "1",
+    "category": "mode magic",
+    "description": "changes mode when someone wakes up after a set time in the morning.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "changes mode when someone wakes up after a set time in the morning",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "smart care - detect motion",
+    "manual-doc-label": "1",
+    "category": "family",
+    "description": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "smart care - detect motion",
+    "manual-doc-label": "1",
+    "category": "family",
+    "description": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "the flasher",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "flashes a set of lights in response to motion, an open/close event, or a switch.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "flashes a set of lights in response to motion, an open/close event, or a switch",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "smart security",
+    "manual-doc-label": "1",
+    "category": "safety & security",
+    "description": "alerts you when there are intruders but not when you just got up for a glass of water in the middle of the night",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "alerts you when there are intruders but not when you just got up for a glass of water in the middle of the night",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "smart security",
+    "manual-doc-label": "1",
+    "category": "safety & security",
+    "description": "alerts you when there are intruders but not when you just got up for a glass of water in the middle of the night",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "alerts you when there are intruders but not when you just got up for a glass of water in the middle of the night",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "smart care: daily routine",
+    "manual-doc-label": "0",
+    "category": "family",
+    "description": "stay connected to your loved ones. get notified if they are not up and moving around by a specified time and/or if they have not opened a cabinet or door according to a set schedule.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "stay connected to your loved ones",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": " get notified if they are not up and moving around by a specified time and/or if they have not opened a cabinet or door according to a set schedule",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "ifttt",
+    "manual-doc-label": "0",
+    "category": "smartthings internal",
+    "description": "put the internet to work for you.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "put the internet to work for you",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "smart nightlight",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turns on lights when it's dark and motion is detected. turns lights off when it becomes light or some time after motion ceases.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "turns on lights when it's dark and motion is detected",
+        "manual-sent-label": "1"
+      },
+      {
+        "sentence": " turns lights off when it becomes light or some time after motion ceases",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "logitech harmony (connect)",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "allows you to integrate your logitech harmony account with smartthings.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "allows you to integrate your logitech harmony account with smartthings",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "good night",
+    "manual-doc-label": "1",
+    "category": "mode magic",
+    "description": "changes mode when motion ceases after a specific time of night.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "changes mode when motion ceases after a specific time of night",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "elder care: daily routine",
+    "manual-doc-label": "0",
+    "category": "family",
+    "description": "stay connected to your loved ones. get notified if they are not up and moving around by a specified time and/or if they have not opened a cabinet or door according to a set schedule.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "stay connected to your loved ones",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": " get notified if they are not up and moving around by a specified time and/or if they have not opened a cabinet or door according to a set schedule",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "light follows me",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn your lights on when motion is detected and then off again once the motion stops for a set period of time.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "turn your lights on when motion is detected and then off again once the motion stops for a set period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "speaker control",
+    "manual-doc-label": "1",
+    "category": "smartthings labs",
+    "description": "play or pause your speaker when certain actions take place in your home.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "play or pause your speaker when certain actions take place in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "speaker control",
+    "manual-doc-label": "1",
+    "category": "smartthings labs",
+    "description": "play or pause your speaker when certain actions take place in your home.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "play or pause your speaker when certain actions take place in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "speaker notify with sound",
+    "manual-doc-label": "1",
+    "category": "smartthings labs",
+    "description": "play a sound or custom message through your speaker when the mode changes or other events occur.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "play a sound or custom message through your speaker when the mode changes or other events occur",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "speaker notify with sound",
+    "manual-doc-label": "1",
+    "category": "smartthings labs",
+    "description": "play a sound or custom message through your speaker when the mode changes or other events occur.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "play a sound or custom message through your speaker when the mode changes or other events occur",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "curling iron",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turns on an outlet when the user is present and off after a period of time",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "turns on an outlet when the user is present and off after a period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "ubi",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "description": "add your ubi device to your smartthings account",
+    "manual-doc-label": "0",
+    "sentence-list": [
+      {
+        "sentence": "add your ubi device to your smartthings account",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "hue mood lighting",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "sets the colors and brightness level of your philips hue lights to match your mood.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "sets the colors and brightness level of your philips hue lights to match your mood",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "hue mood lighting",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "sets the colors and brightness level of your philips hue lights to match your mood.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "sets the colors and brightness level of your philips hue lights to match your mood",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "send ham bridge command when",
+    "manual-doc-label": "0",
+    "category": "convenience",
+    "description": "sends a command to your ham bridge server when smartthings are activated.",
+    "author": "scottin pollock",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "sends a command to your ham bridge server when smartthings are activated",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "speaker weather forecast",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "play a weather report through your speaker when the mode changes or other events occur",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "play a weather report through your speaker when the mode changes or other events occur",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "speaker weather forecast",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "play a weather report through your speaker when the mode changes or other events occur",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "play a weather report through your speaker when the mode changes or other events occur",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "darken behind me",
+    "manual-doc-label": "0",
+    "category": "convenience",
+    "description": "turn your lights off after a period of no motion being observed.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "turn your lights off after a period of no motion being observed",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "speaker mood music",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "plays a selected song or station.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "plays a selected song or station",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "speaker mood music",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "plays a selected song or station.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "plays a selected song or station",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "elder care: slip & fall",
+    "manual-doc-label": "1",
+    "category": "family",
+    "description": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "elder care: slip & fall",
+    "manual-doc-label": "1",
+    "category": "family",
+    "description": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "text me when there's motion and i'm not here",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "send a text message when there is motion while you are away.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "send a text message when there is motion while you are away",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "notify me with hue",
+    "manual-doc-label": "1",
+    "category": "smartthings labs",
+    "description": "changes the color and brightness of philips hue bulbs when any of a variety of smartthings is activated.  supports motion, contact, acceleration, moisture and presence sensors as well as switches.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "changes the color and brightness of philips hue bulbs when any of a variety of smartthings is activated",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": "  supports motion, contact, acceleration, moisture and presence sensors as well as switches",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "brighten my path",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn your lights on when motion is detected.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "turn your lights on when motion is detected",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "virtual thermostat",
+    "manual-doc-label": "0",
+    "category": "green living",
+    "description": "control a space heater or window air conditioner in conjunction with any temperature sensor, like a smartsense multi.",
+    "author": "smartthings",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "control a space heater or window air conditioner in conjunction with any temperature sensor, like a smartsense multi",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "bose\u00ae soundtouch\u00ae control",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "control your bose\u00ae soundtouch\u00ae when certain actions take place in your home.",
+    "author": "smartthings & joe geiger",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "control your bose\u00ae soundtouch\u00ae when certain actions take place in your home",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "bose\u00ae soundtouch\u00ae control",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "control your bose\u00ae soundtouch\u00ae when certain actions take place in your home.",
+    "author": "smartthings & joe geiger",
+    "namespace": "smartthings",
+    "sentence-list": [
+      {
+        "sentence": "control your bose\u00ae soundtouch\u00ae when certain actions take place in your home",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "my light toggle",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "toggle lights on/off with a motion sensor",
+    "author": "jesse silverberg",
+    "namespace": "jls",
+    "sentence-list": [
+      {
+        "sentence": "toggle lights on/off with a motion sensor",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "turn off with motion",
+    "manual-doc-label": "1",
+    "category": "my apps",
+    "description": "turns off a device if there is motion",
+    "author": "kristopher kubicki",
+    "namespace": "kristopherkubicki",
+    "sentence-list": [
+      {
+        "sentence": "turns off a device if there is motion",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "smart alarm",
+    "manual-doc-label": "0",
+    "category": "safety & security",
+    "description": "''a multi-zone virtual alarm panel, featuring customizabl",
+    "author": "geko@statusbits.com",
+    "namespace": "statusbits",
+    "sentence-list": [
+      {
+        "sentence": "''a multi-zone virtual alarm panel, featuring customizabl",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "lights off with no motion and presence",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn lights off when no motion and presence is detected for a set period of time.",
+    "author": "bruce adelsman",
+    "namespace": "naissan",
+    "sentence-list": [
+      {
+        "sentence": "turn lights off when no motion and presence is detected for a set period of time",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "lighting director",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "author": "tim slagle & michael struck",
+    "namespace": "tslagle13",
+    "sentence-list": [
+      {
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "lighting director",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "author": "tim slagle & michael struck",
+    "namespace": "tslagle13",
+    "sentence-list": [
+      {
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "lighting director",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "author": "tim slagle & michael struck",
+    "namespace": "tslagle13",
+    "sentence-list": [
+      {
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "lighting director",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "author": "tim slagle & michael struck",
+    "namespace": "tslagle13",
+    "sentence-list": [
+      {
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "forgiving security",
+    "manual-doc-label": "0",
+    "category": "safety & security",
+    "description": "alerts you if something happens while you're away.  has a settable grace period to compensate for presence sensors that may take a few seconds to be noticed.",
+    "author": "brian@bevey.org",
+    "namespace": "imbrianj",
+    "sentence-list": [
+      {
+        "sentence": "alerts you if something happens while you're away",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": "  has a settable grace period to compensate for presence sensors that may take a few seconds to be noticed",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "safe watch",
+    "manual-doc-label": "0",
+    "category": "safety & security",
+    "description": "watch a series of sensors for any anomalies for securing a safe.",
+    "author": "brian@bevey.org",
+    "namespace": "imbrianj",
+    "sentence-list": [
+      {
+        "sentence": "watch a series of sensors for any anomalies for securing a safe",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "initial state event streamer",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "a smartthings smartapp to allow smartthings events to be viewable inside an initial state event bucket in your https://www.initialstate.com account.",
+    "author": "david sulpy",
+    "namespace": "initialstate.events",
+    "sentence-list": [
+      {
+        "sentence": "a smartthings smartapp to allow smartthings events to be viewable inside an initial state event bucket in your https://www",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": "initialstate",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": "com account",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "gideon",
+    "manual-doc-label": "0",
+    "category": "family",
+    "description": "gideon ai smart app allows you to connect and control all of your smartthings devices through the gideon ai app, making your smartthings devices even smarter.",
+    "author": "braindrain solutions",
+    "namespace": "gideon.api",
+    "sentence-list": [
+      {
+        "sentence": "gideon ai smart app allows you to connect and control all of your smartthings devices through the gideon ai app, making your smartthings devices even smarter",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "gideon smart home",
+    "manual-doc-label": "0",
+    "category": "family",
+    "description": "gideon smart home smartapp allows you to connect and control all of your smartthings devices through the gideon app, making your smartthings devices even smarter.",
+    "author": "braindrain solutions ltd",
+    "namespace": "gideon.api",
+    "sentence-list": [
+      {
+        "sentence": "gideon smart home smartapp allows you to connect and control all of your smartthings devices through the gideon app, making your smartthings devices even smarter",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "smart light timer, x minutes unless already on",
+    "manual-doc-label": "0",
+    "category": "convenience",
+    "description": "turns on a switch for x minutes, then turns it off. unless, the switch is already on, in which case it stays on. if the switch is toggled while the timer is running, the timer is canceled.",
+    "author": "listpope@cox.net",
+    "namespace": "pope",
+    "sentence-list": [
+      {
+        "sentence": "turns on a switch for x minutes, then turns it off",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": " unless, the switch is already on, in which case it stays on",
+        "manual-sent-label": "0"
+      },
+      {
+        "sentence": " if the switch is toggled while the timer is running, the timer is canceled",
+        "manual-sent-label": "0"
+      }
+    ]
+  },
+  {
+    "name": "bright when dark and/or bright after sunset",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise. then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement.",
+    "author": "arnaud",
+    "namespace": "arno",
+    "sentence-list": [
+      {
+        "sentence": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise",
+        "manual-sent-label": "1"
+      },
+      {
+        "sentence": " then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "bright when dark and/or bright after sunset",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise. then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement.",
+    "author": "arnaud",
+    "namespace": "arno",
+    "sentence-list": [
+      {
+        "sentence": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise",
+        "manual-sent-label": "1"
+      },
+      {
+        "sentence": " then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "bright when dark and/or bright after sunset",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise. then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement.",
+    "author": "arnaud",
+    "namespace": "arno",
+    "sentence-list": [
+      {
+        "sentence": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise",
+        "manual-sent-label": "1"
+      },
+      {
+        "sentence": " then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "bright when dark and/or bright after sunset",
+    "manual-doc-label": "1",
+    "category": "convenience",
+    "description": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise. then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement.",
+    "author": "arnaud",
+    "namespace": "arno",
+    "sentence-list": [
+      {
+        "sentence": "turn on light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise",
+        "manual-sent-label": "1"
+      },
+      {
+        "sentence": " then turn off after x minute(s) when the brightness of the room is above the illuminance threshold or turn off after x minute(s) when there is no movement",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "simple sync trigger",
+    "manual-doc-label": "1",
+    "category": "my apps",
+    "description": "trigger simple control activities when certain actions take place in your home.",
+    "author": "roomie remote, inc.",
+    "namespace": "roomieremote-ratrigger",
+    "sentence-list": [
+      {
+        "sentence": "trigger simple control activities when certain actions take place in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "simple sync trigger",
+    "manual-doc-label": "1",
+    "category": "my apps",
+    "description": "trigger simple control activities when certain actions take place in your home.",
+    "author": "roomie remote, inc.",
+    "namespace": "roomieremote-ratrigger",
+    "sentence-list": [
+      {
+        "sentence": "trigger simple control activities when certain actions take place in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "simple sync trigger",
+    "manual-doc-label": "1",
+    "category": "my apps",
+    "description": "trigger simple control activities when certain actions take place in your home.",
+    "author": "roomie remote, inc.",
+    "namespace": "roomieremote-ratrigger",
+    "sentence-list": [
+      {
+        "sentence": "trigger simple control activities when certain actions take place in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "simple sync trigger",
+    "manual-doc-label": "1",
+    "category": "my apps",
+    "description": "trigger simple control activities when certain actions take place in your home.",
+    "author": "roomie remote, inc.",
+    "namespace": "roomieremote-ratrigger",
+    "sentence-list": [
+      {
+        "sentence": "trigger simple control activities when certain actions take place in your home",
+        "manual-sent-label": "1"
+      }
+    ]
+  },
+  {
+    "name": "opent2t smartapp test",
+    "manual-doc-label": "0",
+    "category": "smartthings labs",
+    "description": "smartapp for end to end smartthings scenarios via opent2t",
+    "author": "microsoft",
+    "namespace": "opent2t",
+    "sentence-list": [
+      {
+        "sentence": "smartapp for end to end smartthings scenarios via opent2t",
+        "manual-sent-label": "0"
+      }
+    ]
+  }
+]

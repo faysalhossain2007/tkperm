@@ -1,0 +1,442 @@
+[
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "control devices with buttons like the aeon labs minimote"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "control devices with buttons like the aeon labs minimote",
+    "name": "button controller",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "control devices with buttons like the aeon labs minimote"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "control devices with buttons like the aeon labs minimote",
+    "name": "button controller",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "use your aeon panic button to setup events when the button is used"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "reviewers",
+    "manual-doc-label": "0",
+    "description": "use your aeon panic button to setup events when the button is used",
+    "name": "single button controller",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "use your aeon panic button to setup events when the button is used"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "reviewers",
+    "manual-doc-label": "0",
+    "description": "use your aeon panic button to setup events when the button is used",
+    "name": "single button controller",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "put the internet to work for you"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "smartthings internal",
+    "manual-doc-label": "0",
+    "description": "put the internet to work for you.",
+    "name": "ifttt",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "allows toggling of a switch, lock, or garage door based on an nfc tag touch event"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "smartthings internal",
+    "manual-doc-label": "1",
+    "description": "allows toggling of a switch, lock, or garage door based on an nfc tag touch event",
+    "name": "nfc tag toggle",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "locks a deadbolt or lever lock when a smartsense presence tag or smartphone leaves a location"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "safety & security",
+    "manual-doc-label": "1",
+    "description": "locks a deadbolt or lever lock when a smartsense presence tag or smartphone leaves a location.",
+    "name": "lock it when i leave",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "allows you to integrate your logitech harmony account with smartthings"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "smartthings labs",
+    "manual-doc-label": "0",
+    "description": "allows you to integrate your logitech harmony account with smartthings.",
+    "name": "logitech harmony (connect)",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "execute a hello, home phrase, turn on or off some lights, and/or lock or unlock your door when you enter or leave a monitored region"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "smartthings internal",
+    "manual-doc-label": "1",
+    "description": "execute a hello, home phrase, turn on or off some lights, and/or lock or unlock your door when you enter or leave a monitored region",
+    "name": "beacon control",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "execute a hello, home phrase, turn on or off some lights, and/or lock or unlock your door when you enter or leave a monitored region"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "smartthings internal",
+    "manual-doc-label": "1",
+    "description": "execute a hello, home phrase, turn on or off some lights, and/or lock or unlock your door when you enter or leave a monitored region",
+    "name": "beacon control",
+    "author": "smartthings"
+  },
+  {
+    "description": "add your ubi device to your smartthings account",
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "add your ubi device to your smartthings account"
+      }
+    ],
+    "namespace": "smartthings",
+    "name": "ubi",
+    "author": "smartthings",
+    "manual-doc-label": "0"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "saves the states of a specified set switches and thermostat setpoints and restores them at each mode change"
+      },
+      {
+        "manual-sent-label": "0",
+        "sentence": " to use 1) set the mode, 2) change switches and setpoint to where you want them for that mode, and 3) install or update the app"
+      },
+      {
+        "manual-sent-label": "0",
+        "sentence": " changing to that mode or touching the app will set the devices to the saved state"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "saves the states of a specified set switches and thermostat setpoints and restores them at each mode change. to use 1) set the mode, 2) change switches and setpoint to where you want them for that mode, and 3) install or update the app. changing to that mode or touching the app will set the devices to the saved state.",
+    "name": "make it so",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "unlocks the door when you arrive at your location"
+      }
+    ],
+    "namespace": "smartthings",
+    "category": "safety & security",
+    "manual-doc-label": "0",
+    "description": "unlocks the door when you arrive at your location.",
+    "name": "unlock it when i arrive",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+
+        "manual-sent-label": "1",
+        "sentence": "make sure a door is locked at a specific time"
+      },
+      {
+        "manual-sent-label": "1",
+        "sentence": "  option to add door contact sensor to only lock if closed"
+      }
+    ],
+    "namespace": "user8798",
+    "category": "safety & security",
+    "manual-doc-label": "1",
+    "description": "make sure a door is locked at a specific time.  option to add door contact sensor to only lock if closed.",
+    "name": "lock it at a specific time",
+    "author": "erik thayer"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "automatically locks door x minutes after being closed and keeps door unlocked if door is open"
+      }
+    ],
+    "namespace": "smart-auto-lock-unlock",
+    "category": "safety & security",
+    "manual-doc-label": "1",
+    "description": "automatically locks door x minutes after being closed and keeps door unlocked if door is open.",
+    "name": "smart auto lock / unlock",
+    "author": "arnaud"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels"
+      }
+    ],
+    "namespace": "tslagle13",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "name": "lighting director",
+    "author": "tim slagle & michael struck"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels"
+      }
+    ],
+    "namespace": "tslagle13",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "name": "lighting director",
+    "author": "tim slagle & michael struck"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels"
+      }
+    ],
+    "namespace": "tslagle13",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "name": "lighting director",
+    "author": "tim slagle & michael struck"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels"
+      }
+    ],
+    "namespace": "tslagle13",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "control up to 4 sets (scenarios) of lights based on motion, door contacts and illuminance levels.",
+    "name": "lighting director",
+    "author": "tim slagle & michael struck"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "this smartapp allows you to interact with the things in your physical graph through alfred"
+      }
+    ],
+    "namespace": "vlaminck",
+    "category": "convenience",
+    "manual-doc-label": "0",
+    "description": "this smartapp allows you to interact with the things in your physical graph through alfred.",
+    "name": "alfred workflow",
+    "author": "smartthings"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "allows vinli users to connect their car to smartthings"
+      }
+    ],
+    "namespace": "com.vinli.smartthings",
+    "category": "smartthings labs",
+    "manual-doc-label": "0",
+    "description": "allows vinli users to connect their car to smartthings",
+    "name": "vinli home connect",
+    "author": "daniel"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "a smartthings smartapp to allow smartthings events to be viewable inside an initial state event bucket in your https://www"
+      },
+      {
+        "manual-sent-label": "0",
+        "sentence": "initialstate"
+      },
+      {
+        "manual-sent-label": "0",
+        "sentence": "com account"
+      }
+    ],
+    "namespace": "initialstate.events",
+    "category": "smartthings labs",
+    "manual-doc-label": "0",
+    "description": "a smartthings smartapp to allow smartthings events to be viewable inside an initial state event bucket in your https://www.initialstate.com account.",
+    "name": "initial state event streamer",
+    "author": "david sulpy"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "gideon ai smart app allows you to connect and control all of your smartthings devices through the gideon ai app, making your smartthings devices even smarter"
+      }
+    ],
+    "namespace": "gideon.api",
+    "category": "family",
+    "manual-doc-label": "0",
+    "description": "gideon ai smart app allows you to connect and control all of your smartthings devices through the gideon ai app, making your smartthings devices even smarter.",
+    "name": "gideon",
+    "author": "braindrain solutions"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "gideon smart home smartapp allows you to connect and control all of your smartthings devices through the gideon app, making your smartthings devices even smarter"
+      }
+    ],
+    "namespace": "gideon.api",
+    "category": "family",
+    "manual-doc-label": "0",
+    "description": "gideon smart home smartapp allows you to connect and control all of your smartthings devices through the gideon app, making your smartthings devices even smarter.",
+    "name": "gideon smart home",
+    "author": "braindrain solutions ltd"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "automatically locks a specific door after x minutes when closed  and unlocks it when open after x seconds"
+      }
+    ],
+    "namespace": "lock auto super enhanced",
+    "category": "safety & security",
+    "manual-doc-label": "1",
+    "description": "automatically locks a specific door after x minutes when closed  and unlocks it when open after x seconds.",
+    "name": "enhanced auto lock door",
+    "author": "arnaud"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "integrate smartthings with your simple control activities"
+      }
+    ],
+    "namespace": "roomieremote-roomieconnect",
+    "category": "my apps",
+    "manual-doc-label": "0",
+    "description": "integrate smartthings with your simple control activities.",
+    "name": "simple control",
+    "author": "roomie remote, inc."
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "integrate smartthings with your simple control activities"
+      }
+    ],
+    "namespace": "roomieremote-roomieconnect",
+    "category": "my apps",
+    "manual-doc-label": "0",
+    "description": "integrate smartthings with your simple control activities.",
+    "name": "simple control",
+    "author": "roomie remote, inc."
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "smartapp for end to end smartthings scenarios via opent2t"
+      }
+    ],
+    "namespace": "opent2t",
+    "category": "smartthings labs",
+    "manual-doc-label": "0",
+    "description": "smartapp for end to end smartthings scenarios via opent2t",
+    "name": "opent2t smartapp test",
+    "author": "microsoft"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "1",
+        "sentence": "some on, some off with delay for bedtime, lock the doors"
+      }
+    ],
+    "namespace": "charette.joseph@gmail.com",
+    "category": "convenience",
+    "manual-doc-label": "1",
+    "description": "some on, some off with delay for bedtime, lock the doors",
+    "name": "good night house",
+    "author": "joseph charette"
+  },
+  {
+    "sentence-list": [
+      {
+        "manual-sent-label": "0",
+        "sentence": "sends a text to someone when a specific code is entered"
+      }
+    ],
+    "namespace": "skp19",
+    "category": "safety & security",
+    "manual-doc-label": "0",
+    "description": "sends a text to someone when a specific code is entered",
+    "name": "door lock code distress message",
+    "author": "skp19"
+  }
+]

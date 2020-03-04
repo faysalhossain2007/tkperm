@@ -1,0 +1,1899 @@
+[
+  {
+    "app": "Wish birthday on fb",
+    "description": "Wish birthday on fb Wish birthday on fb wall",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Wish birthday on fb Wish birthday on fb wall"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "any event in my google calendar then post it to facebook wall.",
+    "description": "any event in my google calendar then post it to facebook wall. ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "any event in my google calendar then post it to facebook wall."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "mindable event",
+    "description": "mindable event Check agenda",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "mindable event Check agenda"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Schedule Facebook Page posts by adding specific events to Google Calendar",
+    "description": "Schedule Facebook Page posts by adding specific events to Google Calendar You can use a specific calendar for spreading posts across the Interwebs. Add '#fbpages' (or change the hashtag below) to each event's TITLE that you want to go to your Facebook Page. In the description field of the event, put the message you'd like posted on your page. With a troop of similar Applet, Google Calendar can be your HQ for scheduling posts to Twitter, Tumblr, and Facebook!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Schedule Facebook Page posts by adding specific events to Google Calendar You can use a specific calendar for spreading posts across the Interwebs."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Add '#fbpages' (or change the hashtag below) to each event's TITLE that you want to go to your Facebook Page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "In the description field of the event, put the message you'd like posted on your page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "With a troop of similar Applet, Google Calendar can be your HQ for scheduling posts to Twitter, Tumblr, and Facebook!"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Wish people a happy birthday automatically.",
+    "description": "Wish people a happy birthday automatically. ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wish people a happy birthday automatically."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": ".",
+    "description": ". .",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "."
+      },
+      {
+        "manual-eval": 0,
+        "s": "."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "BD",
+    "description": "BD Thanks",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "BD Thanks"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "sport calender event starts, facebook posts",
+    "description": "sport calender event starts, facebook posts upload calendars with key phrase",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "sport calender event starts, facebook posts upload calendars with key phrase"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Lunes #Ibm #Aprovecha",
+    "description": "#Lunes #Ibm #Aprovecha ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Lunes #Ibm #Aprovecha"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "#birthday",
+    "description": "#birthday birthday",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#birthday birthday"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "GCAL to Facebook",
+    "description": "GCAL to Facebook notes",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "GCAL to Facebook notes"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Post a image to your #Facebook #page from a #Google #calendar.",
+    "description": "Post a image to your #Facebook #page from a #Google #calendar. 1. Use as title of your event: Facebook image: keyword message.\r\n2. Upload your image somewhere and place the public link in location field.\r\n3. Add the description of the image in the description field.\r\n4. Add the date & time to your event, when you want to share your image.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Post a image to your #Facebook #page from a #Google #calendar."
+      },
+      {
+        "manual-eval": 1,
+        "s": "1."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Use as title of your event: Facebook image: keyword message."
+      },
+      {
+        "manual-eval": 1,
+        "s": "2."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Upload your image somewhere and place the public link in location field."
+      },
+      {
+        "manual-eval": 1,
+        "s": "3."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Add the description of the image in the description field."
+      },
+      {
+        "manual-eval": 1,
+        "s": "4."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Add the date & time to your event, when you want to share your image."
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "#MeerRadio",
+    "description": "#MeerRadio ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#MeerRadio"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Test Recipe",
+    "description": "Test Recipe Testing",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Test Recipe Testing"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Calendar to Facebook Pages",
+    "description": "#Calendar to Facebook Pages ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Calendar to Facebook Pages"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Update Status based off a single calendar...",
+    "description": "Update Status based off a single calendar... Great for birthdays, etc...",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Update Status based off a single calendar... Great for birthdays, etc..."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthdays FB",
+    "description": "Birthdays FB Happy Birthday Message",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthdays FB Happy Birthday Message"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "publicar calendar facebook",
+    "description": "publicar calendar facebook .",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "publicar calendar facebook ."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Plan your posts",
+    "description": "Plan your posts ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Plan your posts"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthdays",
+    "description": "Birthdays Facebook",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthdays Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "New Photo to Facebook Private Album",
+    "description": "New Photo to Facebook Private Album ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "New Photo to Facebook Private Album"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Aniversario_BR_Face",
+    "description": "Aniversario_BR_Face Parabenize automaticamente seus amigos.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Aniversario_BR_Face Parabenize automaticamente seus amigos."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "iOS to FB Private",
+    "description": "iOS to FB Private When new photo added to iOS upload it to FB IFTTT Private Album.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "iOS to FB Private When new photo added to iOS upload it to FB IFTTT Private Album."
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Business event calendar",
+    "description": "Business event calendar Sharing events are now easier by connecting to your gmail calendar",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Business event calendar Sharing events are now easier by connecting to your gmail calendar"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthday Wishes",
+    "description": "Birthday Wishes Wishing my Friends",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday Wishes Wishing my Friends"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Lunes #Lanix #Aprovecha",
+    "description": "#Lunes #Lanix #Aprovecha ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Lunes #Lanix #Aprovecha"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "test",
+    "description": "test rtetr",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "test rtetr"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Wish people a happy birthday automatically.",
+    "description": "Wish people a happy birthday automatically. ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wish people a happy birthday automatically."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Verjaardag",
+    "description": "Verjaardag Verjaardag",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Verjaardag Verjaardag"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Automatically wish your friends a Happy Birthday on Facebook",
+    "description": "Automatically wish your friends a Happy Birthday on Facebook This Applet will look for \"Birthday\" events in your Google Calendar and then send that person a Happy Birthday message on their special day.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Automatically wish your friends a Happy Birthday on Facebook This Applet will look for \"Birthday\" events in your Google Calendar and then send that person a Happy Birthday message on their special day."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Scheduled FaceBook posts from Google Calendar",
+    "description": "Scheduled FaceBook posts from Google Calendar If event from search for 'FBPost' starts on Google Calendar, then create a status message on connected Facebook Account.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Scheduled FaceBook posts from Google Calendar If event from search for 'FBPost' starts on Google Calendar, then create a status message on connected Facebook Account."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Events",
+    "description": "Events ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Events"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "FB Scheduler",
+    "description": "FB Scheduler FB Scheduler",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "FB Scheduler FB Scheduler"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "gyuy",
+    "description": "gyuy jj",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "gyuy jj"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Parenting",
+    "description": "Parenting ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Parenting"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Happy Birthday Wishes",
+    "description": "Happy Birthday Wishes Add dates",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy Birthday Wishes Add dates"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Google Calendar Auto-post to Facebook Page",
+    "description": "Google Calendar Auto-post to Facebook Page I followed an awesome tutorial from CandidlyJules.com and crafted this sweet auto-post Applet. DON'T FORGET to change the 'album field' name to something you choose (or leave it blank).",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar Auto-post to Facebook Page I followed an awesome tutorial from CandidlyJules."
+      },
+      {
+        "manual-eval": 1,
+        "s": "com and crafted this sweet auto-post Applet."
+      },
+      {
+        "manual-eval": 1,
+        "s": "DON'T FORGET to change the 'album field' name to something you choose (or leave it blank)."
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "RESHARE POSTS ON YOUR FACEBOOK BIZ PAGE AUTOMATICALLY WITH GOOGLE CALENDAR",
+    "description": "RESHARE POSTS ON YOUR FACEBOOK BIZ PAGE AUTOMATICALLY WITH GOOGLE CALENDAR Never forgot to re-share another blog post, webinar invite or sales offer again on your Facebook Page. Simply add \"FB THIS\" to an event title add in your Google Calendar. Then add the link + description you want to share to the event URL and description areas respectfully and you're good to go.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "RESHARE POSTS ON YOUR FACEBOOK BIZ PAGE AUTOMATICALLY WITH GOOGLE CALENDAR Never forgot to re-share another blog post, webinar invite or sales offer again on your Facebook Page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Simply add \"FB THIS\" to an event title add in your Google Calendar."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Then add the link + description you want to share to the event URL and description areas respectfully and you're good to go."
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "iOS Album to Facebook",
+    "description": "iOS Album to Facebook ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "iOS Album to Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Happy Birthday Jesse",
+    "description": "Happy Birthday Jesse Happy birthday Jesse!",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy Birthday Jesse Happy birthday Jesse!"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthday",
+    "description": "Birthday Wish People a happy Birthday automatically.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday Wish People a happy Birthday automatically."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Happy Birthday",
+    "description": "Happy Birthday Happy bday, wish you always the best",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy Birthday Happy bday, wish you always the best"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Eventi in calendario TUOEMIO",
+    "description": "Eventi in calendario TUOEMIO su Tortona attiva FB",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Eventi in calendario TUOEMIO su Tortona attiva FB"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Auto Facebook Photo Add",
+    "description": "Auto Facebook Photo Add ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Auto Facebook Photo Add"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Post status message to FB",
+    "description": "Post status message to FB ifttt-fb status",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Post status message to FB ifttt-fb status"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "When a Google Calendar event starts, post the location and event name to my Facebook business page.",
+    "description": "When a Google Calendar event starts, post the location and event name to my Facebook business page. ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "When a Google Calendar event starts, post the location and event name to my Facebook business page."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Wishing My FB Friends a Happy Birthday!",
+    "description": "Wishing My FB Friends a Happy Birthday! I want to wish all my fb friends a happy birthday.  I want to make sure that their names appear in the post.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Wishing My FB Friends a Happy Birthday!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "I want to wish all my fb friends a happy birthday."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I want to make sure that their names appear in the post."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Bday",
+    "description": "Bday Bday",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Bday Bday"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "123",
+    "description": "123 123",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "123 123"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "to",
+    "description": "to vc",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "to vc"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Wish your friends a Happy Birthday on Facebook",
+    "description": "Wish your friends a Happy Birthday on Facebook FB B'days",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Wish your friends a Happy Birthday on Facebook FB B'days"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "New Photos taken in Phuket FB Them!.. Yo",
+    "description": "New Photos taken in Phuket FB Them!.. Yo New photos taken on android in the location chosen will be uploaded to a folder on facebook. I'm using this for an upcoming holiday :3",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "New Photos taken in Phuket FB Them!.."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Yo New photos taken on android in the location chosen will be uploaded to a folder on facebook."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I'm using this for an upcoming holiday :3"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Este evento se dispara con la palabra #fb y sirve para generar link a las publicaciones #Optimus",
+    "description": "Este evento se dispara con la palabra #fb y sirve para generar link a las publicaciones #Optimus especial para publicaciones del blog",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Este evento se dispara con la palabra #fb y sirve para generar link a las publicaciones #Optimus especial para publicaciones del blog"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Auto Status",
+    "description": "Auto Status Post statuses to Facebook on a schedule using Google Calendar.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Auto Status Post statuses to Facebook on a schedule using Google Calendar."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "If iOS photos album then fb",
+    "description": "If iOS photos album then fb if a new photo gets added into a iOS album, upload it to fb",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If iOS photos album then fb if a new photo gets added into a iOS album, upload it to fb"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Meetup Event Title to Facebook Post",
+    "description": "Meetup Event Title to Facebook Post I wanted a way to post a Meetup.com Event I'm attending to Facebook automatically.  IFTTT syncs with your Google Calendar and when it finds the URL in the Event Description, it posts an update to Facebook of the Event Title 15 minutes before the group starts.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Meetup Event Title to Facebook Post I wanted a way to post a Meetup."
+      },
+      {
+        "manual-eval": 1,
+        "s": "com Event I'm attending to Facebook automatically."
+      },
+      {
+        "manual-eval": 1,
+        "s": "IFTTT syncs with your Google Calendar and when it finds the URL in the Event Description, it posts an update to Facebook of the Event Title 15 minutes before the group starts."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Publish new iOS photos to Facebook",
+    "description": "Publish new iOS photos to Facebook Used for the PKN CU Vol 15 Photo Booth",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Publish new iOS photos to Facebook Used for the PKN CU Vol 15 Photo Booth"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "NIC Anniversary Applet",
+    "description": "NIC Anniversary Applet In conjunction with my calendar to Twitter (https://ifttt.com/Applets/64664), I am testing this with Facebook Pages. Update the content you want posted to Facebook in the event description.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "NIC Anniversary Applet In conjunction with my calendar to Twitter (https://ifttt.com/Applets/64664), I am testing this with Facebook Pages."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Update the content you want posted to Facebook in the event description."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Menorca Linking",
+    "description": "Menorca Linking Photos taken in Menorca will be published in our page, Menorca Republik. Become a member of our island family!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Menorca Linking Photos taken in Menorca will be published in our page, Menorca Republik."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Become a member of our island family!"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Happy",
+    "description": "Happy ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Upload wedding booth selfies to Facebook - iOS",
+    "description": "Upload wedding booth selfies to Facebook - iOS Upload any taken picture to Facebook taken from any Wedding booth Photo App for iOS.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Upload wedding booth selfies to Facebook - iOS Upload any taken picture to Facebook taken from any Wedding booth Photo App for iOS."
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Calendar to Facebook Page Post",
+    "description": "Calendar to Facebook Page Post https://www.facebook.com/pages/Star-Wars-Battlefront-501st/1026244070734213",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Calendar to Facebook Page Post https://www.facebook.com/pages/Star-Wars-Battlefront-501st/1026244070734213"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Post a #status message to your #Facebook #fanpage from a #Google #calendar.",
+    "description": "Post a #status message to your #Facebook #fanpage from a #Google #calendar. 1. Give your Event title the content: Facebook status: keyword message.\r\n2. Put your message in the event description.\r\n3. Use the event date & time to schedule your message.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Post a #status message to your #Facebook #fanpage from a #Google #calendar."
+      },
+      {
+        "manual-eval": 1,
+        "s": "1."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Give your Event title the content: Facebook status: keyword message."
+      },
+      {
+        "manual-eval": 1,
+        "s": "2."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Put your message in the event description."
+      },
+      {
+        "manual-eval": 1,
+        "s": "3."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Use the event date & time to schedule your message."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthday wishes",
+    "description": "Birthday wishes Birthday",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday wishes Birthday"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Photos added to a specific album upload to Facebook",
+    "description": "Photos added to a specific album upload to Facebook Hiujs",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Photos added to a specific album upload to Facebook Hiujs"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "calendar a facebook",
+    "description": "calendar a facebook ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "calendar a facebook"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "If event 'birthday' starts on google calendar  then create a status message on facebook",
+    "description": "If event 'birthday' starts on google calendar  then create a status message on facebook If event from search for 'birthday' starts on google calendar  then create a status message on facebook  timeline",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If event 'birthday' starts on google calendar  then create a status message on facebook If event from search for 'birthday' starts on google calendar  then create a status message on facebook  timeline"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Lunes #Samsung #Aprovecha",
+    "description": "#Lunes #Samsung #Aprovecha ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Lunes #Samsung #Aprovecha"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "GULLP! reminder on FB",
+    "description": "GULLP! reminder on FB ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "GULLP!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "reminder on FB"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Google calendar to FB Page",
+    "description": "Google calendar to FB Page Posts Google calendar to FB Page",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google calendar to FB Page Posts Google calendar to FB Page"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Google #Calendar scheduled  #FB #statuses",
+    "description": "#Google #Calendar scheduled  #FB #statuses Publish scheduled Google Calendar event as status on facebook just before the event time.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "#Google #Calendar scheduled  #FB #statuses Publish scheduled Google Calendar event as status on facebook just before the event time."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "iOS New photo album \"facebook\" > #Facebook Upload a photo",
+    "description": "iOS New photo album \"facebook\" > #Facebook Upload a photo ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "iOS New photo album \"facebook\" > #Facebook Upload a photo"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Business auto photo sharing",
+    "description": "Business auto photo sharing makes photo sharing easier and less time consuming",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Business auto photo sharing makes photo sharing easier and less time consuming"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Google Calendar to FB Business Page Birthday Shout-outs",
+    "description": "Google Calendar to FB Business Page Birthday Shout-outs Create a Google Calendar titled \"SOR (your location) Birthdays\"",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar to FB Business Page Birthday Shout-outs Create a Google Calendar titled \"SOR (your location) Birthdays\""
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Recipe easier",
+    "description": "Recipe easier Add instruction and earning",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Recipe easier Add instruction and earning"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "If a GCal event title includes #FBPOST, then post the event description as a Facebook status message",
+    "description": "If a GCal event title includes #FBPOST, then post the event description as a Facebook status message ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If a GCal event title includes #FBPOST, then post the event description as a Facebook status message"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Happy birthday",
+    "description": "Happy birthday Happy birthday",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy birthday Happy birthday"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Add Google Calendar entries with \"FutureFBPage\" as the title, and this Applet will Post the Descript",
+    "description": "Add Google Calendar entries with \"FutureFBPage\" as the title, and this Applet will Post the Descript ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Add Google Calendar entries with \"FutureFBPage\" as the title, and this Applet will Post the Descript"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Schedule Facebook status",
+    "description": "Schedule Facebook status ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Schedule Facebook status"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "photo to Facebook",
+    "description": "photo to Facebook I forget 2 transfer my photos from my phone to my desktop so I'm trying to do it through Facebook.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "photo to Facebook I forget 2 transfer my photos from my phone to my desktop so I'm trying to do it through Facebook."
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Horace Mann School Calendar",
+    "description": "Horace Mann School Calendar Notes",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Horace Mann School Calendar Notes"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthday Wishes",
+    "description": "Birthday Wishes for Facebook",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday Wishes for Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Upload new screenshots to Facebook",
+    "description": "Upload new screenshots to Facebook ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Upload new screenshots to Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Birthday remember!",
+    "description": "Birthday remember! Birthday remember!",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday remember!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Birthday remember!"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Lunes #Ensambladas #Aprovecha",
+    "description": "#Lunes #Ensambladas #Aprovecha ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Lunes #Ensambladas #Aprovecha"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Wish people a happy birthday automatically.",
+    "description": "Wish people a happy birthday automatically. ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wish people a happy birthday automatically."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Help shame me into doing this workout. #NYCMARATHON2013",
+    "description": "Help shame me into doing this workout. #NYCMARATHON2013 ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Help shame me into doing this workout."
+      },
+      {
+        "manual-eval": 0,
+        "s": "#NYCMARATHON2013"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "#Lunes #HP #Aprovecha",
+    "description": "#Lunes #HP #Aprovecha ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Lunes #HP #Aprovecha"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "GCal to Facebook",
+    "description": "GCal to Facebook Post status from GCal to Facebook",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "GCal to Facebook Post status from GCal to Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Add Google Calendar entries with \"FutureFacebook\" as the title, and this Applet will Post to FB",
+    "description": "Add Google Calendar entries with \"FutureFacebook\" as the title, and this Applet will Post to FB ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Google Calendar entries with \"FutureFacebook\" as the title, and this Applet will Post to FB"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Creating links",
+    "description": "Creating links If any event comes up that you want others to be notified of, just add it to calendar and Facebook will create a link.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Creating links If any event comes up that you want others to be notified of, just add it to calendar and Facebook will create a link."
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Wish people a happy birthday automatically.",
+    "description": "Wish people a happy birthday automatically. ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wish people a happy birthday automatically."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Photos",
+    "description": "Photos selfie",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Photos selfie"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "sample",
+    "description": "sample sample story",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "sample sample story"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Monthly Hat Drawing",
+    "description": "Monthly Hat Drawing Each Month we give away 10 Panama Hats - be sure you are registered to have a chance to win!",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Monthly Hat Drawing Each Month we give away 10 Panama Hats - be sure you are registered to have a chance to win!"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Remember a BD Even When You Forget",
+    "description": "Remember a BD Even When You Forget Birthday announce widget I created to help you remember fb Birthdays",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Remember a BD Even When You Forget Birthday announce widget I created to help you remember fb Birthdays"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Happy Birthday my friend",
+    "description": "Happy Birthday my friend Google alerts contact a happy birthday!",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy Birthday my friend Google alerts contact a happy birthday!"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Wish Friends a Happy Birthday on Facebook",
+    "description": "Wish Friends a Happy Birthday on Facebook Automate those Facebook birthday wishes.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Wish Friends a Happy Birthday on Facebook Automate those Facebook birthday wishes."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Wish people happy birthday",
+    "description": "Wish people happy birthday ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wish people happy birthday"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "AIM Picture Upload",
+    "description": "AIM Picture Upload ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "AIM Picture Upload"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "post on facebook for every  gig showing the location",
+    "description": "post on facebook for every  gig showing the location ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "post on facebook for every  gig showing the location"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthday",
+    "description": "Birthday Happy Birthday!",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday Happy Birthday!"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Clinic Calendar posting",
+    "description": "Clinic Calendar posting Today's Clinic and links:",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Clinic Calendar posting Today's Clinic and links:"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Every event start to FB Wall",
+    "description": "Every event start to FB Wall Check out the weekly activities page",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Every event start to FB Wall Check out the weekly activities page"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Upload photos from iOS to a Facebook Page",
+    "description": "Upload photos from iOS to a Facebook Page Uploads photos placed in a specific iOS album to an album on your Facebook Page. It's essentially impossible to bulk-upload photos from iOS to a Facebook Page otherwise. Inspired by https://ifttt.com/Applets/90288.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Upload photos from iOS to a Facebook Page Uploads photos placed in a specific iOS album to an album on your Facebook Page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It's essentially impossible to bulk-upload photos from iOS to a Facebook Page otherwise."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Inspired by https://ifttt.com/Applets/90288."
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Use Google Calendar to Publish Links to Facebook Page and Set to Repeat",
+    "description": "Use Google Calendar to Publish Links to Facebook Page and Set to Repeat Directions: You need to use one Google Calendar for each Facebook page you own. It also has to be from your main calendar, not additional calendar within your main calendar. \r\n(Step 1) - Create a new event in Google Calendar with the title #fblink \r\n(Step 2) - Edit the event and paste the link URL in the \"Where\" field in that calendar event.\r\n(Step 3) -  Type your status message in the event's \"Description\" field and hit save.\r\n(Step 4) - Schedule your \"event\" to repeat as often as desired. \r\n\r\nThe trigger will fire within 15 minutes of the starting time of an \"event\" on your Google Calendar that contains the #fblink.  It will then create a new link post on your Facebook Page wall.  \r\n\r\nThat's it!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Use Google Calendar to Publish Links to Facebook Page and Set to Repeat Directions: You need to use one Google Calendar for each Facebook page you own."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It also has to be from your main calendar, not additional calendar within your main calendar."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Step 1) - Create a new event in Google Calendar with the title #fblink"
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Step 2) - Edit the event and paste the link URL in the \"Where\" field in that calendar event."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Step 3) -  Type your status message in the event's \"Description\" field and hit save."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Step 4) - Schedule your \"event\" to repeat as often as desired."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The trigger will fire within 15 minutes of the starting time of an \"event\" on your Google Calendar that contains the #fblink."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It will then create a new link post on your Facebook Page wall."
+      },
+      {
+        "manual-eval": 1,
+        "s": "That's it!"
+      }
+    ],
+    "permissions": [
+      "action : Create a link post"
+    ],
+    "consider_perm": "action : Create a link post",
+
+  },
+  {
+    "app": "Upload your #Android photos to #Facebook",
+    "description": "Upload your #Android photos to #Facebook ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Upload your #Android photos to #Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "Photos added to album go onto Facebook",
+    "description": "Photos added to album go onto Facebook Photos added to album go onto Facebook",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Photos added to album go onto Facebook Photos added to album go onto Facebook"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "#Lunes #Acer #Aprovecha",
+    "description": "#Lunes #Acer #Aprovecha ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "#Lunes #Acer #Aprovecha"
+      }
+    ],
+    "permissions": [
+      "action : Upload a photo from URL"
+    ],
+    "consider_perm": "action : Upload a photo from URL",
+
+  },
+  {
+    "app": "task",
+    "description": "task task",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "task task"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Birthday",
+    "description": "Birthday Birthday",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Birthday Birthday"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Oklahoma Sooners",
+    "description": "Oklahoma Sooners Create or import Sooner sports events into your Google Calendar.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Oklahoma Sooners Create or import Sooner sports events into your Google Calendar."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Events at Paparoa Range School",
+    "description": "Events at Paparoa Range School Check out our School Calendar for more information.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Events at Paparoa Range School Check out our School Calendar for more information."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "schedule posts within Google Calendar",
+    "description": "schedule posts within Google Calendar ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "schedule posts within Google Calendar"
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  },
+  {
+    "app": "Happy Happy Birthday to You",
+    "description": "Happy Happy Birthday to You Wish you all the best.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Happy Happy Birthday to You Wish you all the best."
+      }
+    ],
+    "permissions": [
+      "action : Create a status message"
+    ],
+    "consider_perm": "action : Create a status message",
+
+  }
+]

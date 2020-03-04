@@ -1,0 +1,1025 @@
+[
+  {
+    "app": "Receive a dashboard reminder when you enter a specific location",
+    "description": "Receive a dashboard reminder when you enter a specific location Setup a quick reminder for yourself when you enter a certain location.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Receive a dashboard reminder when you enter a specific location Setup a quick reminder for yourself when you enter a certain location."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "See today\u2019s weather report on the dashboard of your BMW",
+    "description": "See today\u2019s weather report on the dashboard of your BMW Send your car a notification with the day\u2019s weather forecast. You can customize what time it arrives.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "See todays weather report on the dashboard of your BMW Send your car a notification with the days weather forecast."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You can customize what time it arrives."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Read breaking sports news on your dashboard",
+    "description": "Read breaking sports news on your dashboard Receive breaking sports news snippets as a car dashboard notification. You'll never be out of the loop!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Read breaking sports news on your dashboard Receive breaking sports news snippets as a car dashboard notification."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You'll never be out of the loop!"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Receive a dashboard notification if your SmartThings detects motion",
+    "description": "Receive a dashboard notification if your SmartThings detects motion Get a dashboard notification if your SmartThings device senses motion.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Receive a dashboard notification if your SmartThings detects motion Get a dashboard notification if your SmartThings device senses motion."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Read any incoming Gmail labeled BMW on your dashboard",
+    "description": "Read any incoming Gmail labeled BMW on your dashboard Requires that your Gmail inbox has a BMW label filter already set.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Read any incoming Gmail labeled BMW on your dashboard Requires that your Gmail inbox has a BMW label filter already set."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "\"Alexa, trigger BMW love\" to send your car an automated message",
+    "description": "\"Alexa, trigger BMW love\" to send your car an automated message Send your car a predefined message from home using a specific Alexa phrase!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "\"Alexa, trigger BMW love\" to send your car an automated message Send your car a predefined message from home using a specific Alexa phrase!"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Send your BMW a notification when you're over the speed limit",
+    "description": "Send your BMW a notification when you're over the speed limit When your speed exceeds a preset MPH, get a notification",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send your BMW a notification when you're over the speed limit When your speed exceeds a preset MPH, get a notification"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Have breaking news about your favorite sports team sent to your BMW's dashboard",
+    "description": "Have breaking news about your favorite sports team sent to your BMW's dashboard Never miss out on the score because you're stuck in traffic. This Recipe will display in-game notifications on your BMW labs widget.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Have breaking news about your favorite sports team sent to your BMW's dashboard Never miss out on the score because you're stuck in traffic."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This Recipe will display in-game notifications on your BMW labs widget."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Get your Twitter mentions sent to your BMW's dashboard",
+    "description": "Get your Twitter mentions sent to your BMW's dashboard This Recipe will display any Tweet that you are mentioned in on the BMW Labs widget in your car.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Get your Twitter mentions sent to your BMW's dashboard This Recipe will display any Tweet that you are mentioned in on the BMW Labs widget in your car."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Send new items on your shopping list to your BMW dashboard",
+    "description": "Send new items on your shopping list to your BMW dashboard An easy way of alerting a driver to pick up some items from the store \u2014 in real-time!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send new items on your shopping list to your BMW dashboard An easy way of alerting a driver to pick up some items from the store  in real-time!"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Get a reminder to pick up some more eggs if you're running low",
+    "description": "Get a reminder to pick up some more eggs if you're running low This Recipe will send a notification to your BMW every time your Wink Egg Minder egg count drops below a specified amount.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Get a reminder to pick up some more eggs if you're running low This Recipe will send a notification to your BMW every time your Wink Egg Minder egg count drops below a specified amount."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify my car if there is motion at my front door",
+    "description": "Notify my car if there is motion at my front door Send a notification to your BMW's display when your Ring Doorbell sees motion.  Requires the BMW Labs widget in the car (Check Split-Screen Content -> BMW Labs)",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify my car if there is motion at my front door Send a notification to your BMW's display when your Ring Doorbell sees motion."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Requires the BMW Labs widget in the car (Check Split-Screen Content -> BMW Labs)"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify BMW of rain",
+    "description": "Notify BMW of rain Sends notification to BMW if it starts raining.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify BMW of rain Sends notification to BMW if it starts raining."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Weather",
+    "description": "Weather At 7:00 AM",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Weather At 7:00 AM"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Send breaking headlines from NPR to your dashboard",
+    "description": "Send breaking headlines from NPR to your dashboard Sends your BMW a notification when a new US News story is published",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send breaking headlines from NPR to your dashboard Sends your BMW a notification when a new US News story is published"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Wetter im Fzg.",
+    "description": "Wetter im Fzg. Note",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wetter im Fzg."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Note"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Tomorrow's Weather to BMW",
+    "description": "Tomorrow's Weather to BMW Have tomorrow's weather forecast available on your commute home.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Tomorrow's Weather to BMW Have tomorrow's weather forecast available on your commute home."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify My BMW of Snow",
+    "description": "Notify My BMW of Snow It lets to publish a message to your BMW when its snowing",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify My BMW of Snow It lets to publish a message to your BMW when its snowing"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Weather",
+    "description": "Weather today's weather is.....",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Weather today's weather is....."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "If Android SMS - notify BMW",
+    "description": "If Android SMS - notify BMW Any SMS text message will be shown on BMW Labs Channel",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If Android SMS - notify BMW Any SMS text message will be shown on BMW Labs Channel"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Calendar Notifications to BMW",
+    "description": "Calendar Notifications to BMW Sends your BMW a notification 15 mins before any event.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar Notifications to BMW Sends your BMW a notification 15 mins before any event."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Nest Away? Tell BMW",
+    "description": "Nest Away? Tell BMW Sends a message to your BMW when your nest is set to away.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Nest Away?"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Tell BMW Sends a message to your BMW when your nest is set to away."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Daily weather",
+    "description": "Daily weather Just for Nikki...",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Daily weather Just for Nikki..."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Wetter",
+    "description": "Wetter Wetter News",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wetter Wetter News"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Bmw",
+    "description": "Bmw Bmw",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Bmw Bmw"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Mail",
+    "description": "Mail test",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Mail test"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "NPR",
+    "description": "NPR NPR",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "NPR NPR"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Display SMS on BMW Screen",
+    "description": "Display SMS on BMW Screen Will show text messages on BMW screen when they arrive to your android device.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Display SMS on BMW Screen Will show text messages on BMW screen when they arrive to your android device."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Fitbit notifications in my BMW",
+    "description": "Fitbit notifications in my BMW Useful Fitbit information received in my BMW",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Fitbit notifications in my BMW Useful Fitbit information received in my BMW"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Fitbit sleep log in my BMW",
+    "description": "Fitbit sleep log in my BMW Fitbit sleep log in my BMW",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Fitbit sleep log in my BMW Fitbit sleep log in my BMW"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "If it's the weekend, remind me to enjoy it in my BMW",
+    "description": "If it's the weekend, remind me to enjoy it in my BMW An early morning reminder on weekends to make the most of it!",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If it's the weekend, remind me to enjoy it in my BMW An early morning reminder on weekends to make the most of it!"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Blackhawks",
+    "description": "Blackhawks None",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Blackhawks None"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Gmail",
+    "description": "Gmail None",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Gmail None"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Alerts",
+    "description": "Alerts Gmail notification",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Alerts Gmail notification"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify your BMW about Sound and Motion events from Nest Cam",
+    "description": "Notify your BMW about Sound and Motion events from Nest Cam This Notification will alert your #BMW if there any motion / sound at home or your work where you have installed #Nest Cam",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify your BMW about Sound and Motion events from Nest Cam This Notification will alert your #BMW if there any motion / sound at home or your work where you have installed #Nest Cam"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Weather",
+    "description": "Weather Weather",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Weather Weather"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Gmail => Car",
+    "description": "Gmail => Car Alert on car",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Gmail => Car Alert on car"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Get weather",
+    "description": "Get weather weather",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Get weather weather"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Garage",
+    "description": "Garage ..",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Garage .."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "BMW Weather 4:30PM",
+    "description": "BMW Weather 4:30PM BMW Weather",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "BMW Weather 4:30PM BMW Weather"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify my BMW of Best Buy deals.",
+    "description": "Notify my BMW of Best Buy deals. Sends Best Buy most popular daily products to the dashboard of your BMW.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify my BMW of Best Buy deals."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Sends Best Buy most popular daily products to the dashboard of your BMW."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Gmail",
+    "description": "Gmail All new gmail",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Gmail All new gmail"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Temp up. Top down!",
+    "description": "Temp up. Top down! Reminder to make the most of a nice day and put that convertible top down.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Temp up."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Top down!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Reminder to make the most of a nice day and put that convertible top down."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Tomorrow's forecast on my BMW",
+    "description": "Tomorrow's forecast on my BMW Don't get caught in the rain. Get a notification of tomorrow' forecast in your BMW if rain is expected.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Tomorrow's forecast on my BMW Don't get caught in the rain."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Get a notification of tomorrow' forecast in your BMW if rain is expected."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Google calendar notifications in my BMW",
+    "description": "Google calendar notifications in my BMW Get reminders of Google calendar appointments in your BMW.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google calendar notifications in my BMW Get reminders of Google calendar appointments in your BMW."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Receive a dashboard notification when your door is unlocked",
+    "description": "Receive a dashboard notification when your door is unlocked When your August lock is unlocked, receive a notification to your BMW dashboard.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Receive a dashboard notification when your door is unlocked When your August lock is unlocked, receive a notification to your BMW dashboard."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Track Added To Favourite Spotify Playlist",
+    "description": "Track Added To Favourite Spotify Playlist Receive a notification of a track added to your favourite Spotify playlist",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Track Added To Favourite Spotify Playlist Receive a notification of a track added to your favourite Spotify playlist"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "BMW Test Drive",
+    "description": "BMW Test Drive IFTTT BMW Test Drive",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "BMW Test Drive IFTTT BMW Test Drive"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Receive a BMW Dashboard notification when your door is unlocked",
+    "description": "Receive a BMW Dashboard notification when your door is unlocked Receive a notification on your BMW Dashboard when a specific August Smart Lock is unlocked.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Receive a BMW Dashboard notification when your door is unlocked Receive a notification on your BMW Dashboard when a specific August Smart Lock is unlocked."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "SMS to screen",
+    "description": "SMS to screen SMS",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "SMS to screen SMS"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Weather",
+    "description": "Weather Weather",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Weather Weather"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify BMW of Clouds",
+    "description": "Notify BMW of Clouds Notify of cloudy conditions",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify BMW of Clouds Notify of cloudy conditions"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Notify me on the BMW dashboard about unlock events",
+    "description": "Notify me on the BMW dashboard about unlock events IF door is unlocked THEN notify BMW",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify me on the BMW dashboard about unlock events IF door is unlocked THEN notify BMW"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Weather",
+    "description": "Weather instructions",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Weather instructions"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Gmail notification",
+    "description": "Gmail notification Gmail notification",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Gmail notification Gmail notification"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "If pollution is high, send my car dash notification",
+    "description": "If pollution is high, send my car dash notification Air high pollution notification from your cars dashboard",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If pollution is high, send my car dash notification Air high pollution notification from your cars dashboard"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Arrival notice",
+    "description": "Arrival notice Test",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Arrival notice Test"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Tomorrow's Forecast on the way home.",
+    "description": "Tomorrow's Forecast on the way home. Connect the weather service before running.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Tomorrow's Forecast on the way home."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Connect the weather service before running."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Receive notification when someone at my door",
+    "description": "Receive notification when someone at my door Receive a notification when someone rings on my Ring door bell.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Receive notification when someone at my door Receive a notification when someone rings on my Ring door bell."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "SMS to BMW",
+    "description": "SMS to BMW To iphone",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "SMS to BMW To iphone"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Liverpool FC news",
+    "description": "Liverpool FC news Breaking news on Liverpool FC",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Liverpool FC news Breaking news on Liverpool FC"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Test Msg (Arrive in 10min)",
+    "description": "Test Msg (Arrive in 10min) ;-)",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Test Msg (Arrive in 10min) ;-)"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "If my Android phone battery drops below 15%, then send my BMW a notification",
+    "description": "If my Android phone battery drops below 15%, then send my BMW a notification Too many times I forget to plug in my phone when driving and arrive with a flat battery, especially when streaming to the car. Tip, use a charge only socket and/or a charge only cable to prevent USB from killing BT streaming or use an app to force BT over USB audio when charging.",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If my Android phone battery drops below 15%, then send my BMW a notification Too many times I forget to plug in my phone when driving and arrive with a flat battery, especially when streaming to the car."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Tip, use a charge only socket and/or a charge only cable to prevent USB from killing BT streaming or use an app to force BT over USB audio when charging."
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Sports news",
+    "description": "Sports news F1 News",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Sports news F1 News"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  },
+  {
+    "app": "Weather",
+    "description": "Weather Nss",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Weather Nss"
+      }
+    ],
+    "permissions": [
+      "action : Send my car a notification (BMW Labs-action)"
+    ],
+    "consider_perm": "action : Send my car a notification (BMW Labs-action)",
+
+  }
+]

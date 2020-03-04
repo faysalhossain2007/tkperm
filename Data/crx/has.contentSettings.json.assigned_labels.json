@@ -1,0 +1,4523 @@
+[
+  {
+    "appid": "lipmdilbbocdnlncmhfhgakeekhmppko",
+    "url": "https://chrome.google.com/webstore/detail/benzinga-stocks/lipmdilbbocdnlncmhfhgakeekhmppko?hl=en",
+    "apptype": "chrome-ext",
+    "category": "6-news",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Moving stocks from Benzinga, right in your browser."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Benzinga Stocks shows you the days top moving stocks, both gainers and losers, and gives you a glimpse of some of the biggest movements in the stock market today."
+      }
+    ],
+    "permissions": [
+      "clipboardRead",
+      "clipboardWrite",
+      "contentSettings",
+      "cookies",
+      "history",
+      "tabs",
+      "geolocation",
+      "http://*/",
+      "https://*/",
+      "script-src 'self' https://benzinga.com; object-src 'self'"
+    ],
+    "description": "Moving stocks from Benzinga, right in your browser.Benzinga Stocks shows you the days top moving stocks, both gainers and losers, and gives you a glimpse of some of the biggest movements in the stock market today.\n\n",
+    "app": "benzinga-stocks",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "npblobpflacekmkaklhkjbjcpmbggdid",
+    "url": "https://chrome.google.com/webstore/detail/fool-me-once-a-satirical/npblobpflacekmkaklhkjbjcpmbggdid?hl=en",
+    "apptype": "chrome-ext",
+    "category": "6-news",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Don't get duped into sharing another satirical new article."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Fool Me Once will show an icon in your toolbar on satirical news sites."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Fool Me Once is a simple plugin that will show an icon in your address bar when you visit satirical news sites."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If you've ever been duped into sharing a satirical news article, this is the plugin for you."
+      }
+    ],
+    "permissions": [
+      "tabs",
+      "contentSettings"
+    ],
+    "description": "Don't get duped into sharing another satirical new article. Fool Me Once will show an icon in your toolbar on satirical news sites.Fool Me Once is a simple plugin that will show an icon in your address bar when you visit satirical news sites. \n\nIf you've ever been duped into sharing a satirical news article, this is the plugin for you.  ",
+    "app": "fool-me-once-a-satirical",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "kkmmbhidlbgoihganelknnokpmcnjffl",
+    "url": "https://chrome.google.com/webstore/detail/exclude-topics-from-googl/kkmmbhidlbgoihganelknnokpmcnjffl?hl=en",
+    "apptype": "chrome-ext",
+    "category": "6-news",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "This extension allow you to block topics from google news from a list of keyword This extension allow you to block / filter topics from google news from a list of keyword."
+      },
+      {
+        "manual-eval": 0,
+        "s": "All topics containing one of keywords will be hidden."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Can be used for children protection."
+      },
+      {
+        "manual-eval": 0,
+        "s": "(eg list : \"war, death, drug, sex...\")"
+      }
+    ],
+    "permissions": [
+      "contentSettings",
+      "storage",
+      "*://news.google.fr/*",
+      "*://news.google.ad/*",
+      "*://news.google.ae/*",
+      "*://news.google.al/*",
+      "*://news.google.am/*",
+      "*://news.google.as/*",
+      "*://news.google.at/*",
+      "*://news.google.az/*",
+      "*://news.google.ba/*",
+      "*://news.google.be/*",
+      "*://news.google.bf/*",
+      "*://news.google.bg/*",
+      "*://news.google.bi/*",
+      "*://news.google.bj/*",
+      "*://news.google.bs/*",
+      "*://news.google.bt/*",
+      "*://news.google.by/*",
+      "*://news.google.ca/*",
+      "*://news.google.cat/*",
+      "*://news.google.cd/*",
+      "*://news.google.cf/*",
+      "*://news.google.cg/*",
+      "*://news.google.ch/*",
+      "*://news.google.ci/*",
+      "*://news.google.cl/*",
+      "*://news.google.cm/*",
+      "*://news.google.co.ao/*",
+      "*://news.google.co.bw/*",
+      "*://news.google.co.ck/*",
+      "*://news.google.co.cr/*",
+      "*://news.google.co.id/*",
+      "*://news.google.co.il/*",
+      "*://news.google.co.im/*",
+      "*://news.google.co.in/*",
+      "*://news.google.co.je/*",
+      "*://news.google.co.jp/*",
+      "*://news.google.co.ke/*",
+      "*://news.google.co.kr/*",
+      "*://news.google.co.ls/*",
+      "*://news.google.co.ma/*",
+      "*://news.google.co.mw/*",
+      "*://news.google.co.mz/*",
+      "*://news.google.co.nz/*",
+      "*://news.google.co.pn/*",
+      "*://news.google.co.th/*",
+      "*://news.google.co.tt/*",
+      "*://news.google.co.tz/*",
+      "*://news.google.co.ug/*",
+      "*://news.google.co.uk/*",
+      "*://news.google.co.uz/*",
+      "*://news.google.co.ve/*",
+      "*://news.google.co.vi/*",
+      "*://news.google.co.za/*",
+      "*://news.google.co.zm/*",
+      "*://news.google.co.zw/*",
+      "*://news.google.com/*",
+      "*://news.google.com.af/*",
+      "*://news.google.com.ag/*",
+      "*://news.google.com.ai/*",
+      "*://news.google.com.ar/*",
+      "*://news.google.com.au/*",
+      "*://news.google.com.bd/*",
+      "*://news.google.com.bh/*",
+      "*://news.google.com.bn/*",
+      "*://news.google.com.bo/*",
+      "*://news.google.com.br/*",
+      "*://news.google.com.bz/*",
+      "*://news.google.com.co/*",
+      "*://news.google.com.cu/*",
+      "*://news.google.com.cy/*",
+      "*://news.google.com.do/*",
+      "*://news.google.com.ec/*",
+      "*://news.google.com.eg/*",
+      "*://news.google.com.et/*",
+      "*://news.google.com.fj/*",
+      "*://news.google.com.gh/*",
+      "*://news.google.com.gi/*",
+      "*://news.google.com.gr/*",
+      "*://news.google.com.gt/*",
+      "*://news.google.com.hk/*",
+      "*://news.google.com.jm/*",
+      "*://news.google.com.kh/*",
+      "*://news.google.com.kw/*",
+      "*://news.google.com.kz/*",
+      "*://news.google.com.lb/*",
+      "*://news.google.com.lv/*",
+      "*://news.google.com.ly/*",
+      "*://news.google.com.mm/*",
+      "*://news.google.com.mt/*",
+      "*://news.google.com.mw/*",
+      "*://news.google.com.mx/*",
+      "*://news.google.com.my/*",
+      "*://news.google.com.na/*",
+      "*://news.google.com.nf/*",
+      "*://news.google.com.ng/*",
+      "*://news.google.com.ni/*",
+      "*://news.google.com.np/*",
+      "*://news.google.com.om/*",
+      "*://news.google.com.pa/*",
+      "*://news.google.com.pe/*",
+      "*://news.google.com.pg/*",
+      "*://news.google.com.ph/*",
+      "*://news.google.com.pk/*",
+      "*://news.google.com.pl/*",
+      "*://news.google.com.pr/*",
+      "*://news.google.com.py/*",
+      "*://news.google.com.qa/*",
+      "*://news.google.com.ru/*",
+      "*://news.google.com.sa/*",
+      "*://news.google.com.sb/*",
+      "*://news.google.com.sg/*",
+      "*://news.google.com.sl/*",
+      "*://news.google.com.sv/*",
+      "*://news.google.com.tj/*",
+      "*://news.google.com.tn/*",
+      "*://news.google.com.tr/*",
+      "*://news.google.com.tt/*",
+      "*://news.google.com.tw/*",
+      "*://news.google.com.ua/*",
+      "*://news.google.com.uy/*",
+      "*://news.google.com.vc/*",
+      "*://news.google.com.ve/*",
+      "*://news.google.com.vn/*",
+      "*://news.google.cv/*",
+      "*://news.google.cz/*",
+      "*://news.google.de/*",
+      "*://news.google.dj/*",
+      "*://news.google.dk/*",
+      "*://news.google.dm/*",
+      "*://news.google.dz/*",
+      "*://news.google.ee/*",
+      "*://news.google.es/*",
+      "*://news.google.fi/*",
+      "*://news.google.fm/*",
+      "*://news.google.fr/*",
+      "*://news.google.ga/*",
+      "*://news.google.ge/*",
+      "*://news.google.gg/*",
+      "*://news.google.gl/*",
+      "*://news.google.gm/*",
+      "*://news.google.gp/*",
+      "*://news.google.gr/*",
+      "*://news.google.gy/*",
+      "*://news.google.hn/*",
+      "*://news.google.hr/*",
+      "*://news.google.ht/*",
+      "*://news.google.hu/*",
+      "*://news.google.ie/*",
+      "*://news.google.iq/*",
+      "*://news.google.is/*",
+      "*://news.google.it/*",
+      "*://news.google.je/*",
+      "*://news.google.jo/*",
+      "*://news.google.jp/*",
+      "*://news.google.kg/*",
+      "*://news.google.ki/*",
+      "*://news.google.kz/*",
+      "*://news.google.la/*",
+      "*://news.google.li/*",
+      "*://news.google.lk/*",
+      "*://news.google.lt/*",
+      "*://news.google.lu/*",
+      "*://news.google.lv/*",
+      "*://news.google.md/*",
+      "*://news.google.me/*",
+      "*://news.google.mg/*",
+      "*://news.google.mk/*",
+      "*://news.google.ml/*",
+      "*://news.google.mn/*",
+      "*://news.google.ms/*",
+      "*://news.google.mu/*",
+      "*://news.google.mv/*",
+      "*://news.google.mw/*",
+      "*://news.google.ne/*",
+      "*://news.google.ne.jp/*",
+      "*://news.google.nl/*",
+      "*://news.google.no/*",
+      "*://news.google.nr/*",
+      "*://news.google.nu/*",
+      "*://news.google.off.ai/*",
+      "*://news.google.ph/*",
+      "*://news.google.pl/*",
+      "*://news.google.pn/*",
+      "*://news.google.ps/*",
+      "*://news.google.pt/*",
+      "*://news.google.ro/*",
+      "*://news.google.rs/*",
+      "*://news.google.ru/*",
+      "*://news.google.rw/*",
+      "*://news.google.sc/*",
+      "*://news.google.se/*",
+      "*://news.google.sg/*",
+      "*://news.google.sh/*",
+      "*://news.google.si/*",
+      "*://news.google.sk/*",
+      "*://news.google.sm/*",
+      "*://news.google.sn/*",
+      "*://news.google.so/*",
+      "*://news.google.st/*",
+      "*://news.google.td/*",
+      "*://news.google.tg/*",
+      "*://news.google.tk/*",
+      "*://news.google.tl/*",
+      "*://news.google.tl/*",
+      "*://news.google.tm/*",
+      "*://news.google.tn/*",
+      "*://news.google.to/*",
+      "*://news.google.tt/*",
+      "*://news.google.us/*",
+      "*://news.google.vg/*",
+      "*://news.google.vn/*",
+      "*://news.google.vu/*",
+      "*://news.google.ws/*"
+    ],
+    "description": "This extension allow you to block topics from google news from a list of keyword This extension allow you to block / filter topics from google news from a list of keyword. All topics containing one of keywords will be hidden. \n\nCan be used for children protection.\n\n(eg list : \"war, death, drug, sex...\")",
+    "app": "exclude-topics-from-googl",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en",
+    "app": "web-developer",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "browsingData",
+      "clipboardWrite",
+      "contentSettings",
+      "cookies",
+      "history",
+      "storage",
+      "tabs",
+      "<all_urls>"
+    ],
+    "appid": "bfbameneiokkgbdmiekhjnmfkcnldhhm",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Adds a toolbar button with various web developer tools."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The Web Developer extension adds a toolbar button to the browser with various web developer tools."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This is the official port of the Web Developer extension for Firefox."
+      },
+      {
+        "manual-eval": 0,
+        "s": "--------------------"
+      },
+      {
+        "manual-eval": 0,
+        "s": "The best place for support is not in the reviews section below, but on the Web Developer site in the help:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "http://chrispederick.com/work/web-developer/help/"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Also available there are a full set of release notes:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "http://chrispederick.com/work/web-developer/history/chrome/"
+      }
+    ],
+    "description": "Adds a toolbar button with various web developer tools.The Web Developer extension adds a toolbar button to the browser with various web developer tools. This is the official port of the Web Developer extension for Firefox.\n\n--------------------\n\nThe best place for support is not in the reviews section below, but on the Web Developer site in the help:\n\nhttp://chrispederick.com/work/web-developer/help/\n\nAlso available there are a full set of release notes:\n\nhttp://chrispederick.com/work/web-developer/history/chrome/",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/web-developer-toolbar/deeboegbjcnfgidliakhpoapnpomphji?hl=en",
+    "app": "web-developer-toolbar",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "<all_urls>",
+      "clipboardWrite",
+      "contentSettings",
+      "cookies",
+      "history",
+      "tabs",
+      "webRequest",
+      "webRequestBlocking",
+      "webNavigation",
+      "idle",
+      "cookies",
+      "proxy",
+      "storage",
+      "unlimitedStorage",
+      "1.2.0.116"
+    ],
+    "appid": "deeboegbjcnfgidliakhpoapnpomphji",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Toolbar for web developmentSource Code is available iny my github repository: https://github.com/GeraldAndinc/uDev-WebDeveloperToolbar/"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Features:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "CSS Live Editing, Partial Disabling and many more"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Cookie Adding/Editing/Deletion"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Form Validation/Convertion/Editing/Population"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Various informations about the page"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Resizing Free or Predefined"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Validation of HTML Entities and many more"
+      },
+      {
+        "manual-eval": 0,
+        "s": "------------------------------------------------------------"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changelog:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "1.1.4.9 - Update to newest base code"
+      },
+      {
+        "manual-eval": 0,
+        "s": "1.1.0.0 - Corrected Images/Icons."
+      },
+      {
+        "manual-eval": 0,
+        "s": "1.0.0.2 - Initial Version"
+      },
+      {
+        "manual-eval": 0,
+        "s": "------------------------------------------------------------"
+      }
+    ],
+    "description": "Toolbar for web developmentSource Code is available iny my github repository: https://github.com/GeraldAndinc/uDev-WebDeveloperToolbar/\n\nFeatures:\n\u2022 CSS Live Editing, Partial Disabling and many more\n\u2022 Cookie Adding/Editing/Deletion\n\u2022 Form Validation/Convertion/Editing/Population\n\u2022 Various informations about the page\n\u2022 Resizing Free or Predefined\n\u2022 Validation of HTML Entities and many more\n\n------------------------------------------------------------\n\nChangelog:\n\n1.1.4.9 - Update to newest base code\n1.1.0.0 - Corrected Images/Icons.\n1.0.0.2 - Initial Version\n\n------------------------------------------------------------\n",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/toggle-javascript/cidlcjdalomndpeagkjpnefhljffbnlo?hl=en",
+    "app": "toggle-javascript",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "storage",
+      "tabs"
+    ],
+    "appid": "cidlcjdalomndpeagkjpnefhljffbnlo",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Enable or disable JavaScript without the hassle."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Toggle JavaScript provides a simple, easy-to-access browser button to enable or disable JavaScript globally."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It was built with web developers in mind, but is equally useful for anyone who wants to quickly enable/disable JavaScript without having to dig deep into Chrome's Settings panel."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Features:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "- global JavaScript master switch"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- reloads when toggling to ensure accurate rendering (optional since v1.3)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "More Info:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "There are similar extensions that enable or disable JavaScript per-domain, but I find this over-complicated so I decided to build a JavaScript \"master switch\"."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Also, similar extensions can cause pages to be rendered inaccurately after disabling JavaScript."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This extension uses an auto-reload technique to ensure that pages are always rendered correctly after switching JavaScript on or off."
+      },
+      {
+        "manual-eval": 0,
+        "s": "I hope you enjoy using it - if you do, please tell your friends about it and help me out by giving it a positive review."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Thanks!"
+      }
+    ],
+    "description": "Enable or disable JavaScript without the hassle.Toggle JavaScript provides a simple, easy-to-access browser button to enable or disable JavaScript globally.\n\nIt was built with web developers in mind, but is equally useful for anyone who wants to quickly enable/disable JavaScript without having to dig deep into Chrome's Settings panel.\n\nFeatures:\n\n- global JavaScript master switch\n- reloads when toggling to ensure accurate rendering (optional since v1.3)\n\nMore Info:\n\nThere are similar extensions that enable or disable JavaScript per-domain, but I find this over-complicated so I decided to build a JavaScript \"master switch\".\n\nAlso, similar extensions can cause pages to be rendered inaccurately after disabling JavaScript. This extension uses an auto-reload technique to ensure that pages are always rendered correctly after switching JavaScript on or off.\n\nI hope you enjoy using it - if you do, please tell your friends about it and help me out by giving it a positive review. Thanks!",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/images-onoff/nfmlhilnjccdggifdbhnhkffmjgalbgg?hl=en",
+    "app": "images-onoff",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "tabs",
+      "contentSettings",
+      "contextMenus",
+      "debugger",
+      "browsingData"
+    ],
+    "appid": "nfmlhilnjccdggifdbhnhkffmjgalbgg",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Disable images on current site."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Use this extension to disable/enable images on the current site."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It's a simple switch: click to disable, click to enable."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It works on \"per host\" basis and will disable images for the given host (the currently selected tab), not for all hosts."
+      },
+      {
+        "manual-eval": 0,
+        "s": "There are some options available, but basically, the extension does just that and nothing more."
+      }
+    ],
+    "description": "Disable images on current site.Use this extension to disable/enable images on the current site. \n\nIt's a simple switch: click to disable, click to enable.\n\nIt works on \"per host\" basis and will disable images for the given host (the currently selected tab), not for all hosts.\n\nThere are some options available, but basically, the extension does just that and nothing more. ",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/disable-html/lfhjgihpknekohffabeddfkmoiklonhm?hl=en",
+    "app": "disable-html",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "tabs",
+      "contentSettings",
+      "storage",
+      "*://*/*",
+      "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
+    ],
+    "appid": "lfhjgihpknekohffabeddfkmoiklonhm",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Provides switches to enable and disable CSS, Javascript, Images, Cookies and Popups."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This extensions provides a control panel to disable and enable browser settings like CSS, Javascript, Images, Cookies and Popups."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Just click the icon and the control panel will show up."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You will see simple on/off switches to turn on and turn off the settings."
+      },
+      {
+        "manual-eval": 1,
+        "s": "So you can easily check how your website works without Javascript or without any images loaded."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You also can check your websites behavior, if a user has blocked your cookies or popups."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You want to see your website without any CSS applied to it?"
+      },
+      {
+        "manual-eval": 1,
+        "s": "No problem, just disable CSS in the control panel."
+      }
+    ],
+    "description": "Provides switches to enable and disable CSS, Javascript, Images, Cookies and Popups.This extensions provides a control panel to disable and enable browser settings like CSS, Javascript, Images, Cookies and Popups. Just click the icon and the control panel will show up. You will see simple on/off switches to turn on and turn off the settings.\n\nSo you can easily check how your website works without Javascript or without any images loaded. You also can check your websites behavior, if a user has blocked your cookies or popups. You want to see your website without any CSS applied to it? No problem, just disable CSS in the control panel.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang?hl=en",
+    "app": "disable-cookies",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "tabs",
+      "contentSettings",
+      "contextMenus",
+      "browsingData",
+      "cookies",
+      "<all_urls>",
+      "script-src 'self' 'unsafe-eval'; object-src 'self'"
+    ],
+    "appid": "lkmjmficaoifggpfapbffkggecbleang",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Disable cookies on current siteUse this extension to disable/enable cookies on the current site."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It's a simple switch: click to disable, click to enable."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It works on \"per host\" basis and will disable cookies for one domain only (the site opened in the currently selected tab)."
+      },
+      {
+        "manual-eval": 1,
+        "s": "When you disable cookies, it will delete cookies set by this site and will reload the current page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Auto-reload can be disabled in the Options page)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "There are some options available, but basically, the extension does just that and nothing more."
+      }
+    ],
+    "description": "Disable cookies on current siteUse this extension to disable/enable cookies on the current site. \n\nIt's a simple switch: click to disable, click to enable.\n\nIt works on \"per host\" basis and will disable cookies for one domain only (the site opened in the currently selected tab).\n\nWhen you disable cookies, it will delete cookies set by this site and will reload the current page. (Auto-reload can be disabled in the Options page) \n\nThere are some options available, but basically, the extension does just that and nothing more. ",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/bp-proxy-switcher/aehcnjhffkonkdjckpapbpgommjkcmpl?hl=en",
+    "app": "bp-proxy-switcher",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "storage",
+      "proxy",
+      "privacy",
+      "notifications",
+      "webRequest",
+      "webRequestBlocking",
+      "<all_urls>",
+      "tabs",
+      "https://*/*",
+      "http://*/*",
+      "cookies",
+      "history",
+      "browsingData",
+      "contentSettings",
+      "contextMenus"
+    ],
+    "appid": "aehcnjhffkonkdjckpapbpgommjkcmpl",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "7 plugins in 1:Proxy Switcher,Cookie Cleaner,Browser Agent Changer,URL blocker,Adblocker,Proxy auto-rotator,Ip2location databaseLoad your HTTP/SOCKS proxies into a list from which can easy switch the proxies."
+      },
+      {
+        "manual-eval": 0,
+        "s": "On every proxy switch you can:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "- reload the current tab automatically"
+      },
+      {
+        "manual-eval": 1,
+        "s": "- delete the cookies, cache, history etc"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- change the browser agent to Iphone, Opera, Firefox etc"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- specify a number of seconds, after which the next proxy in the list will be used"
+      },
+      {
+        "manual-eval": 1,
+        "s": "- see the locations of the proxies"
+      },
+      {
+        "manual-eval": 1,
+        "s": "You can block"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- certain urls/domains"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- ads, images, objects"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- webRTC"
+      }
+    ],
+    "description": "7 plugins in 1:Proxy Switcher,Cookie Cleaner,Browser Agent Changer,URL blocker,Adblocker,Proxy auto-rotator,Ip2location databaseLoad your HTTP/SOCKS proxies into a list from which can easy switch the proxies.\n \nOn every proxy switch you can:\n- reload the current tab automatically\n- delete the cookies, cache, history etc\n- change the browser agent to Iphone, Opera, Firefox etc\n- specify a number of seconds, after which the next proxy in the list will be used\n- see the locations of the proxies\n\nYou can block\n- certain urls/domains\n- ads, images, objects\n- webRTC\n\n",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/jsoff/kjhbibcocglfnpllfodaiabanmmegomm?hl=en",
+    "app": "jsoff",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "tabs"
+    ],
+    "appid": "kjhbibcocglfnpllfodaiabanmmegomm",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "A chrome extension to disable JavaScript with one click."
+      },
+      {
+        "manual-eval": 1,
+        "s": "A chrome extension to disable JavaScript with one click."
+      }
+    ],
+    "description": "A chrome extension to disable JavaScript with one click.A chrome extension to disable JavaScript with one click.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/1px/gebccnmciopflhcdihopmphapifkkfdh?hl=en",
+    "app": "1px",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "fontSettings",
+      "clipboardRead",
+      "clipboardWrite",
+      "storage",
+      "unlimitedStorage",
+      "contentSettings",
+      "chrome://favicon/",
+      "tabs",
+      "notifications",
+      "cookies",
+      "contextMenus",
+      "http://*/*",
+      "https://*/*",
+      "management"
+    ],
+    "appid": "gebccnmciopflhcdihopmphapifkkfdh",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "I can help F2E to find the 1px difference between the psd and HTML.Why is 1px developped?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Designers's eyssight is better and better,and they can find the 1px difference between the psd and HTML."
+      },
+      {
+        "manual-eval": 0,
+        "s": "What can 1px do?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Compare the design and HTML page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "How to use 1px?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Click the 1px icon,and click manage after the page pop up."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Add images in the new page,then insert in any page you want."
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.7.77"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-optimise the drag when in device mode"
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.7.66"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-fix bug"
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.7.44"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+support the resizing of mouse wheel"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.6.40"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+support the device mode of  Chrome developer tool"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+Optimise the model of image size change"
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.5.38"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+support the chang of image size"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+Image is changeable now"
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.4.32"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+support the newest Chrome"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-fix some bugs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.3.30"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+Pin the pic on the page even after refreshing(the pic will disappear after closing the tab)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "......................................"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.2.18"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+Pic nav"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+Pic opacity bar"
+      },
+      {
+        "manual-eval": 0,
+        "s": "+optimize add button in popup"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v 0.1.15"
+      },
+      {
+        "manual-eval": 0,
+        "s": "First version is released."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Most functions are still developped."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Below will be finished soon:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Change the opacity of pic"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Move the pic more accurately"
+      }
+    ],
+    "description": "I can help F2E to find the 1px difference between the psd and HTML.Why is 1px developped?\nDesigners's eyssight is better and better,and they can find the 1px difference between the psd and HTML.\n\nWhat can 1px do?\nCompare the design and HTML page.\n\nHow to use 1px?\nClick the 1px icon,and click manage after the page pop up.\nAdd images in the new page,then insert in any page you want.\n\n......................................\nv 0.7.77\n-optimise the drag when in device mode\n\n......................................\nv 0.7.66\n-fix bug\n\n......................................\n\nv 0.7.44\n+support the resizing of mouse wheel\n\nv 0.6.40\n+support the device mode of  Chrome developer tool\n+Optimise the model of image size change\n\n......................................\n\nv 0.5.38\n+support the chang of image size\n+Image is changeable now\n\n......................................\n\nv 0.4.32\n+support the newest Chrome\n-fix some bugs\n......................................\n\nv 0.3.30\n+Pin the pic on the page even after refreshing(the pic will disappear after closing the tab)\n\n......................................\nv 0.2.18\n+Pic nav\n+Pic opacity bar\n+optimize add button in popup\n\nv 0.1.15\nFirst version is released.\n\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\nMost functions are still developped.Below will be finished soon:\nChange the opacity of pic\nMove the pic more accurately ",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/imagex/leebpoidhlfgjiepgjfafdbnlpnpmfod?hl=en",
+    "app": "imagex",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "tabs",
+      "<all_urls>"
+    ],
+    "appid": "leebpoidhlfgjiepgjfafdbnlpnpmfod",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Enable/disable show/hide display of images by altering the Content Settings for a page.I'm a web developer and I built this extension to quickly toggle the display of images on and off using a simple toolbar button."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I mainly use it for checking how HTML-based emails will look in email clients that don't load images by default, but it would also be useful for any site where you don't want to load images."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This toggling is achieved by changing the Content Settings for the URL of the current page (Settings > Under the Bonnet > Privacy > Content Settings... > Images > Manage Exceptions...) and then reloading it, rather than simple hiding of images within the HTML using Javascript."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Unlike other image hiding extensions ImageX disables the downloading of images so no requests for images are sent at all during reload."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The reload is also set to bypass the local cache so that all assets (except images if disabled) are re-requested for freshness."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The toolbar button clearly shows the current state of the setting by changing the image (see screenshots)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The current setting is also remembered between browser sessions and updated when a site is loaded, handy for those sites you visit regularly but don't want to see the adverts!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "The extension works on http://, https:// and file:/// URLs but you may need to enabled file access if you need it (Tools > Extensions > expand ImageX > check \"Allow access to file URLs\")."
+      },
+      {
+        "manual-eval": 0,
+        "s": "During installation ImageX will request access to:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your data on all websites"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Yours tabs and browsing activity"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Settings that specify whether websites can use features such as cookies, JavaScript and plug-ins"
+      },
+      {
+        "manual-eval": 0,
+        "s": "The first is needed so that requests to file:/// resources can be handled (see above note about enabling file access)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The second is needed so that ImageX can updated whenever the current tab is changed or updated."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The third is needed to retrieve and update the Images Content Setting (see Settings > Under the Bonnet > Privacy > Content Settings... > Images > Manage Exceptions...)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "PRIVACY STATEMENT: This extension uses Google Analytics to record when the tool is used."
+      },
+      {
+        "manual-eval": 0,
+        "s": "No personal information or URLs are tracked."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This is satisfy my curiosity as a web developer about using Google Analytics and see if my extension is being used by anyone."
+      }
+    ],
+    "description": "Enable/disable show/hide display of images by altering the Content Settings for a page.I'm a web developer and I built this extension to quickly toggle the display of images on and off using a simple toolbar button. I mainly use it for checking how HTML-based emails will look in email clients that don't load images by default, but it would also be useful for any site where you don't want to load images.\n\nThis toggling is achieved by changing the Content Settings for the URL of the current page (Settings > Under the Bonnet > Privacy > Content Settings... > Images > Manage Exceptions...) and then reloading it, rather than simple hiding of images within the HTML using Javascript. Unlike other image hiding extensions ImageX disables the downloading of images so no requests for images are sent at all during reload. The reload is also set to bypass the local cache so that all assets (except images if disabled) are re-requested for freshness.\n\nThe toolbar button clearly shows the current state of the setting by changing the image (see screenshots). The current setting is also remembered between browser sessions and updated when a site is loaded, handy for those sites you visit regularly but don't want to see the adverts!\n\nThe extension works on http://, https:// and file:/// URLs but you may need to enabled file access if you need it (Tools > Extensions > expand ImageX > check \"Allow access to file URLs\").\n\nDuring installation ImageX will request access to:\n\n\u2022 Your data on all websites\n\u2022 Yours tabs and browsing activity\n\u2022 Settings that specify whether websites can use features such as cookies, JavaScript and plug-ins\n\nThe first is needed so that requests to file:/// resources can be handled (see above note about enabling file access).\nThe second is needed so that ImageX can updated whenever the current tab is changed or updated.\nThe third is needed to retrieve and update the Images Content Setting (see Settings > Under the Bonnet > Privacy > Content Settings... > Images > Manage Exceptions...)\n\nPRIVACY STATEMENT: This extension uses Google Analytics to record when the tool is used. No personal information or URLs are tracked. This is satisfy my curiosity as a web developer about using Google Analytics and see if my extension is being used by anyone.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/cool-seo-tool-0021/hmkadofohchmamohhmfapoaibngnmoki?hl=en",
+    "app": "cool-seo-tool-0021",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "tabs",
+      "http://*/*",
+      "https://*/*",
+      "file://*/*",
+      "contentSettings",
+      "storage",
+      "webRequest",
+      "webRequestBlocking"
+    ],
+    "appid": "hmkadofohchmamohhmfapoaibngnmoki",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Simplify usual SEO tasks, onPage data, highlight semantic markup and extract linksCool SEO Tool"
+      },
+      {
+        "manual-eval": 0,
+        "s": "============="
+      },
+      {
+        "manual-eval": 0,
+        "s": "This is a Chrome extension that gives you some simple yet useful SEO utilities."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Main features :"
+      },
+      {
+        "manual-eval": 0,
+        "s": "==============="
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Export SERP titles, mtas & URLs in .csv"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Export all links from current page to .csv file"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Highlight On Page SEO data"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Work with lists : combine, dedup, intesection, ... list of * URLs or keywords"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Sitemap generator from list of URLs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Links to domain web services"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* On / Off CSS or images"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Domain checkers : HTTPS, Whois, DNS"
+      },
+      {
+        "manual-eval": 0,
+        "s": "> Export SERP"
+      },
+      {
+        "manual-eval": 0,
+        "s": "=============="
+      },
+      {
+        "manual-eval": 0,
+        "s": "This feature can be quite useful if you set your search parameters to 100 results."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can then do a site: query like \"site:site.com\" and retrieve first 100 titles, URLs ans meta descriptions for that website."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Or export the best 100 titles for any query."
+      },
+      {
+        "manual-eval": 0,
+        "s": "> Export all links from current page"
+      },
+      {
+        "manual-eval": 0,
+        "s": "===================================="
+      },
+      {
+        "manual-eval": 0,
+        "s": "Useful for getting all links from a hub page"
+      },
+      {
+        "manual-eval": 0,
+        "s": ">Highlight On Page SEO data"
+      },
+      {
+        "manual-eval": 0,
+        "s": "==========================="
+      },
+      {
+        "manual-eval": 0,
+        "s": "Title: content, length, warning if multiple titles"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Meta description : content, length, warning if multiple descriptions are founded"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Canonical : url, warning if multiple canonical are founded"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Headers : headers received from the server"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Robots"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Meta robots : content if present"
+      },
+      {
+        "manual-eval": 0,
+        "s": "X-Robots-Tag : content if present"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Robots."
+      },
+      {
+        "manual-eval": 0,
+        "s": "txt : content if exist"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Content"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Number of words in page"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Number of words of article tag if present"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Hn tags tree"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Assets, speed & links"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Assets : total, number of images, number of CSS files, number of JavaScript files"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Speed : TTFB (Time To First Byte), DOM Content Loaded Event, Total time"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Links : number of links, number of internal links, number of external links, number of nofollow links, number of internal nofollow links, number of external nofollow links."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Work with lists"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Combine, deduplicate, change case, intersection, ... Quite useful when working with lots of URLs or keywords"
+      },
+      {
+        "manual-eval": 0,
+        "s": ">Sitemap generator"
+      },
+      {
+        "manual-eval": 0,
+        "s": "==================="
+      },
+      {
+        "manual-eval": 0,
+        "s": "Input a list of URLs and you get your sitemap."
+      },
+      {
+        "manual-eval": 0,
+        "s": "xml Optionnaly you can also do an 404 check in order to avoid bad URLs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Links to domain web services Direct links to Whois ans DNS Health services"
+      },
+      {
+        "manual-eval": 1,
+        "s": "> On / Off CSS or images"
+      },
+      {
+        "manual-eval": 0,
+        "s": "========================="
+      },
+      {
+        "manual-eval": 0,
+        "s": "See what the current page looks without CSS formatting or images"
+      },
+      {
+        "manual-eval": 0,
+        "s": "> Domain checkers"
+      },
+      {
+        "manual-eval": 0,
+        "s": "=================="
+      },
+      {
+        "manual-eval": 0,
+        "s": "Test your HTTPS, get Whois info and check your DNS with external services"
+      }
+    ],
+    "description": "Simplify usual SEO tasks, onPage data, highlight semantic markup and extract linksCool SEO Tool\n=============\n\nThis is a Chrome extension that gives you some simple yet useful SEO utilities.\n\nMain features :\n===============\n* Export SERP titles, m\u00e9tas & URLs in .csv\n* Export all links from current page to .csv file\n* Highlight On Page SEO data\n* Work with lists : combine, dedup, intesection, ... list of * URLs or keywords\n* Sitemap generator from list of URLs\n* Links to domain web services\n* On / Off CSS or images\n* Domain checkers : HTTPS, Whois, DNS\n\n> Export SERP\n==============\nThis feature can be quite useful if you set your search parameters to 100 results. You can then do a site: query like \"site:site.com\" and retrieve first 100 titles, URLs ans meta descriptions for that website. Or export the best 100 titles for any query.\n\n> Export all links from current page\n====================================\nUseful for getting all links from a hub page\n\n>Highlight On Page SEO data\n===========================\nTitle: content, length, warning if multiple titles\nMeta description : content, length, warning if multiple descriptions are founded\nCanonical : url, warning if multiple canonical are founded\nHeaders : headers received from the server\nRobots\n\nMeta robots : content if present\nX-Robots-Tag : content if present\nRobots.txt : content if exist\nContent\n\nNumber of words in page\nNumber of words of article tag if present\nHn tags tree\nAssets, speed & links\n\nAssets : total, number of images, number of CSS files, number of JavaScript files\nSpeed : TTFB (Time To First Byte), DOM Content Loaded Event, Total time\nLinks : number of links, number of internal links, number of external links, number of nofollow links, number of internal nofollow links, number of external nofollow links.\nWork with lists\n\nCombine, deduplicate, change case, intersection, ... Quite useful when working with lots of URLs or keywords\n\n>Sitemap generator\n===================\nInput a list of URLs and you get your sitemap.xml Optionnaly you can also do an 404 check in order to avoid bad URLs\n\nLinks to domain web services Direct links to Whois ans DNS Health services\n\n> On / Off CSS or images\n=========================\nSee what the current page looks without CSS formatting or images\n\n> Domain checkers\n==================\nTest your HTTPS, get Whois info and check your DNS with external services",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/fenix-seo-%2B-digital-marke/pfnmeljfkahdflbedkghfhnjhcfkncfj?hl=en",
+    "app": "fenix-seo-%2B-digital-marke",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "http://*/*",
+      "https://*/*",
+      "tabs",
+      "cookies",
+      "notifications",
+      "contextMenus",
+      "webNavigation",
+      "webRequest",
+      "webRequestBlocking",
+      "unlimitedStorage",
+      "storage",
+      "contentSettings",
+      "Fenix SEO"
+    ],
+    "appid": "pfnmeljfkahdflbedkghfhnjhcfkncfj",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Ignite Your SEO & Digital Marketing Productivity With Fenix SEO, An Extension Built by Digital Marketers, For Digital Marketers2017-7-25 - v1.0.8.9"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Chrome Extension fixed."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If you are experience issues please email info@ignitesearch.com."
+      },
+      {
+        "manual-eval": 0,
+        "s": "au or message us via our Facebook page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "2017-7-5 - v1.0.8.1"
+      },
+      {
+        "manual-eval": 0,
+        "s": "New version released to fix some bugs."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If you still continue to have any problems, please email us at info@ignitesearch.com.au."
+      },
+      {
+        "manual-eval": 0,
+        "s": "2017-4-18 - v1.0.7"
+      },
+      {
+        "manual-eval": 0,
+        "s": "We've added additional features including an AMP Validator and the ability to detect and open XML Sitemaps and Robots.txt."
+      },
+      {
+        "manual-eval": 0,
+        "s": "2017-3-28- Brand Logo Update"
+      },
+      {
+        "manual-eval": 0,
+        "s": "The Fenix Brand Logo in Chrome is now updated!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "2016-9-2 - Extension Update v1.0.4"
+      },
+      {
+        "manual-eval": 0,
+        "s": "We've added additional features to track the Google Cache of a URL!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "This can be access via the General and the Bulk Links Display tab."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Extension Description:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Ask yourself this: As an SEO + Digital Marketing professional, if you could save even just 3 hours a month by improving productivity using Fenix, would that be a worthy investment?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "We think so!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "With Fenix, we help you, our users, to save a ton of time so you can do more with less."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our goal is to assist you, our SEO/Digital Marketing professionals to be so efficient that you will save 8 hours of work a week."
+      },
+      {
+        "manual-eval": 0,
+        "s": "That adds to more than 400 hours a year!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "We will be improving this significantly over the coming months, so the more you support this, the better it's going to get!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Helpful, intuitive features include:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "1."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Diagnosing a page quickly against Google's Mobile Friendliness, Google Page Speed and Copyscape Content Duplication"
+      },
+      {
+        "manual-eval": 0,
+        "s": "2."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Highlight/Disable important SEO elements on the page such as H1 Heading Tags, Image ALTs, JavaScript, CSS Styles and more"
+      },
+      {
+        "manual-eval": 0,
+        "s": "3."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Automatically pull metadata from the page and display it in a user-friendly format with clipboard copying functionality for ease of sharing"
+      },
+      {
+        "manual-eval": 0,
+        "s": "4."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Bulk SERPs Generator"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Amazing Keyword Research Tool: Input up to 20 keywords into a country specific Google Search engine and it will automatically open up tabs with the search results loaded!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "5."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Bulk Links Display"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Ever find yourself in a situation where you want to open more than one link at a time and it is so intensive to copy/paste each link into the browser?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Say no more!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "This tool will allow you instantly open up to 20 links, all within the same window and on separate tabs."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You're welcome."
+      },
+      {
+        "manual-eval": 0,
+        "s": "6.HTTP Header Status"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Find out very quickly the status code for a page, with clipboard copying functionality for ease of sharing"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Suggested improvements/feedback are welcome at info@ignitesearch.com.au"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Fenix - v1.0.5"
+      }
+    ],
+    "description": "Ignite Your SEO & Digital Marketing Productivity With Fenix SEO, An Extension Built by Digital Marketers, For Digital Marketers2017-7-25 - v1.0.8.9\nChrome Extension fixed. If you are experience issues please email info@ignitesearch.com.au or message us via our Facebook page.\n\n2017-7-5 - v1.0.8.1 \nNew version released to fix some bugs. If you still continue to have any problems, please email us at info@ignitesearch.com.au.\n\n2017-4-18 - v1.0.7\nWe've added additional features including an AMP Validator and the ability to detect and open XML Sitemaps and Robots.txt.\n\n2017-3-28- Brand Logo Update\nThe Fenix Brand Logo in Chrome is now updated!\n\n2016-9-2 - Extension Update v1.0.4\nWe've added additional features to track the Google Cache of a URL! This can be access via the General and the Bulk Links Display tab.\n\nExtension Description:\nAsk yourself this: As an SEO + Digital Marketing professional, if you could save even just 3 hours a month by improving productivity using Fenix, would that be a worthy investment? We think so! \n\nWith Fenix, we help you, our users, to save a ton of time so you can do more with less.  Our goal is to assist you, our SEO/Digital Marketing professionals to be so efficient that you will save 8 hours of work a week. That adds to more than 400 hours a year!\n\nWe will be improving this significantly over the coming months, so the more you support this, the better it's going to get!\n\nHelpful, intuitive features include:\n\n1. Diagnosing a page quickly against Google's Mobile Friendliness, Google Page Speed and Copyscape Content Duplication\n\n2. Highlight/Disable important SEO elements on the page such as H1 Heading Tags, Image ALTs, JavaScript, CSS Styles and more\n\n3. Automatically pull metadata from the page and display it in a user-friendly format with clipboard copying functionality for ease of sharing\n\n4. Bulk SERPs Generator\nAmazing Keyword Research Tool: Input up to 20 keywords into a country specific Google Search engine and it will automatically open up tabs with the search results loaded!\n\n5. Bulk Links Display\nEver find yourself in a situation where you want to open more than one link at a time and it is so intensive to copy/paste each link into the browser? Say no more! This tool will allow you instantly open up to 20 links, all within the same window and on separate tabs. You're welcome.\n\n6.HTTP Header Status\nFind out very quickly the status code for a page, with clipboard copying functionality for ease of sharing\n\nSuggested improvements/feedback are welcome at info@ignitesearch.com.au\n\nFenix - v1.0.5\n",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/temporary-content-setting/kcpgnedeigljfpmokkmdonpejdghocff?hl=en",
+    "app": "temporary-content-setting",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "activeTab",
+      "alarms",
+      "storage",
+      "19"
+    ],
+    "appid": "kcpgnedeigljfpmokkmdonpejdghocff",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Quickly make exceptions to content settings (JavaScript, cookies, images, plug-ins) for some or all sites for a set time."
+      },
+      {
+        "manual-eval": 1,
+        "s": "A button or popup for changing content settings for a set time."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Temporary Content Settings lets you view a site or sites differently than usual  with or without any combination of JavaScript, images, cookies, and/or plug-ins  without creating growing lists of exceptions that must later be cleared manually."
+      },
+      {
+        "manual-eval": 0,
+        "s": "With one click, the settings of your choice are applied to the current subdomain, domain, or whole internet, kept for as long as you want, and reliably removed."
+      },
+      {
+        "manual-eval": 0,
+        "s": "A number on the button indicates the number of exception rules in effect."
+      },
+      {
+        "manual-eval": 0,
+        "s": "TempSettings makes it easier to manage your exposure to the leading technologies that may clutter up your screen, consume bandwidth, serve ads, and threaten your privacy  you can change your default Chrome settings to block whichever ones pose problems, then easily re-enable them when necessary."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Or if you want to see what a site looks like without a given feature, you can temporarily block it."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Permanent chrome exceptions can then be reserved for sites you visit regularly  the Options and Popup pages contain links to the appropriate lists."
+      },
+      {
+        "manual-eval": 0,
+        "s": "*Temporary Content Settings gets the job done with minimal permissions."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It does not need access to \"all your data\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "*Only runs on command and to update existing settings; does not consume memory the rest of the time."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Feedback regarding function, features, and translations is greatly appreciated."
+      },
+      {
+        "manual-eval": 0,
+        "s": "---2.1.5---"
+      },
+      {
+        "manual-eval": 0,
+        "s": "New base-domain-and-subdomains scope now works on pages belonging to base domain."
+      },
+      {
+        "manual-eval": 0,
+        "s": "---2.1.4---"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Added option to apply exceptions to the base domain and all subdomains (a change to sub1.example."
+      },
+      {
+        "manual-eval": 0,
+        "s": "com will also affect sub2.example.com)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The default \"current domain and all subdomains\" option is more accurately renamed \"current subdomain [...]\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "---v. 2.1.3---"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Radio buttons in the popup window for faster switching."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Interface feedback welcome."
+      },
+      {
+        "manual-eval": 0,
+        "s": "---v. 2.1.2---"
+      },
+      {
+        "manual-eval": 0,
+        "s": "By request, permanent exception button."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Fix to popup vs. button mode."
+      },
+      {
+        "manual-eval": 0,
+        "s": "---v. 2.1.1---"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Popup opens faster."
+      },
+      {
+        "manual-eval": 0,
+        "s": "---v. 2.1.0---"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Reloading of pages with new settings more reliable."
+      }
+    ],
+    "description": "Quickly make exceptions to content settings (JavaScript, cookies, images, plug-ins) for some or all sites for a set time.A button or popup for changing content settings for a set time.\n\nTemporary Content Settings lets you view a site or sites differently than usual \u2014 with or without any combination of JavaScript, images, cookies, and/or plug-ins \u2014 without creating growing lists of exceptions that must later be cleared manually. With one click, the settings of your choice are applied to the current subdomain, domain, or whole internet, kept for as long as you want, and reliably removed. A number on the button indicates the number of exception rules in effect.\n\nTempSettings makes it easier to manage your exposure to the leading technologies that may clutter up your screen, consume bandwidth, serve ads, and threaten your privacy \u2014 you can change your default Chrome settings to block whichever ones pose problems, then easily re-enable them when necessary. Or if you want to see what a site looks like without a given feature, you can temporarily block it. Permanent chrome exceptions can then be reserved for sites you visit regularly \u2014 the Options and Popup pages contain links to the appropriate lists.\n\n*Temporary Content Settings gets the job done with minimal permissions. It does not need access to \"all your data\".\n*Only runs on command and to update existing settings; does not consume memory the rest of the time.\n\nFeedback regarding function, features, and translations is greatly appreciated.\n\n---2.1.5---\nNew base-domain-and-subdomains scope now works on pages belonging to base domain.\n\n---2.1.4---\nAdded option to apply exceptions to the base domain and all subdomains (a change to sub1.example.com will also affect sub2.example.com). The default \"current domain and all subdomains\" option is more accurately renamed \"current subdomain [...]\".\n\n---v. 2.1.3---\nRadio buttons in the popup window for faster switching. Interface feedback welcome.\n\n---v. 2.1.2---\nBy request, permanent exception button. Fix to popup vs. button mode.\n\n---v. 2.1.1---\nPopup opens faster.\n\n---v. 2.1.0---\nReloading of pages with new settings more reliable.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/segmentify/dhcffckfimabfhbbjdngnajhnlohfjeo?hl=en",
+    "app": "segmentify",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "activeTab",
+      "alarms",
+      "contentSettings",
+      "debugger",
+      "desktopCapture",
+      "gcm",
+      "geolocation",
+      "identity",
+      "management",
+      "nativeMessaging",
+      "notifications",
+      "pageCapture",
+      "sessions",
+      "tabCapture",
+      "webNavigation",
+      "tabs",
+      "cookies",
+      "<all_urls>",
+      "storage"
+    ],
+    "appid": "dhcffckfimabfhbbjdngnajhnlohfjeo",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "It enables Segmentify features with Chrome Extension."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Use Segmentify in Chrome Extension"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Segmentify is a SaaS conversion optimisation tool that helps e-commerce and content websites to convert visitors into customers by making smart recommendations with realtime analytics."
+      },
+      {
+        "manual-eval": 0,
+        "s": "with this extension, you can start test campaigns on live with simple click."
+      },
+      {
+        "manual-eval": 0,
+        "s": "On and off function of Segmentify Test mode always available with this extension."
+      }
+    ],
+    "description": "It enables Segmentify features with Chrome Extension.Use Segmentify in Chrome Extension\n\nSegmentify is a SaaS conversion optimisation tool that helps e-commerce and content websites to convert visitors into customers by making smart recommendations with realtime analytics.\n\nwith this extension, you can start test campaigns on live with simple click. On and off function of Segmentify Test mode always available with this extension.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/optimise-tag-inspector/ekiippaneofjfjgokhonnfbpjlmmajdc?hl=en",
+    "app": "optimise-tag-inspector",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "cookies",
+      "tabs",
+      "notifications",
+      "http://*/*",
+      "https://*/*",
+      "https://clients2.google.com/service/update2/crx"
+    ],
+    "appid": "ekiippaneofjfjgokhonnfbpjlmmajdc",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Optimise Tag InspectorOptimise Tag Inspector will check your web pages for Optimise Tracking Tags."
+      },
+      {
+        "manual-eval": 0,
+        "s": "For more information visit https://kb.optimisemedia.com"
+      }
+    ],
+    "description": "Optimise Tag InspectorOptimise Tag Inspector will check your web pages for Optimise Tracking Tags.\n\nFor more information visit https://kb.optimisemedia.com",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/proxy-switch-by-proxy-hub/bdjeogoajilmceaemepogjldihohcgph?hl=en",
+    "app": "proxy-switch-by-proxy-hub",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "storage",
+      "proxy",
+      "privacy",
+      "notifications",
+      "webRequest",
+      "webRequestBlocking",
+      "<all_urls>",
+      "tabs",
+      "https://*/*",
+      "http://*/*",
+      "cookies",
+      "history",
+      "browsingData",
+      "contentSettings",
+      "commands"
+    ],
+    "appid": "bdjeogoajilmceaemepogjldihohcgph",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Proxy Swtich v1.0 is an ultimate proxy manager for proxy rotation with all needed features."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Proxy Switch is an ultimate proxy manager for easily management."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It does provide many features."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Here are the features list:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "1: Import HTTP(s)/SOCKS proxies list into it via API url or clipboard."
+      },
+      {
+        "manual-eval": 0,
+        "s": "2: Proxy rotation on every 60 seconds OR by keyboard short key ctrl+shift+0 for windows and command +shift + 0 for mac."
+      },
+      {
+        "manual-eval": 0,
+        "s": "3: User agents changeable and editable."
+      },
+      {
+        "manual-eval": 0,
+        "s": "4: Auto change proxy on every tab option."
+      },
+      {
+        "manual-eval": 0,
+        "s": "5: Cleaner for clear the cache, cookies, history, forms data, passwords a lot more manually or option to change on every proxy rotation too."
+      },
+      {
+        "manual-eval": 0,
+        "s": "6: Block specific site."
+      },
+      {
+        "manual-eval": 0,
+        "s": "7: WebRTC/Flash Enable/Disable option."
+      },
+      {
+        "manual-eval": 0,
+        "s": "8: Bypass the specified domains not use proxy when visit."
+      },
+      {
+        "manual-eval": 1,
+        "s": "9: Bandwidth control by data safer to block images."
+      },
+      {
+        "manual-eval": 0,
+        "s": "10: Block adsense or objects when visit sites option available."
+      }
+    ],
+    "description": "Proxy Swtich v1.0 is an ultimate proxy manager for proxy rotation with all needed features.Proxy Switch is an ultimate proxy manager for easily management.It does provide many features.\n\nHere are the features list:\n1: Import HTTP(s)/SOCKS proxies list into it via API url or clipboard.\n2: Proxy rotation on every 60 seconds OR by keyboard short key ctrl+shift+0 for windows and command +shift + 0 for mac.\n3:User agents changeable and editable.\n4:Auto change proxy on every tab option.\n5:Cleaner for clear the cache,cookies,history,forms data,passwords a lot more manually or option to change on every proxy rotation too.\n6:Block specific site.\n7: WebRTC/Flash Enable/Disable option.\n8:Bypass the specified domains not use proxy when visit.\n9:Bandwidth control by data safer to block images.\n10:Block adsense or objects when visit sites option available.\n",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/datashield-media-blocker/gedonbilkgjhjeaamgmhoekciogjpbil?hl=en",
+    "app": "datashield-media-blocker",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "storage",
+      "contentSettings",
+      "activeTab",
+      "<all_urls>"
+    ],
+    "appid": "gedonbilkgjhjeaamgmhoekciogjpbil",
+    "category": "11-web-development",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Prevents download of third party media files (Video,Images,CSS,JS,Fonts) reducing data usage and increasing load times."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If your home internet package includes a monthly data limit or you use 3G/4G internet on-the-go or at work, data usage is always an issue."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Often avoiding watching large videos online helps to solve the problem, but much of the time when you browse the internet, the pages you visit will have visual and audio content that are automatically downloaded and shown to you, even if you don't want to see them."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This app is primarily for those users who want to keep their data footprint small when they browse the web, with the option of turning off images, video, or other multi-media features that your browser will go ahead and grab without your consent."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Just install and click the button at the top of your web browser to let it know what you don't want to download."
+      }
+    ],
+    "description": "Prevents download of third party media files (Video,Images,CSS,JS,Fonts) reducing data usage and increasing load times.If your home internet package includes a monthly data limit or you use 3G/4G internet on-the-go or at work, data usage is always an issue. Often avoiding watching large videos online helps to solve the problem, but much of the time when you browse the internet, the pages you visit will have visual and audio content that are automatically downloaded and shown to you, even if you don't want to see them.\n\nThis app is primarily for those users who want to keep their data footprint small when they browse the web, with the option of turning off images, video, or other multi-media features that your browser will go ahead and grab without your consent. \n\nJust install and click the button at the top of your web browser to let it know what you don't want to download.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "category": "38-search-tools",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/citemaker-citeweb-apa-6th/akjejjpinngeemgaddjbhbiddpoppnem?hl=en",
+    "description": "CiteMaker is for formatting academic citations and reference lists. CiteMaker's Chrome Extension - CiteWeb - automatically generates citations for websites. It enables the user to edit. export, and save citations. CiteMaker also has a search function for compiling books and journal citations using Author names, titles, ISBNs and ISSNs.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "CiteMaker is for formatting academic citations and reference lists."
+      },
+      {
+        "manual-eval": 0,
+        "s": "CiteMaker's Chrome Extension - CiteWeb - automatically generates citations for websites."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It enables the user to edit."
+      },
+      {
+        "manual-eval": 0,
+        "s": "export, and save citations."
+      },
+      {
+        "manual-eval": 0,
+        "s": "CiteMaker also has a search function for compiling books and journal citations using Author names, titles, ISBNs and ISSNs."
+      }
+    ],
+    "appid": "akjejjpinngeemgaddjbhbiddpoppnem",
+    "app": "citemaker-citeweb-apa-6th",
+    "permissions": [
+      "contentSettings",
+      "tabs",
+      "storage",
+      "identity",
+      "https://accounts.google.com/*",
+      "https://www.googleapis.com/*",
+      "https://www.paypal.com/cgi-bin/webscr",
+      "https://www.citemaker.com/*",
+      "https://citemaker.com/*"
+    ],
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Pick a default audio output device. Only works for HTML5 <video/> and <audio/> elements served via HTTP(S).AudioPick allows to pick a default audio output device that is used whenever chrome is playing HTML5 audio or video over HTTP(S).\n\nUsing a browser_action Popup the default device can be temporarily overwritten on a per tab basis.\n\nSince version 0.1.4 AudioPick also finds Media Elements in sub frames.\n \nSince version 0.2.0 the extension no longer calls \"getUserMedia()\" in order to get access to the \"sinkId\" of Media Elements found by the content script(s), but writes directly to \"contentSettings['microphone']\".\n\nAudioPick only searches for elements within the document tree, e. g. an audio node created by calling \"new Audio(...)\" that is never inserted into the tree isn't found.",
+    "url": "https://chrome.google.com/webstore/detail/audiopick/gfhcppdamigjkficnjnhmnljljhagaha?hl=en",
+    "permissions": [
+      "contentSettings",
+      "activeTab",
+      "storage"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Pick a default audio output device."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Only works for HTML5 <video/> and <audio/> elements served via HTTP(S).AudioPick allows to pick a default audio output device that is used whenever chrome is playing HTML5 audio or video over HTTP(S)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Using a browser_action Popup the default device can be temporarily overwritten on a per tab basis."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Since version 0.1.4 AudioPick also finds Media Elements in sub frames."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Since version 0.2.0 the extension no longer calls \"getUserMedia()\" in order to get access to the \"sinkId\" of Media Elements found by the content script(s), but writes directly to \"contentSettings['microphone']\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "AudioPick only searches for elements within the document tree, e. g. an audio node created by calling \"new Audio(...)\" that is never inserted into the tree isn't found."
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "audiopick",
+    "appid": "gfhcppdamigjkficnjnhmnljljhagaha",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Better UI for Accessibility Developer Tools APIExposes Google Accessibility Developer Tools in a easy to use UI.\nThe tool runs the latest stable Api, the most recent included one or one saved by you.\n\nThe UI highlights breaking-rule elements under the cursor or rule by rule, exposes them in the debugger and creates an easy to use report. \n\nThe tool suggests colors for low contrast elements and other solutions which get listed in the report.",
+    "url": "https://chrome.google.com/webstore/detail/wcag-accessibility-audit/kpfleokokmllclahndmochhenmhncoej?hl=en",
+    "permissions": [
+      "tabs",
+      "activeTab",
+      "<all_urls>",
+      "https://*/*",
+      "storage",
+      "contentSettings",
+      "clipboardRead",
+      "clipboardWrite"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Better UI for Accessibility Developer Tools APIExposes Google Accessibility Developer Tools in a easy to use UI."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The tool runs the latest stable Api, the most recent included one or one saved by you."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The UI highlights breaking-rule elements under the cursor or rule by rule, exposes them in the debugger and creates an easy to use report."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The tool suggests colors for low contrast elements and other solutions which get listed in the report."
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "wcag-accessibility-audit",
+    "appid": "kpfleokokmllclahndmochhenmhncoej",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Pick colors from your Web, compute contrast, get suggestions. Preview with challenged visions. Versatile Color Dev Extension ToolThe extension allows you to pick colors from a web site and test the contrast compliance with WCAG 2.0.\n\nA color picker with a magnifier glass facilitates the correct selection of the desired pixel, and even averages multiple pixels.\n\nPicked colors shows in the toolbar as background or foreground of text. \n\nThe tool bar evaluates and displays the contrast and the success criteria.\n\nThe toolbar menu offers choices for 10 challenged visions and some effects.\n\n\u200bA sample Text window lets you better see the look of your choices of color.\n\nIt offers up to 3 choices for foreground colors with AAA compliant contrast.",
+    "url": "https://chrome.google.com/webstore/detail/wcag-luminosity-contrast/lllpnmpooomecmbmijbmbikaacgfdagi?hl=en",
+    "permissions": [
+      "tabs",
+      "activeTab",
+      "<all_urls>",
+      "storage",
+      "contentSettings",
+      "clipboardRead",
+      "clipboardWrite"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Pick colors from your Web, compute contrast, get suggestions."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Preview with challenged visions."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Versatile Color Dev Extension ToolThe extension allows you to pick colors from a web site and test the contrast compliance with WCAG 2.0."
+      },
+      {
+        "manual-eval": 0,
+        "s": "A color picker with a magnifier glass facilitates the correct selection of the desired pixel, and even averages multiple pixels."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Picked colors shows in the toolbar as background or foreground of text."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The tool bar evaluates and displays the contrast and the success criteria."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The toolbar menu offers choices for 10 challenged visions and some effects."
+      },
+      {
+        "manual-eval": 0,
+        "s": "A sample Text window lets you better see the look of your choices of color."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It offers up to 3 choices for foreground colors with AAA compliant contrast."
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "wcag-luminosity-contrast",
+    "appid": "lllpnmpooomecmbmijbmbikaacgfdagi",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Provides Privacy for ChromePrivacy Extension gives you control over the data exposed by your browser.\n\nClear cookies, databases and local/session storage for the url in the active tab and its embedded resources (e.g. frames, images, scripts).\n\nPrevent browser and canvas fingerprinting by restricting exposure of header fields (Accept, Cookie, Referer and User-Agent) and JavaScript objects or functions (document.cookie, navigator, Canvas.toDataURL and window.name).\n\nYou may also set your own refer(r)er or user agent. This fields and your cookie settings will be propagated to both: header fields AND JavaScript.\n\nPlease note, that disabling cookies and JavaScript entirely is one of the most effective measures to limit the entropy for fingerprints.\n\nThis software is free and open source. See LICENSE for details.\n\nLatest changes (Version 1.1)\n- fixed method for overwriting navigator attributes (delete navigator.* no longer worked in Chrome 43, now using __defineGetter__)\n- added option to prevent window.name attribute to be used as vector for ever cookies (as suggested in the comments)\n- added X-Client-Data to list of blocked headers if user agent is hidden\n",
+    "url": "https://chrome.google.com/webstore/detail/privacy-extension/kgdgengffgmikoloefhbcphnalpicjkg?hl=en",
+    "permissions": [
+      "cookies",
+      "contentSettings",
+      "webRequest",
+      "webRequestBlocking",
+      "tabs",
+      "http://*/*",
+      "https://*/",
+      "1.1"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Provides Privacy for ChromePrivacy Extension gives you control over the data exposed by your browser."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Clear cookies, databases and local/session storage for the url in the active tab and its embedded resources (e.g."
+      },
+      {
+        "manual-eval": 0,
+        "s": "frames, images, scripts)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Prevent browser and canvas fingerprinting by restricting exposure of header fields (Accept, Cookie, Referer and User-Agent) and JavaScript objects or functions (document.cookie, navigator, Canvas.toDataURL and window.name)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You may also set your own refer(r)er or user agent."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This fields and your cookie settings will be propagated to both: header fields AND JavaScript."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Please note, that disabling cookies and JavaScript entirely is one of the most effective measures to limit the entropy for fingerprints."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This software is free and open source."
+      },
+      {
+        "manual-eval": 0,
+        "s": "See LICENSE for details."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Latest changes (Version 1.1)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- fixed method for overwriting navigator attributes (delete navigator."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* no longer worked in Chrome 43, now using __defineGetter__)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- added option to prevent window."
+      },
+      {
+        "manual-eval": 0,
+        "s": "name attribute to be used as vector for ever cookies (as suggested in the comments)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- added X-Client-Data to list of blocked headers if user agent is hidden"
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "privacy-extension",
+    "appid": "kgdgengffgmikoloefhbcphnalpicjkg",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Read and write Urdu in the beautiful Nastaleeq font. Currently, Facebook.com, Twitter.com, and UrduWeb.org are supported.Read and write Urdu in the beautiful Nastaleeq font. Just install the plugin and it will convert all the Urdu texts into lovely Nastaleeq font, from the Facebook posts to comments and tweets in the Twitter.\n\nCurrently, Facebook.com, Twitter.com, and UrduWeb.org are supported.\nFor suggestions and issues, drop an email at: wasxxm@gmail.com",
+    "url": "https://chrome.google.com/webstore/detail/urdu-font-nastaleeq/chfmhclpeiaebnebbcpipmiipdmbfbeb?hl=en",
+    "permissions": [
+      "contentSettings",
+      "<all_urls>",
+      "tabs",
+      "https://clients2.google.com/service/update2/crx"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Read and write Urdu in the beautiful Nastaleeq font."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Currently, Facebook.com, Twitter.com, and UrduWeb."
+      },
+      {
+        "manual-eval": 0,
+        "s": "org are supported."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Read and write Urdu in the beautiful Nastaleeq font."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Just install the plugin and it will convert all the Urdu texts into lovely Nastaleeq font, from the Facebook posts to comments and tweets in the Twitter."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Currently, Facebook.com, Twitter.com, and UrduWeb."
+      },
+      {
+        "manual-eval": 0,
+        "s": "org are supported."
+      },
+      {
+        "manual-eval": 0,
+        "s": "For suggestions and issues, drop an email at: wasxxm@gmail.com"
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "urdu-font-nastaleeq",
+    "appid": "chfmhclpeiaebnebbcpipmiipdmbfbeb",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Fullscreen fixer.Allows exceptions to be added to Chrome's Fullscreen permissions.\n\nThere should be no need for this extension, but for some reason, nobody wants to fix the dialog box for the Fullscreen permissions (in Content Settings).  As of the latest version of Chrome, I still can't add or edit entries in the table.\n\nThis extension puts an icon on the toolbar which indicates whether the current page is allowed to go fullscreen without displaying the \"allow\" popup. If it can, it will show a green badge saying \"Yes\". If not, it will show a red badge saying \"Ask\".\n\nVersion 0.3 now adds an option to allow fullscreen for all pages. When this box is ticked, no entry will be visible in Chrome's permissions page, but all pages will be allowed to go fullscreen.\n\nShow Exceptions will open Chrome's permissions page. Reset clears any settings made by this extension. Done simply closes the popup.\n\nHistory:\n0.3 - Add popup with option for all pages.\n0.2 - Initial release. Toolbar button toggles setting for current page.",
+    "url": "https://chrome.google.com/webstore/detail/fullscreen-fixer/oihadgmdoepbfafjnenigjeeohdnonhk?hl=en",
+    "permissions": [
+      "contentSettings",
+      "tabs"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Fullscreen fixer."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Allows exceptions to be added to Chrome's Fullscreen permissions."
+      },
+      {
+        "manual-eval": 1,
+        "s": "There should be no need for this extension, but for some reason, nobody wants to fix the dialog box for the Fullscreen permissions (in Content Settings)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "As of the latest version of Chrome, I still can't add or edit entries in the table."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This extension puts an icon on the toolbar which indicates whether the current page is allowed to go fullscreen without displaying the \"allow\" popup."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If it can, it will show a green badge saying \"Yes\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If not, it will show a red badge saying \"Ask\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Version 0.3 now adds an option to allow fullscreen for all pages."
+      },
+      {
+        "manual-eval": 0,
+        "s": "When this box is ticked, no entry will be visible in Chrome's permissions page, but all pages will be allowed to go fullscreen."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Show Exceptions will open Chrome's permissions page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Reset clears any settings made by this extension."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Done simply closes the popup."
+      },
+      {
+        "manual-eval": 0,
+        "s": "History:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "0.3 - Add popup with option for all pages."
+      },
+      {
+        "manual-eval": 0,
+        "s": "0.2 - Initial release."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Toolbar button toggles setting for current page."
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "fullscreen-fixer",
+    "appid": "oihadgmdoepbfafjnenigjeeohdnonhk",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Keep your browser private!Protect your on-line privacy by providing multiple options under private browsing mode and normal mode.\n\nFEATURES:\n-Open multiple incognito (private browsing mode) pages in one window\n-Block third-party cookies for ad\n-Block javascript trackers based on individual needs\n-Clear history\n-Clear session cookie\n-Blacklist that remembers your setting\n-Notification that shows the numbers of blocked trackers\n\nCurrently, even under private browsing mode, there are still a lot of third-party trackers that track and collect your information that used for tailored advertising. Some private personal information,including some payment information, location information, and browsing history may be collected without your awareness. Our free extension is designed for providing you with more control of your privacy and security on-line. Be private and be safe on-line!",
+    "url": "https://chrome.google.com/webstore/detail/keeprivate/epblbhplcfoenimckbdlghaolmpocpbe?hl=en",
+    "permissions": [
+      "cookies",
+      "tabs",
+      "history",
+      "contextMenus",
+      "bookmarks",
+      "webRequest",
+      "webRequestBlocking",
+      "notifications",
+      "contentSettings",
+      "privacy",
+      "<all_urls>",
+      "html/option.html"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Keep your browser private!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Protect your on-line privacy by providing multiple options under private browsing mode and normal mode."
+      },
+      {
+        "manual-eval": 0,
+        "s": "FEATURES:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Open multiple incognito (private browsing mode) pages in one window"
+      },
+      {
+        "manual-eval": 1,
+        "s": "- Block third-party cookies for ad"
+      },
+      {
+        "manual-eval": 1,
+        "s": "- Block javascript trackers based on individual needs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Clear history"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Clear session cookie"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Blacklist that remembers your setting"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Notification that shows the numbers of blocked trackers"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Currently, even under private browsing mode, there are still a lot of third-party trackers that track and collect your information that used for tailored advertising."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Some private personal information,including some payment information, location information, and browsing history may be collected without your awareness."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our free extension is designed for providing you with more control of your privacy and security on-line."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Be private and be safe on-line!"
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "keeprivate",
+    "appid": "epblbhplcfoenimckbdlghaolmpocpbe",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Protect your privacy and take control of your data.",
+    "url": "https://chrome.google.com/webstore/detail/privownystage/cfcpfhgjfonlfndfacicfcdddhddnfob?hl=en",
+    "permissions": [
+      "activeTab",
+      "webRequest",
+      "webRequestBlocking",
+      "webNavigation",
+      "tabs",
+      "contextMenus",
+      "notifications",
+      "cookies",
+      "history",
+      "storage",
+      "unlimitedStorage",
+      "*://*/*",
+      "<all_urls>",
+      "contentSettings",
+      "management",
+      "bookmarks",
+      "downloads",
+      "idle"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Protect your privacy and take control of your data."
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "privownystage",
+    "appid": "cfcpfhgjfonlfndfacicfcdddhddnfob",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Kinetic Web Page. Browse like an expertKinetic Web Page. Browse like an expert\n\nHow to:\n-- Triple click to enter \"Kinetic\" mode then simply click and drag to move around\n-- Once in \"Kinetic\" mode, use the scroll function from your mouse to zoom in or out \n-- Triple click again to exit \"Kinetic\" mode\n\nv. 0.0.8\n-- removing selected text\n\nv. 0.0.7\n-- bug updates\n\nv. 0.0.4\n-- changed from double click to triple click\n\nv. 0.0.3\n-- zoom bug fix\n\nv. 0.0.2\n-- Initial release\n-- Double click to enter \"Kinetic\" mode\n-- Page Zoom using the mouse scroll function\n\nDisclaimer:\n-- I made this extension for my own needs, there might be bugs\n-- If you find this extension useful, please say thanks\n\nFor developers\n-- https://github.com/patrioticcow/kinetic\n",
+    "url": "https://chrome.google.com/webstore/detail/kinetic-web-page/bippgmnfbeigidfdhhjolbflkchdafjp?hl=en",
+    "permissions": [
+      "clipboardRead",
+      "clipboardWrite",
+      "contentSettings",
+      "contextMenus",
+      "notifications",
+      "storage",
+      "https://*/*",
+      "http://*/*"
+    ],
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Kinetic Web Page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Browse like an expertKinetic Web Page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Browse like an expert"
+      },
+      {
+        "manual-eval": 0,
+        "s": "How to:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- Triple click to enter \"Kinetic\" mode then simply click and drag to move around"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- Once in \"Kinetic\" mode, use the scroll function from your mouse to zoom in or out"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- Triple click again to exit \"Kinetic\" mode"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v. 0.0.8"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- removing selected text"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v. 0.0.7"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- bug updates"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v. 0.0.4"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- changed from double click to triple click"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v. 0.0.3"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- zoom bug fix"
+      },
+      {
+        "manual-eval": 0,
+        "s": "v. 0.0.2"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- Initial release"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- Double click to enter \"Kinetic\" mode"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- Page Zoom using the mouse scroll function"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Disclaimer:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- I made this extension for my own needs, there might be bugs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- If you find this extension useful, please say thanks"
+      },
+      {
+        "manual-eval": 0,
+        "s": "For developers"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- https://github.com/patrioticcow/kinetic"
+      }
+    ],
+    "category": "22-accessibility",
+    "app": "kinetic-web-page",
+    "appid": "bippgmnfbeigidfdhhjolbflkchdafjp",
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "gbgjpdhhnbgmnafojckjmjogcpoinlim",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Play Farmville2 using this latest Extension from Zynga Inc.FarmVille 2 X-Press is the official extension from Zynga that helps you with the many upcoming permissions required from Flash for a seamless gameplay experience!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "By adding this extension, you will give a one time permission to use Flash."
+      },
+      {
+        "manual-eval": 1,
+        "s": "All Flash pop ups will be handled by the extension and you can get back to playing FarmVille 2, hassle free!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "But thats not all!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "It comes with many other benefits such as:"
+      },
+      {
+        "manual-eval": 0,
+        "s": ">  A super seamless entry to the game!"
+      },
+      {
+        "manual-eval": 0,
+        "s": ">  Easy Access to your right hand FarmVille2 Help Bar."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Please note that your privacy is important to Zynga and any information shared by you is of high confidential value to us."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Zynga will use your permissions only to support Flash and nothing else."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our privacy policy assures you a complete non-disclosure to any of the information shared by you."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Use of this extension is subject to Zyngas"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Terms of Service (https://www.zynga.com/legal/terms-of-service), and Privacy Policy (https://www.zynga.com/privacy/policy)."
+      }
+    ],
+    "description": "Play Farmville2 using this latest Extension from Zynga Inc.FarmVille 2 X-Press is the official extension from Zynga that helps you with the many upcoming permissions required from Flash for a seamless gameplay experience!\n\nBy adding this extension, you will give a one time permission to use Flash. All Flash pop ups will be handled by the extension and you can get back to playing FarmVille 2, hassle free! But that\u2019s not all! It comes with many other benefits such as: \n\n>  A super seamless entry to the game!\n>  Easy Access to your right hand FarmVille2 Help Bar.\n\n\nPlease note that your privacy is important to Zynga and any information shared by you is of high confidential value to us. Zynga will use your permissions only to support Flash and nothing else. Our privacy policy assures you a complete non-disclosure to any of the information shared by you.\n\nUse of this extension is subject to Zynga\u2019s \nTerms of Service (https://www.zynga.com/legal/terms-of-service), and Privacy Policy (https://www.zynga.com/privacy/policy).",
+    "app": "farmville2-x-press",
+    "permissions": [
+      "contentSettings",
+      "activeTab",
+      "storage",
+      "https://*.zynga.com/*",
+      "notifications"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/farmville2-x-press/gbgjpdhhnbgmnafojckjmjogcpoinlim?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "ddakejacccpjkpbjblhaiajdadpkejeb",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Play Farmville hassle-free on chrome using this latest Extension from Zynga Inc.FarmVille Flash Helper is the official extension from Zynga that automatically handles Flash permissions required to play FarmVille."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Adding this extension lets you play FarmVille hassle free!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "For more information please refer our FAQ here: https://zyngasupport.helpshift.com/a/farmville/?s=farmville-flash-helper"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Please note that your privacy is important to Zynga."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Zynga will use your permissions only to support Flash and nothing else."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our privacy policy assures you a complete non-disclosure to any of the information shared by you."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Use of this extension is subject to Zyngas Terms of Service (https://www.zynga.com/legal/terms-of-service), and Privacy Policy (https://www.zynga.com/privacy/policy)."
+      }
+    ],
+    "description": "Play Farmville hassle-free on chrome using this latest Extension from Zynga Inc.FarmVille Flash Helper is the official extension from Zynga that automatically handles Flash permissions required to play FarmVille.\n\nAdding this extension lets you play FarmVille hassle free!\n\nFor more information please refer our FAQ here: https://zyngasupport.helpshift.com/a/farmville/?s=farmville-flash-helper\n\nPlease note that your privacy is important to Zynga. Zynga will use your permissions only to support Flash and nothing else. Our privacy policy assures you a complete non-disclosure to any of the information shared by you.\n\nUse of this extension is subject to Zynga\u2019s Terms of Service (https://www.zynga.com/legal/terms-of-service), and Privacy Policy (https://www.zynga.com/privacy/policy).",
+    "app": "farmville-flash-helper",
+    "permissions": [
+      "contentSettings",
+      "storage",
+      "https://*.zynga.com/*",
+      "https://*.farmville.com/*"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/farmville-flash-helper/ddakejacccpjkpbjblhaiajdadpkejeb?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "kjdbedlepiebjogmbmmfgilidoobdfmb",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "You can now play all GSN Games without any permissions hassle."
+      },
+      {
+        "manual-eval": 1,
+        "s": "One Click GSN Games is the official extension from GSN Games that helps you with the many upcoming permissions required from Flash for a seamless gameplay experience!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "By adding this extension, you will give a ONE TIME permission to use Flash."
+      },
+      {
+        "manual-eval": 1,
+        "s": "All Flash pop ups will be handled by the extension and you can get back to playing Bingo Bash and our other GSN games, hassle free!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your privacy is important to GSN."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your consent to Flash will only be used to support Flash and will not be shared with any other parties."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Use of this extension is subject to our Terms of Service (https://gsngamesnetwork.com/terms.html), and Privacy Policy (https://gsngamesnetwork.com/privacy.html)."
+      }
+    ],
+    "description": "You can now play all GSN Games without any permissions hassle.One Click GSN Games is the official extension from GSN Games that helps you with the many upcoming permissions required from Flash for a seamless gameplay experience!\n\nBy adding this extension, you will give a ONE TIME permission to use Flash. All Flash pop ups will be handled by the extension and you can get back to playing Bingo Bash and our other GSN games, hassle free!\n\nYour privacy is important to GSN.  Your consent to Flash will only be used to support Flash and will not be shared with any other parties.\nUse of this extension is subject to our Terms of Service (https://gsngamesnetwork.com/terms.html), and Privacy Policy (https://gsngamesnetwork.com/privacy.html).",
+    "app": "one-click-gsn-games",
+    "permissions": [
+      "contentSettings"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/one-click-gsn-games/kjdbedlepiebjogmbmmfgilidoobdfmb?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "bcbaokcchpeocidhfccllamniooiefin",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Share amazing content, images, blog posts across all your Social Networks with just a single click!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Liked something?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Brew it!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "With Statusbrew Browser Extension you can share amazing content from all over the Internet on all your Social Networks, with just a single click."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our Browser Extension lets you take the brilliant social publishing experience across any web browser."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can conveniently share any piece of content that you come across the whole internet."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* You can share blog posts, images, text quotes, video links on your Twitter, Instagram, Facebook, Google+ and LinkedIn profiles instantaneously."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* You will be able to track analytics for the content that you share on Social Media."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* You can schedule this content manually by setting a day and time or you can add it to a category and the post will get published automatically according to the schedule."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Integrated with the functionalities in our web app, Statusbrew is the most powerful Social Media Management tool out there."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Signup for free at: https://statusbrew.com"
+      },
+      {
+        "manual-eval": 0,
+        "s": "We cant wait for you to try it out and see the performance."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If youre looking for us, were not that hard to find:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Twitter: @Statusbrew"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Instagram: @statusbrew"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Facebook: http://facebook.com/statusbrew"
+      },
+      {
+        "manual-eval": 0,
+        "s": "LinkedIn: https://www.linkedin.com/company/statusbrew/"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Google+: https://plus.google.com/+Statusbrew"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Youtube: https://www.youtube.com/channel/UCTqDLP3kPxGzErSZAxWOm4A"
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can also drop us a line at support@statusbrew.com"
+      }
+    ],
+    "description": "Share amazing content, images, blog posts across all your Social Networks with just a single click!Liked something? Brew it!\n\nWith Statusbrew Browser Extension you can share amazing content from all over the Internet on all your Social Networks, with just a single click.\n\nOur Browser Extension lets you take the brilliant social publishing experience across any web browser. You can conveniently share any piece of content that you come across the whole internet.\n\n* You can share blog posts, images, text quotes, video links on your Twitter, Instagram, Facebook, Google+ and LinkedIn profiles instantaneously.\n\n* You will be able to track analytics for the content that you share on Social Media.\n\n* You can schedule this content manually by setting a day and time or you can add it to a category and the post will get published automatically according to the schedule.\n\nIntegrated with the functionalities in our web app, Statusbrew is the most powerful Social Media Management tool out there.\n\nSignup for free at: https://statusbrew.com\n\nWe can\u2019t wait for you to try it out and see the performance. \n\nIf you\u2019re looking for us, we\u2019re not that hard to find:\nTwitter: @Statusbrew\nInstagram: @statusbrew\nFacebook: http://facebook.com/statusbrew\nLinkedIn: https://www.linkedin.com/company/statusbrew/\nGoogle+: https://plus.google.com/+Statusbrew\nYoutube: https://www.youtube.com/channel/UCTqDLP3kPxGzErSZAxWOm4A\n\nYou can also drop us a line at support@statusbrew.com",
+    "app": "statusbrew",
+    "permissions": [
+      "clipboardRead",
+      "clipboardWrite",
+      "contentSettings",
+      "contextMenus",
+      "history",
+      "idle",
+      "management",
+      "notifications",
+      "storage",
+      "tabs",
+      "https://*/*"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/statusbrew/bcbaokcchpeocidhfccllamniooiefin?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "iiaaidojlpkackffhmogpjgofcnjmclp",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Allow Farmtown to enable Flash by default in Chrome"
+      }
+    ],
+    "description": "Allow Farmtown to enable Flash by default in Chrome",
+    "app": "farmtown-flash-enabler",
+    "permissions": [
+      "contentSettings"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/farmtown-flash-enabler/iiaaidojlpkackffhmogpjgofcnjmclp?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "gammckdpcgijghgmfdefkdingbnolbbl",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Quickly send a Vidyo invite using Google Mail or Google CalendarVidyo Extension for Google Chrome adds a button to the Google Chrome toolbar that presents options to send a conference invitation by either email or calendar invite."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Upon the user's selection, a new browser tab opens with the conference link and participant instructions automatically inserted in either a new Gmail message or a new Google Calendar appointment."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The Vidyo Extension for Google Chrome requires a Vidyo API Enablement Key."
+      },
+      {
+        "manual-eval": 0,
+        "s": "For information about how to obtain this key, contact your Vidyo sales representative or Vidyo Support."
+      }
+    ],
+    "description": "Quickly send a Vidyo invite using Google Mail or Google CalendarVidyo Extension for Google Chrome adds a button to the Google Chrome toolbar that presents options to send a conference invitation by either email or calendar invite. \n\nUpon the user's selection, a new browser tab opens with the conference link and participant instructions automatically inserted in either a new Gmail message or a new Google Calendar appointment.\n\nThe Vidyo Extension for Google Chrome requires a Vidyo API Enablement Key. For information about how to obtain this key, contact your Vidyo sales representative or Vidyo Support.",
+    "app": "send-a-vidyo-invite",
+    "permissions": [
+      "cookies",
+      "tabs",
+      "*://*.google.com/*",
+      "http://*/*",
+      "https://*/*",
+      "notifications",
+      "contentSettings",
+      "identity"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/send-a-vidyo-invite/gammckdpcgijghgmfdefkdingbnolbbl?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "femolaikomdnigbodefkjhpjgkdopbci",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Unlocks Flash plugin automatically."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It allows you to play Dreamland Story without interruption!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Extension unlocks Flash plugin when you are using Facebook."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It will help with other games too!"
+      }
+    ],
+    "description": "Unlocks Flash plugin automatically. It allows you to play Dreamland Story without interruption!Extension unlocks Flash plugin when you are using Facebook. It will help with other games too!",
+    "app": "dreamland-story-flash-hel",
+    "permissions": [
+      "contentSettings",
+      "https://*.remivision.com/",
+      "en"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/dreamland-story-flash-hel/femolaikomdnigbodefkjhpjgkdopbci?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "ajjnbanpedpjbfcpaopcloaaknffnjfp",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "You can now play all Playcus Flash Games without any permissions hassle."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You can now play all Playcus Games without any permissions hassle."
+      },
+      {
+        "manual-eval": 1,
+        "s": "One Click Solution  is the official extension from PLAYCUS Games that helps you with the many upcoming permissions required from Flash for a seamless gameplay experience!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "By adding this extension, you will give a ONE TIME permission to use Flash."
+      },
+      {
+        "manual-eval": 1,
+        "s": "All Flash pop ups will be handled by the extension and you can get back to playing PLAYCUS games, hassle free!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your privacy is important to PLAYCUS."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your consent to Flash will only be used to support Flash and will not be shared with any other parties."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Use of this extension is subject to our Terms of Service (https://www.playcus.com/terms-of-service), and Privacy Policy (https://www.playcus.com/privacy-policy)."
+      }
+    ],
+    "description": "You can now play all Playcus Flash Games without any permissions hassle.You can now play all Playcus Games without any permissions hassle.\n\nOne Click Solution  is the official extension from PLAYCUS Games that helps you with the many upcoming permissions required from Flash for a seamless gameplay experience!\nBy adding this extension, you will give a ONE TIME permission to use Flash. All Flash pop ups will be handled by the extension and you can get back to playing PLAYCUS games, hassle free!\n\nYour privacy is important to PLAYCUS.  Your consent to Flash will only be used to support Flash and will not be shared with any other parties.\nUse of this extension is subject to our Terms of Service (https://www.playcus.com/terms-of-service), and Privacy Policy (https://www.playcus.com/privacy-policy).",
+    "app": "one-click-playcus-flash-g",
+    "permissions": [
+      "contentSettings"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/one-click-playcus-flash-g/ajjnbanpedpjbfcpaopcloaaknffnjfp?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "appid": "cjgbjpkohlpmaoomenbkbhdkfifcpiil",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Create Personalized Email Backgrounds with emailbeautifier.com Email Beautifier is a Google Chrome extension that allows you to send GIFs and add a background image to your Gmail."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It adds a dedicated button which allows you to decorate your unique emails within a few clicks."
+      },
+      {
+        "manual-eval": 0,
+        "s": "With Email Beautifier you can customize your regular gmail and bring it to life to give it a unique personal touch."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Join thousands of users today"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Choose a beautiful background"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Add a funny GIF to express yourself"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Impress your friends and family"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Change your email experience"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Please read carefully: By clicking the ADD TO CHROME button in the top right hand corner and installing the Email Beautifier extension, you agree to install this extension, and you agree to the End User License Agreement and the Privacy Policy and to receiving any future updates and upgrades."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can uninstall the extension at any time."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Terms of use"
+      },
+      {
+        "manual-eval": 0,
+        "s": "http://www.emailbeautifier.com/terms.php"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Privacy Policy"
+      },
+      {
+        "manual-eval": 0,
+        "s": "http://www.emailbeautifier.com/privacy.php"
+      },
+      {
+        "manual-eval": 0,
+        "s": "How to remove our extension from Chrome browser:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "1) Click on the three horizontal lines icon in the upper right-hand corner of your Chrome browser."
+      },
+      {
+        "manual-eval": 0,
+        "s": "2) Go to \"Settings\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "3) In the menu that appears click on \"Extensions\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "4) From the list of installed Extensions, find the name of the extension you wish to uninstall."
+      },
+      {
+        "manual-eval": 0,
+        "s": "5) Click on the trash can icon to the right of \"Enable\" (for the extension you wish to uninstall)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "6) Our extension should be removed from your Chrome browser."
+      },
+      {
+        "manual-eval": 0,
+        "s": "For assistance from our customer service team, please contact us here:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "http://www.emailbeautifier.com/"
+      }
+    ],
+    "description": "Create Personalized Email Backgrounds with emailbeautifier.comEmail Beautifier is a Google Chrome extension that allows you to send GIF\u2019s and add a background image to your Gmail. It adds a dedicated button which allows you to decorate your unique emails within a few clicks.\nWith Email Beautifier you can customize your regular gmail and bring it to life to give it a unique personal touch. \nJoin thousands of users today\nChoose a beautiful background\nAdd a funny GIF to express yourself\nImpress your friends and family\nChange your email experience\nPlease read carefully: By clicking the \u201cADD TO CHROME\u201d button in the top right hand corner and installing the Email Beautifier extension, you agree to install this extension, and you agree to the End User License Agreement and the Privacy Policy and to receiving any future updates and upgrades. You can uninstall the extension at any time.\n\nTerms of use\nhttp://www.emailbeautifier.com/terms.php\n\nPrivacy Policy\nhttp://www.emailbeautifier.com/privacy.php\n \nHow to remove our extension from Chrome browser:\n \n1) Click on the three horizontal lines icon in the upper right-hand corner of your Chrome browser.\n2) Go to \"Settings\".\n3) In the menu that appears click on \"Extensions\".\n4) From the list of installed Extensions, find the name of the extension you wish to uninstall.\n5) Click on the trash can icon to the right of \"Enable\" (for the extension you wish to uninstall).\n6) Our extension should be removed from your Chrome browser.\n\nFor assistance from our customer service team, please contact us here: \nhttp://www.emailbeautifier.com/\n",
+    "app": "emailbeautifier",
+    "permissions": [
+      "contentSettings",
+      "tabs",
+      "https://*/",
+      "storage",
+      "cookies",
+      "*://*/*",
+      "alarms",
+      "notifications",
+      "gcm",
+      "identity",
+      "webRequest"
+    ],
+    "category": "1-communication",
+    "apptype": "chrome-ext",
+    "url": "https://chrome.google.com/webstore/detail/emailbeautifier/cjgbjpkohlpmaoomenbkbhdkfifcpiil?hl=en",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "apptype": "chrome-ext",
+    "app": "crankwheel-screen-sharing",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Instant browser tab or screen sharing with one or multiple customers."
+      },
+      {
+        "manual-eval": 0,
+        "s": "No download or preparation needed, even on their mobile."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Share screen or your browser tab with your customer as easily as you make a phone call."
+      },
+      {
+        "manual-eval": 0,
+        "s": "They never need to install any software, even if they're on their mobile."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can finally tell your customer, in the middle of a phone call, \"I can show you,\" and start screen sharing to show them visual information."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Increase sales with the ability to add a visual explanation without preparation, or to easily book a meeting in advance."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Embed a conversational lead capture form into your web site to get customers even more quickly into a screen share."
+      },
+      {
+        "manual-eval": 0,
+        "s": "CrankWheel is free for limited commercial use for an unlimited number of users hosting up to 25 meetings per month (unlimited in the first month), with enterprise-class features such as automatic lead enrichment, co-branding, white labelling, audit logging and CRM integration available on paid plans."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Phone conferencing from our partner service ConferenceCall.co."
+      },
+      {
+        "manual-eval": 0,
+        "s": "uk is integrated in CrankWheel and is an inline, two-click signup when you schedule your first meeting."
+      },
+      {
+        "manual-eval": 0,
+        "s": "There is no subscription fee for this service, but for some dial-in numbers there is a per-minute fee."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Please see a full list of numbers and rates at http://bit.ly/ccuk-numbers."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We use the data we collect only to improve our screensharing services to benefit our users."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Only for those enterprise customers that opt in to the optional audit log or content filter features, we collect browsing history while screen sharing to enable these features."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Read our full privacy policy at http://crankwheel.com/privacy-policy/"
+      }
+    ],
+    "appid": "dooinopjfnhlmmdkdepajfipfhlcmjgp",
+    "permissions": [
+      "contentSettings",
+      "<all_urls>",
+      "desktopCapture",
+      "idle",
+      "notifications",
+      "storage",
+      "tabCapture",
+      "tabs"
+    ],
+    "description": "Instant browser tab or screen sharing with one or multiple customers. No download or preparation needed, even on their mobile.Share screen or your browser tab with your customer as easily as you make a phone call. They never need to install any software, even if they're on their mobile. You can finally tell your customer, in the middle of a phone call, \"I can show you,\" and start screen sharing to show them visual information.\n\nIncrease sales with the ability to add a visual explanation without preparation, or to easily book a meeting in advance.\n\nEmbed a conversational lead capture form into your web site to get customers even more quickly into a screen share.\n\nCrankWheel is free for limited commercial use for an unlimited number of users hosting up to 25 meetings per month (unlimited in the first month), with enterprise-class features such as automatic lead enrichment, co-branding, white labelling, audit logging and CRM integration available on paid plans.\n\nPhone conferencing from our partner service ConferenceCall.co.uk is integrated in CrankWheel and is an inline, two-click signup when you schedule your first meeting. There is no subscription fee for this service, but for some dial-in numbers there is a per-minute fee. Please see a full list of numbers and rates at http://bit.ly/ccuk-numbers.\n\nWe use the data we collect only to improve our screensharing services to benefit our users. Only for those enterprise customers that opt in to the optional audit log or content filter features, we collect browsing history while screen sharing to enable these features. Read our full privacy policy at http://crankwheel.com/privacy-policy/",
+    "url": "https://chrome.google.com/webstore/detail/crankwheel-screen-sharing/dooinopjfnhlmmdkdepajfipfhlcmjgp?hl=en",
+    "category": "7-productivity",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "apptype": "chrome-ext",
+    "app": "surfeasy-vpn-security-pri",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Unblock websites."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Secure yourself from online threats."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Hide your real IP."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Easy to use.SurfEasy VPN for Chrome"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Fast."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Easy."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Reliable."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Private."
+      },
+      {
+        "manual-eval": 0,
+        "s": "True privacy protection from a trustworthy company."
+      },
+      {
+        "manual-eval": 0,
+        "s": "SurfEasy VPN for Chrome protects your online privacy, unblocks websites, protects your security on Wi-Fi hotspots, prevents ad tracking, and encrypts all of the data in and out of your browser with one easy to use extension."
+      },
+      {
+        "manual-eval": 0,
+        "s": "With SurfEasy VPN you can:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Mask your IP address and geographic location."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Feel safe shopping, booking tickets and even banking online thanks to our bank-grade encryption."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Appear to be in the US or a dozen other countries."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Browse anonymously and avoid being tracked."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Access blocked websites from anywhere in the world."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Secure browsing on unsafe public Wi-Fi hotspots."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Bypass firewalls to browse without limits."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Unblock Facebook, SnapChat, Instagram, Twitter, YouTube, Skype and other sites and services that are restricted on your network."
+      },
+      {
+        "manual-eval": 0,
+        "s": "=== How does it work?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "==="
+      },
+      {
+        "manual-eval": 0,
+        "s": "We use bank-grade encryption to create a secure tunnel between you and the internet."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We hide your IP address and let you borrow another from one of 13 different regions, meaning that youre untrackable and also that you can access blocked websites and geo-specific content from all over the globe."
+      },
+      {
+        "manual-eval": 0,
+        "s": "And we do all this without keeping logs about what your personal information, what you do online or even what you download."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Youre our customernot our product."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Unlike free VPNs, we never log your information or sell your data to third parties."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our business model is transparent."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We provide a free trial and the ability to earn more free bandwidth simply by telling your friends, adding more devices to your account or just using SurfEasy!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Many of our customers love our product and pay for unlimited subscriptionsthats how we make our money."
+      },
+      {
+        "manual-eval": 0,
+        "s": "=== Why SurfEasy?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "==="
+      },
+      {
+        "manual-eval": 0,
+        "s": "We are a no-log network, meaning that we dont keep any logs about your information, your browsing data or your download history."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We dont need this information, because we dont sell it on to third parties."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We make our money through charging a small amount for our service."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This means were accountable, reliable, and truly secure."
+      },
+      {
+        "manual-eval": 0,
+        "s": "SurfEasys Privacy Policy"
+      },
+      {
+        "manual-eval": 0,
+        "s": "You can find our privacy policy here: https://www.surfeasy.com/privacy_policy/"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Follow SurfEasy"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Facebook: https://www.facebook.com/surfeasyinc"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Twitter: https://twitter.com/SurfEasyInc"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Google+: https://plus.google.com/+Surfeasy/"
+      }
+    ],
+    "appid": "odiddbcijempnhhobijfbggjogofdlgl",
+    "permissions": [
+      "tabs",
+      "contentSettings",
+      "management",
+      "cookies",
+      "notifications",
+      "proxy",
+      "webRequest",
+      "webRequestBlocking",
+      "privacy",
+      "<all_urls>",
+      "background",
+      "1.3.9"
+    ],
+    "description": "Unblock websites. Secure yourself from online threats. Hide your real IP. Easy to use.SurfEasy VPN for Chrome\n\nFast. Easy. Reliable. Private. True privacy protection from a trustworthy company.  \n \n\nSurfEasy VPN for Chrome protects your online privacy, unblocks websites, protects your security on Wi-Fi hotspots, prevents ad tracking, and encrypts all of the data in and out of your browser with one easy to use extension.\n\nWith SurfEasy VPN you can:\n\n* Mask your IP address and geographic location.\n\n* Feel safe shopping, booking tickets and even banking online thanks to our bank-grade encryption.\n\n* Appear to be in the US or a dozen other countries. \n\n* Browse anonymously and avoid being tracked.\n\n* Access blocked websites from anywhere in the world.\n\n* Secure browsing on unsafe public Wi-Fi hotspots.\n\n* Bypass firewalls to browse without limits.\n\n* Unblock Facebook, SnapChat, Instagram, Twitter, YouTube, Skype and other sites and services that are restricted on your network.\n\n\n\n=== How does it work? ===\n\nWe use bank-grade encryption to create a secure tunnel between you and the internet. We hide your IP address and let you borrow another from one of 13 different regions, meaning that you\u2019re untrackable and also that you can access blocked websites and geo-specific content from all over the globe. \n\nAnd we do all this without keeping logs about what your personal information, what you do online or even what you download. \n\nYou\u2019re our customer\u2014not our product. Unlike free VPNs, we never log your information or sell your data to third parties. Our business model is transparent. We provide a free trial and the ability to earn more free bandwidth simply by telling your friends, adding more devices to your account or just using SurfEasy! Many of our customers love our product and pay for unlimited subscriptions\u2014that\u2019s how we make our money.\n\n=== Why SurfEasy? ===\n\nWe are a no-log network, meaning that we don\u2019t keep any logs about your information, your browsing data or your download history. We don\u2019t need this information, because we don\u2019t sell it on to third parties. We make our money through charging a small amount for our service. This means we\u2019re accountable, reliable, and truly secure. \n\n\nSurfEasy\u2019s Privacy Policy\nYou can find our privacy policy here: https://www.surfeasy.com/privacy_policy/\n\nFollow SurfEasy\nFacebook: https://www.facebook.com/surfeasyinc\nTwitter: https://twitter.com/SurfEasyInc\nGoogle+: https://plus.google.com/+Surfeasy/",
+    "url": "https://chrome.google.com/webstore/detail/surfeasy-vpn-security-pri/odiddbcijempnhhobijfbggjogofdlgl?hl=en",
+    "category": "7-productivity",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "apptype": "chrome-ext",
+    "app": "private-internet-access",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Defeat censorship, unblock any website and access the open Internet the way it was meant to be with Private Internet AccessDefeat censorship, unblock any website and access the open Internet the way it was meant to be with the Private Internet Access Chrome extension."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Protect your privacy with Private Internet Access, the worlds leading VPN and secure proxy service for Chrome users."
+      },
+      {
+        "manual-eval": 0,
+        "s": "PIA enables users to encrypt their network traffic and stay protected when online."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Add privacy and security to private and public networks when you access the Internet at WiFi hotspots."
+      },
+      {
+        "manual-eval": 0,
+        "s": "All you have to do is install the Chrome extension, login with your Private Internet Access subscription credentials, flip the on switch and youll be protected."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The Private Internet Access Chrome extension features:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- WebRTC blocking"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Sort gateways by latency"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Website URL whitelist"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Easy on/off switch"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Private Internet Access features:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- IP Cloaking."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your IP address will be changed to a Private Internet Access IP address to hide your identity and location."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Hide your IP address to stop data trackers, snoopers, and hackers from tracking your browsing and search activity."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changing your IP address allows you to blend in with the crowd."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Choose from 45 locations in 28 countries to tunnel your traffic through."
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Data Encryption."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Get Public WiFi security in hotspots, coffee shops, cafes, hotels, and airports."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Without encryption, your data can be as available as public TV.. Our trusted VPN  and secure proxy service creates several security layers which protect you and prevent access to your data."
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Internet Access."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Access blocked or censored websites."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Unlock your favorite sites from anywhere."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Why should you use the Private Internet Access secure proxy and Chrome extension?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-  We lead the industry with our low price."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Private Internet Access only costs $3.33 per month if you purchase a yearly account (39.95/year) or $6.95 on a monthly basis."
+      },
+      {
+        "manual-eval": 0,
+        "s": "-  We have been a reliable and trusted VPN and secure proxy provider since 2010 and have a proven no log policy."
+      },
+      {
+        "manual-eval": 0,
+        "s": "-  We truly believe in your privacy because: Privacy is our Policy."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Here at PIA, we not only provide a great VPN service at a low price, but we also support organizations like the Electronic Frontier Foundation, FightForTheFuture, and many others."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Sign up for Private Internet Access today and enjoy:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- High speed"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Unlimited bandwidth"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- 5 devices connected simultaneously"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- No traffic logs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- 24/7 customers support"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Editorial Reviews:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Private Internet Access VPN has been featured in Wired, PC Magazine, HowToGeek, Lifehacker, Business Insider, TorrentFreak, and more!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "\"Private Internet Access, one of Lifehacker readers' favorite VPN service providers, makes it easy to surf privately and securely from anywhere.\""
+      },
+      {
+        "manual-eval": 0,
+        "s": "Lifehacker.com"
+      },
+      {
+        "manual-eval": 0,
+        "s": "\"There have been several Editors' Choice VPN services recently, as one product tops the next, but Private Internet Access out-performs and out-features the competition."
+      },
+      {
+        "manual-eval": 0,
+        "s": "With 4.5 stars, Private Internet Access sets the bar high and is truly the Editors' Choice, trumping all our previous favorites.\""
+      },
+      {
+        "manual-eval": 0,
+        "s": "-- PC Magazine"
+      },
+      {
+        "manual-eval": 0,
+        "s": "When shopping for a VPN service, it is recommended to find a service that does not log its customers traffic and prevents an anonymity-unmasking issue known as IPv6 leakage."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Private Internet Access carries that level of security."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Wired.com"
+      },
+      {
+        "manual-eval": 0,
+        "s": "To that end we highly recommend, Private Internet Access- a great VPN provider that were not only recommended before, but use ourselves."
+      },
+      {
+        "manual-eval": 0,
+        "s": "HowToGeek.com"
+      },
+      {
+        "manual-eval": 0,
+        "s": "About Private Internet Access:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Private Internet Access (PIA), is the leading no-log VPN service provider in the world."
+      },
+      {
+        "manual-eval": 0,
+        "s": "PIA believes that access to an open internet is a fundamental human right and donates effusively to causes such as EFF and FFTF to promote privacy causes internationally."
+      },
+      {
+        "manual-eval": 0,
+        "s": "PIA has over 3,200 servers in 24 countries that provide reliable, encrypted VPN tunnel gateways for whatever the use case."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Please visit their website at https://www.privateinternetaccess."
+      },
+      {
+        "manual-eval": 0,
+        "s": "com for more information."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Interact with us on social media:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Twitter: https://twitter.com/buyvpnservice"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Facebook: https://www.facebook.com/privateinternetaccess/"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Youtube: https://www.youtube.com/user/vpnservice"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Google Plus: https://plus.google.com/+Privateinternetaccess"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Support: https://www.privateinternetaccess.com/helpdesk/"
+      }
+    ],
+    "appid": "jplnlifepflhkbkgonidnobkakhmpnmh",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "proxy",
+      "privacy",
+      "contentSettings",
+      "alarms",
+      "background",
+      "downloads",
+      "<all_urls>"
+    ],
+    "description": "Defeat censorship, unblock any website and access the open Internet the way it was meant to be with Private Internet Access\u00aeDefeat censorship, unblock any website and access the open Internet the way it was meant to be with the Private Internet Access\u00ae Chrome extension.\n\nProtect your privacy with Private Internet Access\u00ae, the world\u2019s leading VPN and secure proxy service for Chrome users. PIA enables users to encrypt their network traffic and stay protected when online. Add privacy and security to private and public networks when you access the Internet at WiFi hotspots. All you have to do is install the Chrome extension, login with your Private Internet Access subscription credentials, flip the on switch and you\u2019ll be protected.\n\nThe Private Internet Access Chrome extension features:\n\n  - WebRTC blocking\n  - Sort gateways by latency\n  - Website URL whitelist\n  - Easy on/off switch\n\nPrivate Internet Access features:\n\n  - IP Cloaking. Your IP address will be changed to a Private Internet Access IP address to hide your identity and location. Hide your IP address to stop data trackers, snoopers, and hackers from tracking your browsing and search activity. Changing your IP address allows you to blend in with the crowd. Choose from 45 locations in 28 countries to tunnel your traffic through.\n\n  - Data Encryption. Get Public WiFi security in hotspots, coffee shops, cafes, hotels, and airports. Without encryption, your data can be as available as public TV.. Our trusted VPN  and secure proxy service creates several security layers which protect you and prevent access to your data.\n\n  - Internet Access. Access blocked or censored websites. Unlock your favorite sites from anywhere.\n\nWhy should you use the Private Internet Access secure proxy and Chrome extension?\n\n -  We lead the industry with our low price. Private Internet Access only costs $3.33 per month if you purchase a yearly account (39.95/year) or $6.95 on a monthly basis.\n\n -  We have been a reliable and trusted VPN and secure proxy provider since 2010 and have a proven no log policy.\n\n -  We truly believe in your privacy because: \u201cPrivacy is our Policy.\u201d Here at PIA, we not only provide a great VPN service at a low price, but we also support organizations like the Electronic Frontier Foundation, FightForTheFuture, and many others.\n\nSign up for Private Internet Access today and enjoy:\n\n- High speed \n- Unlimited bandwidth \n- 5 devices connected simultaneously\n- No traffic logs \n- 24/7 customers support\n\nEditorial Reviews:\n\nPrivate Internet Access VPN has been featured in Wired, PC Magazine, HowToGeek, Lifehacker, Business Insider, TorrentFreak, and more!\n\n\"Private Internet Access, one of Lifehacker readers' favorite VPN service providers, makes it easy to surf privately and securely from anywhere.\" \u2013 Lifehacker.com\n\n\"There have been several Editors' Choice VPN services recently, as one product tops the next, but Private Internet Access out-performs and out-features the competition. With 4.5 stars, Private Internet Access sets the bar high and is truly the Editors' Choice, trumping all our previous favorites.\" -- PC Magazine\n\n\u201cWhen shopping for a VPN service, it is recommended to find a service that does not log its customers\u2019 traffic and prevents an anonymity-unmasking issue known as IPv6 leakage. Private Internet Access carries that level of security.\u201d \u2013 Wired.com\n\n\u201cTo that end we highly recommend, Private Internet Access- a great VPN provider that we\u2019re not only recommended before, but use ourselves\u201d. \u2013 HowToGeek.com\n\nAbout Private Internet Access:\n\nPrivate Internet Access (PIA), is the leading no-log VPN service provider in the world. PIA believes that access to an open internet is a fundamental human right and donates effusively to causes such as EFF and FFTF to promote privacy causes internationally. PIA has over 3,200 servers in 24 countries that provide reliable, encrypted VPN tunnel gateways for whatever the use case. Please visit their website at https://www.privateinternetaccess.com for more information.\n\nInteract with us on social media:\n\nTwitter: https://twitter.com/buyvpnservice\n\nFacebook: https://www.facebook.com/privateinternetaccess/\n\nYoutube: https://www.youtube.com/user/vpnservice\n\nGoogle Plus: https://plus.google.com/+Privateinternetaccess\n\nSupport: https://www.privateinternetaccess.com/helpdesk/\n\n\n",
+    "url": "https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh?hl=en",
+    "category": "7-productivity",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/ezoic-ad-tester/nbccjeeblefkmoohdiipbghgikopimnd?hl=en",
+    "appid": "nbccjeeblefkmoohdiipbghgikopimnd",
+    "apptype": "chrome-ext",
+    "app": "ezoic-ad-tester",
+    "permissions": [
+      "chrome://favicon/",
+      "contentSettings",
+      "commands",
+      "cookies",
+      "debugger",
+      "notifications",
+      "storage",
+      "unlimitedStorage",
+      "tabs",
+      "webRequest",
+      "webRequestBlocking",
+      "activeTab",
+      "http://*/",
+      "https://*/",
+      "<all_urls>",
+      "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjSnvk272UG1X/HeqsV75SlS92zXyG9kluBQC8yZR6GYn2KVR1TiLh4iy5Bq2Nr3Oca3m21zJQRqucceISFR05QcXx0FKVJtxm3xo3jjjSU2BMa1z4sUSMnwzzBXlLHgd3bq2F8G+248oH8ECHdbeUdTwH1eMmPJUyseJwsnNOFCPkc5zOpciL4KWhu1i0cWu8WQ4V7cL3aaZ0ozQXXmFwuSmtHr+KJlsqEtlk7wz4t0CK15lxSfoO2vIrTW/aSJZ8FmHdXrVLko29I9VY4plNeWSOZk89s4tBqtMnGNCqzm3oZco3ve7cKHTQT0Gjy940zMzf2en21KhrNMhKk3ddQIDAQAB"
+    ],
+    "category": "10-blogging",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "View and create Ezoic Ad Tester placeholders on your siteEzoic Ad Tester can help you earn more ad revenue without any extra work!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "All you need to do is click on a location where youd like an ad to show and choose the sizes to test."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Ezoic will serve ads from the Google Ad Exchange, which has many ad networks competing against each other for your ad inventory."
+      },
+      {
+        "manual-eval": 0,
+        "s": "That increased competition can have a big impact on your revenue."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The combination of well placed ads and Google AdX ads converts to increases in revenue from 60%-250%!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "To use the Ad Tester tool you will first need to create an account at https://www.ezoic.com/join."
+      },
+      {
+        "manual-eval": 0,
+        "s": "php and integrate with Ezoic."
+      }
+    ],
+    "description": "View and create Ezoic Ad Tester placeholders on your siteEzoic Ad Tester can help you earn more ad revenue without any extra work!\n\nAll you need to do is click on a location where you\u2019d like an ad to show and choose the sizes to test. Ezoic will serve ads from the Google Ad Exchange, which has many ad networks competing against each other for your ad inventory. That increased competition can have a big impact on your revenue. \n\nThe combination of well placed ads and Google AdX ads converts to increases in revenue from 60%-250%!\n\nTo use the Ad Tester tool you will first need to create an account at https://www.ezoic.com/join.php and integrate with Ezoic.",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Supreme Open-Source add to cart botNEW -- Added typing simulation!\n\nSupreme Auto Checkout is a Google Chrome extension to automate the process of buying a product from the Supreme shop.\n\nSupreme Auto Checkout provides many features such as:\n\nAuto Checkout - The product will automatically be added to your cart and will straight go to the checkout page.\n\nAutoFill - All of your billing informations will be automaticaly filled on the checkout page.\n\nMulti profiles - You can setup multiple profiles to quickly switch settings during drop day!\n\nConfigurable delays for every steps of the checkout process.\n\nSize choice for every category of product.\n\nOption to set a minimum/maximum price for a product.\n\nOption to hide sold out products.\n\nEasy configuration.\n\nAutoCop - You can set keywords for products and they will automatically be added to cart when they are available on the shop.\n\nRestock monitor - Be notified when a product goes back in stock.\n\nDrop list.",
+    "appid": "lokkgfofiabinmcohpdalkcmfjpepkjb",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Supreme Open-Source add to cart botNEW -- Added typing simulation!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Supreme Auto Checkout is a Google Chrome extension to automate the process of buying a product from the Supreme shop."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Supreme Auto Checkout provides many features such as:"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Auto Checkout - The product will automatically be added to your cart and will straight go to the checkout page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "AutoFill - All of your billing informations will be automaticaly filled on the checkout page."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Multi profiles - You can setup multiple profiles to quickly switch settings during drop day!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Configurable delays for every steps of the checkout process."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Size choice for every category of product."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Option to set a minimum/maximum price for a product."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Option to hide sold out products."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Easy configuration."
+      },
+      {
+        "manual-eval": 1,
+        "s": "AutoCop - You can set keywords for products and they will automatically be added to cart when they are available on the shop."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Restock monitor - Be notified when a product goes back in stock."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Drop list."
+      }
+    ],
+    "category": "12-shopping",
+    "app": "supreme-auto-checkout-bot",
+    "url": "https://chrome.google.com/webstore/detail/supreme-auto-checkout-bot/lokkgfofiabinmcohpdalkcmfjpepkjb?hl=en",
+    "permissions": [
+      "activeTab",
+      "contentSettings",
+      "cookies",
+      "storage",
+      "webNavigation",
+      "background",
+      "notifications",
+      "webRequest",
+      "webRequestBlocking",
+      "*://*.supremenewyork.com/*",
+      "http://www.supremenewyork.com/mobile_stock.json",
+      "downloads"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Perk for ChromePerk for Chrome adds a little awesome to your browser by awarding you points when you shop, search, and more!  \n\nSimply add the Perk for Chrome extension to your browser, log in or create an account and start earning.  \n\n**Earn points when you shop**\n\nPerk will give you points when you shop at over 1,000 of our partner stores like Gap, Best Buy, and more. For a complete list of Perk stores, click 'shop' on the Perk Lite menu.  \n\n**Get Cash, airline miles, prizes, and more**\n\nPerk points can be exchanged for cash, gift cards, prizes, and more.  Choose from an Amazon gift card, iPad, airline miles, and so much more.  Explore our entire prize catalog at http://chrp.it/2h5o\n\n**How does it work?**\n\nSimply visit a store that you want to shop at and the Perk Lite button on the right side of your browser bar will turn YELLOW.  Click on the button and it will turn GREEN and activate your earning session.  \n\n**What do the colors mean?**\n- Green: You have just earned points, or have activated an earning session that will give you points when you shop at a store.\n- Yellow: You are visiting a Perk partner store where a purchase will award you with points\n- Gray: You are on a site that will not earn points\n\nTerms: http://www.perk.com/perk/terms\nPrivacy Policy: http://www.perk.com/perk/privacy",
+    "appid": "edpaeddemekchnbmjmcjplbbeeheionp",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Perk for ChromePerk for Chrome adds a little awesome to your browser by awarding you points when you shop, search, and more!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Simply add the Perk for Chrome extension to your browser, log in or create an account and start earning."
+      },
+      {
+        "manual-eval": 0,
+        "s": "**Earn points when you shop**"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Perk will give you points when you shop at over 1,000 of our partner stores like Gap, Best Buy, and more."
+      },
+      {
+        "manual-eval": 0,
+        "s": "For a complete list of Perk stores, click 'shop' on the Perk Lite menu."
+      },
+      {
+        "manual-eval": 0,
+        "s": "**Get Cash, airline miles, prizes, and more**"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Perk points can be exchanged for cash, gift cards, prizes, and more."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Choose from an Amazon gift card, iPad, airline miles, and so much more."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Explore our entire prize catalog at http://chrp.it/2h5o"
+      },
+      {
+        "manual-eval": 0,
+        "s": "**How does it work?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "**"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Simply visit a store that you want to shop at and the Perk Lite button on the right side of your browser bar will turn YELLOW."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Click on the button and it will turn GREEN and activate your earning session."
+      },
+      {
+        "manual-eval": 0,
+        "s": "**What do the colors mean?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "**"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Green: You have just earned points, or have activated an earning session that will give you points when you shop at a store."
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Yellow: You are visiting a Perk partner store where a purchase will award you with points"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- Gray: You are on a site that will not earn points"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Terms: http://www.perk.com/perk/terms"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Privacy Policy: http://www.perk.com/perk/privacy"
+      }
+    ],
+    "category": "12-shopping",
+    "app": "perk-for-chrome",
+    "url": "https://chrome.google.com/webstore/detail/perk-for-chrome/edpaeddemekchnbmjmcjplbbeeheionp?hl=en",
+    "permissions": [
+      "management",
+      "contentSettings",
+      "webNavigation",
+      "tabs",
+      "cookies",
+      "http://*/*",
+      "https://*/*",
+      "4.0.5"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Supreme HotBotSupreme is the most popular street wear brand. Brand's gear is sold out within seconds, so it is almost impossible to cop without a bot. Every season Supreme releases a new clothing collection, which contains collaborations with famous brands, artists and designers as well as extremely unusual accessories. Our bot will help you to purchase the most hyped pieces.\n\nYou can download and test our demo-version for free.",
+    "appid": "mfongdflbklhfaagadnjjbfachjedpcj",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Supreme HotBotSupreme is the most popular street wear brand."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Brand's gear is sold out within seconds, so it is almost impossible to cop without a bot."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Every season Supreme releases a new clothing collection, which contains collaborations with famous brands, artists and designers as well as extremely unusual accessories."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our bot will help you to purchase the most hyped pieces."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You can download and test our demo-version for free."
+      }
+    ],
+    "category": "12-shopping",
+    "app": "supreme-hotbot",
+    "url": "https://chrome.google.com/webstore/detail/supreme-hotbot/mfongdflbklhfaagadnjjbfachjedpcj?hl=en",
+    "permissions": [
+      "activeTab",
+      "tabs",
+      "contentSettings",
+      "cookies",
+      "storage",
+      "webNavigation",
+      "background",
+      "notifications",
+      "webRequest",
+      "webRequestBlocking",
+      "*://*.supremenewyork.com/*",
+      "http://www.supremenewyork.com/mobile_stock.json",
+      "https://www.google.com/recaptcha/api2/demo",
+      "downloads",
+      "proxy"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "WhiloWhilo let\u2019s you save what you see anywhere online, create custom wish lists, share your wish lists and follow friends and family so you can always give (and get!) the perfect gift.\n\n\nWith Whilo, you can:\n- always get a gift you actually want \n- know exactly what to get others (even if it\u2019s last minute)  \n- save anything you like from any site online\n- be part of a community focused on quality and thoughtfulness\n- see what tastemakers and stylists really want\n- create public or private wish lists for children and loved ones, specific holidays or special events\n-receive birthday reminders to make sure you never miss another important event \n- get inspiration for gifts, yourself and so much more.\n\n\nIn the future, you\u2019ll be able to:\n- receive product recommendations tailored to you \n- filter products by price, color, type, age or brand\n- access gift guides based on personality types \n- import your existing wish lists from other sites, such as Pinterest and Amazon.\n\n\nIf there\u2019s anything you think we can improve on, feel free to email feedback@whilo.com.\n\n",
+    "appid": "mkphcbigbmhlfgejmglcklggadcffhae",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "WhiloWhilo lets you save what you see anywhere online, create custom wish lists, share your wish lists and follow friends and family so you can always give (and get!)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "the perfect gift."
+      },
+      {
+        "manual-eval": 0,
+        "s": "With Whilo, you can:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- always get a gift you actually want"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- know exactly what to get others (even if its last minute)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- save anything you like from any site online"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- be part of a community focused on quality and thoughtfulness"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- see what tastemakers and stylists really want"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- create public or private wish lists for children and loved ones, specific holidays or special events"
+      },
+      {
+        "manual-eval": 0,
+        "s": "-receive birthday reminders to make sure you never miss another important event"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- get inspiration for gifts, yourself and so much more."
+      },
+      {
+        "manual-eval": 0,
+        "s": "In the future, youll be able to:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- receive product recommendations tailored to you"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- filter products by price, color, type, age or brand"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- access gift guides based on personality types"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- import your existing wish lists from other sites, such as Pinterest and Amazon."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If theres anything you think we can improve on, feel free to email feedback@whilo.com."
+      }
+    ],
+    "category": "12-shopping",
+    "app": "whilo",
+    "url": "https://chrome.google.com/webstore/detail/whilo/mkphcbigbmhlfgejmglcklggadcffhae?hl=en",
+    "permissions": [
+      "tabs",
+      "cookies",
+      "storage",
+      "activeTab",
+      "<all_urls>",
+      "contentSettings",
+      "http://whilo.dev/",
+      "http://thisiswhilo.com/",
+      "dist/options.html"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "The Profity Wallet enables you to manage all of your Profity coupons, along with any other coupons, in one central location.The Profity Wallet is an additional service from the Profity coupon network (www.profity.ch). The wallet created by Profity enables you to manage all of your Profity coupons, along with any other coupons, in one central location. Thanks to the browser extension, you will also be notified each time you visit an online shop that you already have a coupon for. You will never forget to use a coupon again!",
+    "appid": "pckjmhmdbnanbajgikppmjccfabgpiec",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "The Profity Wallet enables you to manage all of your Profity coupons, along with any other coupons, in one central location."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The Profity Wallet is an additional service from the Profity coupon network (www.profity.ch)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The wallet created by Profity enables you to manage all of your Profity coupons, along with any other coupons, in one central location."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Thanks to the browser extension, you will also be notified each time you visit an online shop that you already have a coupon for."
+      },
+      {
+        "manual-eval": 0,
+        "s": "You will never forget to use a coupon again!"
+      }
+    ],
+    "category": "12-shopping",
+    "app": "profity-wallet",
+    "url": "https://chrome.google.com/webstore/detail/profity-wallet/pckjmhmdbnanbajgikppmjccfabgpiec?hl=en",
+    "permissions": [
+      "clipboardWrite",
+      "contentSettings",
+      "cookies",
+      "https://*.profity.ch/",
+      "activeTab",
+      "tabs",
+      "storage"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Add items to Maybe* from any websiteSave things from around the web with this Maybe* browser button for Chrome.\n\nJust click the Maybe* button when you see something that is a Maybe*. Then you can save it to a collection.\n\nWhy use the websites wishlist or Save for Later function? Maybe* lets you save them all in one central place that you can access from your phone, desktop, laptop.\n",
+    "appid": "pkilmnaalhkialehdmccmjmbhlfgjklc",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Add items to Maybe* from any websiteSave things from around the web with this Maybe* browser button for Chrome."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Just click the Maybe* button when you see something that is a Maybe*."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Then you can save it to a collection."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Why use the websites wishlist or Save for Later function?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Maybe* lets you save them all in one central place that you can access from your phone, desktop, laptop."
+      }
+    ],
+    "category": "12-shopping",
+    "app": "add-to-maybe",
+    "url": "https://chrome.google.com/webstore/detail/add-to-maybe/pkilmnaalhkialehdmccmjmbhlfgjklc?hl=en",
+    "permissions": [
+      "tabs",
+      "storage",
+      "cookies",
+      "background",
+      "*://app.maybe.xyz/*",
+      "https://www.google-analytics.com/",
+      "contentSettings"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Easy interactions with PriceJugaadPriceJugaad makes sense of data related to products sold by retailers at different places. It understands how prices vary with time, for each online/offline seller, and predicts future prices. It goes through thousands of reviews online and lists a gist of what people found attractive or repulsive, and things you might be interested in.\n\nPriceJugaad's data driven engine, pulls information from various sources and puts all you need to know at one place. So that you can instead focus on your buying decision. Effortlessly.",
+    "appid": "nkhldfplgdipihbhoejphahhhbkkfljo",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Easy interactions with PriceJugaadPriceJugaad makes sense of data related to products sold by retailers at different places."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It understands how prices vary with time, for each online/offline seller, and predicts future prices."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It goes through thousands of reviews online and lists a gist of what people found attractive or repulsive, and things you might be interested in."
+      },
+      {
+        "manual-eval": 0,
+        "s": "PriceJugaad's data driven engine, pulls information from various sources and puts all you need to know at one place."
+      },
+      {
+        "manual-eval": 0,
+        "s": "So that you can instead focus on your buying decision."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Effortlessly."
+      }
+    ],
+    "category": "12-shopping",
+    "app": "pricejugaad",
+    "url": "https://chrome.google.com/webstore/detail/pricejugaad/nkhldfplgdipihbhoejphahhhbkkfljo?hl=en",
+    "permissions": [
+      "contentSettings",
+      "contextMenus",
+      "cookies",
+      "history",
+      "notifications",
+      "https://*/*",
+      "http://*/*",
+      "http://ajax.googleapis.com/*",
+      "tabs",
+      "https://fonts.googleapis.com/*"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Extension for Rebound -- The web is a big place, we help you remember it.The Rebound Chrome extension helps you quickly and easily remember all the things you want to buy and do later. The web is big place, we help you remember it!\n\nPick A Time and Forget It\nWhether you use one of our suggested reminder times or pick a date yourself, you\u2019re just a few clicks away from setting a reminder for future you!\n\nBuy Later\nSee something online you want to buy later or maybe a great gift idea for a birthday that's 6 months from now? Just click the Rebound browser button, choose when you want to be reminded and we'll take care of the rest.\n\nDo Later\nConcert tickets going on sale next week or maybe there's a new movie opening next month you want to see? Just visit the page of the event, click the Rebound button, choose a time and we'll remind you!\n\nReminders Sent Right To Your Inbox\nDon't just bookmark a page or pin a photo, only to forget later. Reminders aren\u2019t very helpful if you never see them. That\u2019s why we work to make sure you\u2019re getting the right reminders at the right time. But what if you\u2019re not ready for the reminder yet? No problem! Snooze it right from your email!",
+    "appid": "ioobfhdglchbmcialhpkiclgbakhjdgm",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Extension for Rebound -- The web is a big place, we help you remember it."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The Rebound Chrome extension helps you quickly and easily remember all the things you want to buy and do later."
+      },
+      {
+        "manual-eval": 0,
+        "s": "The web is big place, we help you remember it!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Pick A Time and Forget It"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Whether you use one of our suggested reminder times or pick a date yourself, youre just a few clicks away from setting a reminder for future you!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Buy Later"
+      },
+      {
+        "manual-eval": 0,
+        "s": "See something online you want to buy later or maybe a great gift idea for a birthday that's 6 months from now?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Just click the Rebound browser button, choose when you want to be reminded and we'll take care of the rest."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Do Later"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Concert tickets going on sale next week or maybe there's a new movie opening next month you want to see?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Just visit the page of the event, click the Rebound button, choose a time and we'll remind you!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Reminders Sent Right To Your Inbox"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Don't just bookmark a page or pin a photo, only to forget later."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Reminders arent very helpful if you never see them."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Thats why we work to make sure youre getting the right reminders at the right time."
+      },
+      {
+        "manual-eval": 0,
+        "s": "But what if youre not ready for the reminder yet?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "No problem!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Snooze it right from your email!"
+      }
+    ],
+    "category": "12-shopping",
+    "app": "rebound",
+    "url": "https://chrome.google.com/webstore/detail/rebound/ioobfhdglchbmcialhpkiclgbakhjdgm?hl=en",
+    "permissions": [
+      "contentSettings",
+      "cookies",
+      "storage",
+      "tabs",
+      "geolocation",
+      "http://*/*",
+      "*://use.typekit.net/*",
+      "webRequest",
+      "webRequestBlocking"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "How thick is that book?You sometimes want to know how thick a book is. Thickbook does this \n\n- shows you the book next to a standard-size paperclip\n- tells you approximately how long it will take you to read the book\n",
+    "appid": "hlboeccbbamjaeioijmocfijippklhai",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "How thick is that book?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "You sometimes want to know how thick a book is."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Thickbook does this"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- shows you the book next to a standard-size paperclip"
+      },
+      {
+        "manual-eval": 0,
+        "s": "- tells you approximately how long it will take you to read the book"
+      }
+    ],
+    "category": "12-shopping",
+    "app": "thickbook",
+    "url": "https://chrome.google.com/webstore/detail/thickbook/hlboeccbbamjaeioijmocfijippklhai?hl=en",
+    "permissions": [
+      "contentSettings",
+      "http://www.amazon.com/*"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "description": "Convenient extension for tracking your packages from Amazon, Ebay, AliExpress or any other web storeConvenient extension for tracking your packages from Amazon, Ebay, AliExpress or any other web store.\n\nMain features of the extension:\n   * Tracking number validation\n   * You can track as many tracking numbers at the same time as you need.\n   * You will get instant notifications if some package has changed it's state\n   * No CAPTCHA required\n\nFeel free to contact us if you have a problem with tracking of some numbers. Our Facebook page: https://www.facebook.com/checkyourtrack. We will try to solve the problem ASAP!\n\nChanges in version 1.4.9:\n    * Fixed the problem with WeDo tracking company.\n\nChanges in version 1.4.7:\n    * Fixed extension.\n    * Added support of Malaysia Post tracking numbers (ETH********MY and SYL********MY tracking codes).\n\nChanges in version 1.4.5:\n    * Added an ability edit information about previously added tracking numbers.\n    * Added support of OneWorldExpress tracking numbers (OWSZ**********).\n    * Added support of SF-Express tracking numbers (12 digis).\n\nChanges in version 1.4.1:\n    * Added an ability to track LP************** packages.\n\nChanges in version 1.4.0:\n    * Added an ability to specify ETA of a package.\n    * Added an ability to track ***********BJ packages.\n\nChanges in version 1.3.11:\n    * Added an ability to extract track codes from a selected text and add with the help of context menu.\n\nChanges in version 1.3.9:\n    * Added some necessary fixes\n\nChanges in version 1.3.5:\n    * Added an ability to track URxxxxxxxxxYP (Yanwen Express), Sxxxxxxx (CNZExpress), HBMxxxxxxXXXxxxxxx (EC-Firstclass) packages.\n\nChanges in version 1.3.2:\n    * Added an ability to track YCxxxxxxxxxYW packages\n\nChanges in version 1.3.0:\n    * Added an ability to specify description and add some comments for each tracking number\n\nChanges in version 1.2.10:\n    * Added an ability to track Yanwen Express Packages (UAxxxxxxxxxYP)\n    * Fixed minor bugs\n\nChanges in version 1.2.9:\n    * Added an ability to track PayPal Packages (PPxxxxxxxxxBJ)\n    * Fixed minor bugs",
+    "appid": "bcbejbhbipdmfbljmmbjfdhaghcapkjd",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Convenient extension for tracking your packages from Amazon, Ebay, AliExpress or any other web storeConvenient extension for tracking your packages from Amazon, Ebay, AliExpress or any other web store."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Main features of the extension:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Tracking number validation"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* You can track as many tracking numbers at the same time as you need."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* You will get instant notifications if some package has changed it's state"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* No CAPTCHA required"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Feel free to contact us if you have a problem with tracking of some numbers."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our Facebook page: https://www.facebook.com/checkyourtrack."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We will try to solve the problem ASAP!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.4.9:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Fixed the problem with WeDo tracking company."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.4.7:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Fixed extension."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added support of Malaysia Post tracking numbers (ETH********MY and SYL********MY tracking codes)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.4.5:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability edit information about previously added tracking numbers."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added support of OneWorldExpress tracking numbers (OWSZ**********)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added support of SF-Express tracking numbers (12 digis)."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.4.1:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to track LP************** packages."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.4.0:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to specify ETA of a package."
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to track ***********BJ packages."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.3.11:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to extract track codes from a selected text and add with the help of context menu."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.3.9:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added some necessary fixes"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.3.5:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to track URxxxxxxxxxYP (Yanwen Express), Sxxxxxxx (CNZExpress), HBMxxxxxxXXXxxxxxx (EC-Firstclass) packages."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.3.2:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to track YCxxxxxxxxxYW packages"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.3.0:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to specify description and add some comments for each tracking number"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.2.10:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to track Yanwen Express Packages (UAxxxxxxxxxYP)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Fixed minor bugs"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Changes in version 1.2.9:"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Added an ability to track PayPal Packages (PPxxxxxxxxxBJ)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "* Fixed minor bugs"
+      }
+    ],
+    "category": "12-shopping",
+    "app": "checkyourtrack-mail-track",
+    "url": "https://chrome.google.com/webstore/detail/checkyourtrack-mail-track/bcbejbhbipdmfbljmmbjfdhaghcapkjd?hl=en",
+    "permissions": [
+      "contextMenus",
+      "contentSettings",
+      "cookies",
+      "http://*/*",
+      "https://*/*",
+      "notifications",
+      "webRequest",
+      "webRequestBlocking"
+    ],
+    "apptype": "chrome-ext",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "app": "catify-cute-cat-in-new-ta",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "cookies",
+      "chrome://favicon/",
+      "contentSettings",
+      "contextMenus",
+      "tabs",
+      "https://*/*",
+      "http://*/*"
+    ],
+    "description": "A cute cat in every new tab.A cute cat in every new tab.\nEvery time you open a New Tab a new animated cat will appear to make your day better.\n\n\n*Note (I don't own any Rights to images used in this extension they are from all over the internet to spread Love for cats :) If you are Owner of images Contact me and i will remove them right away.)",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "A cute cat in every new tab."
+      },
+      {
+        "manual-eval": 0,
+        "s": "A cute cat in every new tab."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Every time you open a New Tab a new animated cat will appear to make your day better."
+      },
+      {
+        "manual-eval": 0,
+        "s": "*Note (I don't own any Rights to images used in this extension they are from all over the internet to spread Love for cats :) If you are Owner of images Contact me and i will remove them right away.)"
+      }
+    ],
+    "url": "https://chrome.google.com/webstore/detail/catify-cute-cat-in-new-ta/pmjcfdncnnnjddcfljhhmllmbkkgbhea?hl=en",
+    "category": "14-fun",
+    "appid": "pmjcfdncnnnjddcfljhhmllmbkkgbhea",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "app": "solitaire-social-flash-al",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "background",
+      "*://*.facebook.com/*"
+    ],
+    "description": "Play Solitaire Social using this extension from Playkot LTD.Use this extension to play Solitaire Social from Playkot LTD!\n\nSolitaire Social Flash Allow will help you play Solitaire Social, Solitaire 3 Social and Solitaire Club by allowing Flash in your browser once and for all.\n\nGet rid of the annoying Flash permissions with Solitaire Social Flash Allow and launch Solitaire Social automatically with no hassle.\n\nUse a single click entry with Solitaire Social Flash Allow through a special shortcut right on your browser control panel!\n\nPlease note that Solitaire Social Flash Allow changes your Flash permissions only. Your data and any other information you share is under protection due to our Privacy Policy.\n\nBy using this extension you confirm the acceptance of Terms of Service, and Privacy Policy by Playkot Ltd.\n\nTerms of Service: https://en.playkot.com/terms.htm\nPrivacy Policy: https://playkot.com/privacy.htm",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Play Solitaire Social using this extension from Playkot LTD.Use this extension to play Solitaire Social from Playkot LTD!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Solitaire Social Flash Allow will help you play Solitaire Social, Solitaire 3 Social and Solitaire Club by allowing Flash in your browser once and for all."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Get rid of the annoying Flash permissions with Solitaire Social Flash Allow and launch Solitaire Social automatically with no hassle."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Use a single click entry with Solitaire Social Flash Allow through a special shortcut right on your browser control panel!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "Please note that Solitaire Social Flash Allow changes your Flash permissions only."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your data and any other information you share is under protection due to our Privacy Policy."
+      },
+      {
+        "manual-eval": 0,
+        "s": "By using this extension you confirm the acceptance of Terms of Service, and Privacy Policy by Playkot Ltd."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Terms of Service: https://en.playkot.com/terms.htm"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Privacy Policy: https://playkot.com/privacy.htm"
+      }
+    ],
+    "url": "https://chrome.google.com/webstore/detail/solitaire-social-flash-al/cdgadiikjdgddgfhacgjbacflhoimogn?hl=en",
+    "category": "14-fun",
+    "appid": "cdgadiikjdgddgfhacgjbacflhoimogn",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "app": "tropic-storm-access",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "contentSettings",
+      "background",
+      "*://*.facebook.com/*",
+      "*://*.vk.com/*",
+      "*://*.ok.ru/*",
+      "*://*.odnoklassniki.ru/*"
+    ],
+    "description": "Play Tropic Storm using this extension from Playkot LTD.An official extension from Playkot to allow using Flash once and for all.\n\nYou don\u2019t have to deal with Flash permission settings each time you launch Tropic Storm. All Flash games will launch automatically, no squabble!\n\nIn addition, Tropic Storm Access provides a shortcut to Tropic Storm game page right to your browser control panel for super-fast one-click entry.\n\nPlease note that Tropic Storm Access only turns Flash on, and nothing more. Your data and any other information you share is under protection due to our Privacy Policy.\n\nBy using this extension you confirm the acceptance of Terms of Service, and Privacy Policy by Playkot Ltd\n\nTerms of Service: https://en.playkot.com/terms.htm\nPrivacy Policy: https://playkot.com/privacy.htm ",
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Play Tropic Storm using this extension from Playkot LTD.An official extension from Playkot to allow using Flash once and for all."
+      },
+      {
+        "manual-eval": 1,
+        "s": "You dont have to deal with Flash permission settings each time you launch Tropic Storm."
+      },
+      {
+        "manual-eval": 1,
+        "s": "All Flash games will launch automatically, no squabble!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "In addition, Tropic Storm Access provides a shortcut to Tropic Storm game page right to your browser control panel for super-fast one-click entry."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Please note that Tropic Storm Access only turns Flash on, and nothing more."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Your data and any other information you share is under protection due to our Privacy Policy."
+      },
+      {
+        "manual-eval": 0,
+        "s": "By using this extension you confirm the acceptance of Terms of Service, and Privacy Policy by Playkot Ltd"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Terms of Service: https://en.playkot.com/terms.htm"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Privacy Policy: https://playkot.com/privacy."
+      },
+      {
+        "manual-eval": 0,
+        "s": "htm"
+      }
+    ],
+    "url": "https://chrome.google.com/webstore/detail/tropic-storm-access/okkobeojihghldlofbhjoenijjblmiag?hl=en",
+    "category": "14-fun",
+    "appid": "okkobeojihghldlofbhjoenijjblmiag",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "app": "cats-new-tab",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "cookies",
+      "chrome://favicon/",
+      "contentSettings",
+      "contextMenus",
+      "activeTab",
+      "tabs",
+      "storage",
+      "webRequest",
+      "webRequestBlocking",
+      "*://*/*",
+      "webNavigation",
+      "unlimitedStorage",
+      "New tab Catify"
+    ],
+    "description": "I love cats! Cute kittens. Install this theme to get wallpaper of cute cats and kittens in the browser home page.Enjoy a new cat animation in every new tab you open.\nEveryone loves cats with their fuzzy paws and funny foolish actions.\nWe bring that to you in clever Chrome extension with animations of cats and kitten pictures in each new tab you open. \nStart your day with a smile and a new cat in a new tab.\n\nCute Cat New Tab works very simple.\nEach time you open a new tab it has a new cat & kitten wallpaper in it or a cute cat animation. We provide you with many cute cat wallpapers just for your enjoyment or a funny new tab chrome cat animation. \n Our tabby kittens animations purr, sleep, play with toilet paper, workout, listening to music, ask you to feed them, play some more and sleep some more just like a real cats!\n\nYou will have tons of fun with our extension. Every tab will bring you something new as we added very many content to it. A new animated cat on every tab. Where there just a cute kitten wallpaper or a especially picked funny cat animation - you will definitely enjoy it as a cat lover. \n\nTry it now and make your day better!\n\n\nAll images with cats were collected from the Internet. If you are the author of images and against their use in this extension, let us know and we will remove your image/images from our extension.",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "I love cats!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Cute kittens."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Install this theme to get wallpaper of cute cats and kittens in the browser home page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Enjoy a new cat animation in every new tab you open."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Everyone loves cats with their fuzzy paws and funny foolish actions."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We bring that to you in clever Chrome extension with animations of cats and kitten pictures in each new tab you open."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Start your day with a smile and a new cat in a new tab."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Cute Cat New Tab works very simple."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Each time you open a new tab it has a new cat & kitten wallpaper in it or a cute cat animation."
+      },
+      {
+        "manual-eval": 0,
+        "s": "We provide you with many cute cat wallpapers just for your enjoyment or a funny new tab chrome cat animation."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Our tabby kittens animations purr, sleep, play with toilet paper, workout, listening to music, ask you to feed them, play some more and sleep some more just like a real cats!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "You will have tons of fun with our extension."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Every tab will bring you something new as we added very many content to it."
+      },
+      {
+        "manual-eval": 0,
+        "s": "A new animated cat on every tab."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Where there just a cute kitten wallpaper or a especially picked funny cat animation - you will definitely enjoy it as a cat lover."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Try it now and make your day better!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "All images with cats were collected from the Internet."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If you are the author of images and against their use in this extension, let us know and we will remove your image/images from our extension."
+      }
+    ],
+    "url": "https://chrome.google.com/webstore/detail/cats-new-tab/jhghnbmbjgkhkhjmlpldejjfmleaeagk?hl=en",
+    "category": "14-fun",
+    "appid": "jhghnbmbjgkhkhjmlpldejjfmleaeagk",
+    "consider_perm": "contentSettings"
+  },
+  {
+    "app": "music",
+    "apptype": "chrome-ext",
+    "permissions": [
+      "storage",
+      "http://*/*",
+      "http://dar.fm/*",
+      "http://onrad.io/*",
+      "unlimitedStorage",
+      "notifications",
+      "contentSettings",
+      "tabs",
+      "windows"
+    ],
+    "description": "A free music service with ability to search and play popular songs or select a genre. Now with unlimited skips!\"Music\" is an amazing audio service that you can use as quiet background music or to find your favorite songs. This service lets you search and play many popular songs or find just the right station for non-stop audio. \n\nHourly reminders not only help you keep track of time, but recommend music based on the music you've already played. \n\nThanks for trying \"Music\". Please be sure and leave feedback because we're constantly improving the product and love to hear from users. ",
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "A free music service with ability to search and play popular songs or select a genre."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Now with unlimited skips!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "\"Music\" is an amazing audio service that you can use as quiet background music or to find your favorite songs."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This service lets you search and play many popular songs or find just the right station for non-stop audio."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Hourly reminders not only help you keep track of time, but recommend music based on the music you've already played."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Thanks for trying \"Music\"."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Please be sure and leave feedback because we're constantly improving the product and love to hear from users."
+      }
+    ],
+    "url": "https://chrome.google.com/webstore/detail/music/eaofedakbamojiiollepebekbpichkik?hl=en",
+    "category": "14-fun",
+    "appid": "eaofedakbamojiiollepebekbpichkik",
+    "consider_perm": "contentSettings"
+  }
+]

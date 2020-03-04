@@ -1,0 +1,1002 @@
+[
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "SMS Popup does mark message as 'read'"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "to actually mark sms as read"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "1 shows the live contact needs to read the contact data access permission; 2 add a shortcut when direct dial call authority need the android.permission.CALL_PHONE ; 3 add send SMS shortcut operation message need permission"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The BT Reader Plus application supports text messages reading through your Bluetooth headset"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Needed when a call, or text comes in to check to see if the number is in your contacts, the app then reads out the contact name instead of the number"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read all inbound and outbound text messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "the full screen caller id can read out loud your incoming calls, sms and mails"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "This feature may be useful when you are unable to look up the screen and read SMS, for example driving"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Access your call log, text messages, weather updates and more without unlocking your phone"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Transparency mode to help you view other windows in the background as you read and reply to messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reads out text messages you receive"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Access your messages, call logs, download contacts, share music, videos and view photos from the web"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The bar will light up until the SMS is read, the call has been acknowledged or optionally the lights can be turned off when the screen is unlocked"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Once a message is read it will disappear"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read and delivery receipts for all messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "All your messages are in the cloud, so you can easily access them from any of your devices"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Access your QQ chat history and recent messages from all your devices"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read the Instruction carefully and save your number in box where written 'You will get all the spy SMS'"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "We can create and send new sms or read sms here"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Worried about your messages being read by others"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "to display the text of incoming sms in event list widget read sms"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Fixed bugs for reading SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Please, use the menu key on your phone to discover all functions, and read the Help text before any use"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Required to read sent and received SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "display apps' notifications on the lockscreen Write SMS and Contactsto mark SMS as read, and clear missed calls for themes Kill processes"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "read and write SMS (android.permission.READ_SMS, android.permission.WRITE_SMS)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Send SMS Messages, Read Your Contacts, Read Call Log"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "to find sms in all sms list for marking it as read by tap on its text in a widget write sms"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "An always on 'bubble' to access your latest messages from anywhere (without even leaving your current app"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "This is a totally free application and we need the permissions to read the applications, but we will not collect the messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read caller ID for incoming text messages (PRO version only)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Used to read and send SMS (including writing to the system outbox)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You dont need to use a supported client to access POP/IMAP accounts in EA, however, if you do, then EA can access your messages directly from the on-device database, without having to fetch them over your data connection"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "have your messages read to you using text-to-speech"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You have the option to save the blocked text messages so you can read them after you 'unblock' the contact"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "We use this to help you read and reply to SMS messages from within the popup windows"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "SMS Alert provides a popup dialog when a message is received.SMS Alert allows you to quickly read and reply to text messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "read your personal message if any"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Scans and produces warnings about the applications that might access your sensitive data like Contacts, SMS, phone location, etc"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "And for mobile devices with SIM card, receive SMS alerts when someone access your mobile device using an unauthorized SIM card"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "If you want, it will also read out the message to you"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Sandesham is an application that listen to incoming SMS and reads it aloud for you"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "'Read Message') (FULL VERSION ONLY)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "In this case, to determine the incoming sms, read sms, sms is not read"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Comprehensive security solution protecting from virus, malware, madware and rogue apps that access your personal information including photos, SMS, stocks, bank accounts, which most mobile anti-virus software does not"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Know the instant someone reads your texts"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "you can now read your new SMS and missed call without of any touch on display"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You have the option to save the blocked text messages so you can read them after you unblock the contact"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Access to your Email/SMS messages o"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Keep your texts private and avoid embarrassing moments from texts read aloud through your phone"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Quick stop sms reading option, by activating/deactivating shaking feature"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read your voicemail messages via SMS while in a meeting, class, movie or other busy area"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read text message contents (PRO Version only)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Just choose the disappearing ink style and your text will disappear after your friend reads it"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "From our app you can listen to your favorite shows live, access our programming schedule, interact with the studio via text, email and social media and much more"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "read sent and received SMS messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Optionally customize what to be read, Contact name or Contact name and SMS body"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "READ AND DELIVERY CONFIRMATIONS Get a confirmation when your friends have received or read your messages on Talk.to"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You can securely access your Telegram messages and media from multiple devices"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "An option to mark messages as read in the in-built application as they are read in Cabbage"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "That is, only read SMS from your contacts (available in paid version only)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Like iMessage, never worry about losing your chats or groups; with one click find your friends messages, read through history and start a conversation again"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Once the application is installed the BlueAnt device will read back all text messages automatically"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Access your phone from text messages (SMS)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "We read and send messages for you"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Needed to read SMS during backups and write them"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Simple SMS is the quickest and easiest way to read and send SMS messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Allow the texts to automatically be read without a voice command"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "As WebSMS is not able to read messages you might find SMSdroid useful"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "If no command is given the app will exit without reading the incoming text"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "SMS Popup provides a convenient popup dialog when a message is received that allows you to quickly read and reply to messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You will immediately know when the recipient has read your messages and you can recall or remotely wipe messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "expandable status bar notifications (JellyBean) with contact pictures and actions (mark as read, delete, call), or privacy mode with only sender or completely anonymous"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You can see when messages are sent, delivered, read, and even when the other person is typing a message"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reading and replying to incoming text (incl"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read all inbound and outbound messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "First it shows you some of your email addresses taken from gmail, then shows it can read your SMS too, and at last asks you to make something not to send your data to all of your contacts"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reading and replying to incoming text (including Google Voice) and email (including Microsoft Exchange)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "(NB this is why the app needs permission to access contacts and SMS, these are the permissions needed to count calls and texts, messages are never accessed or read!)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Eliminate the temptation of reading your emails and SMS while driving by listening to a voice that reads your emails and SMS in real time and reply by Voice"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "For those interested in maximum privacy, we've added Secret Chats, featuring end-to-end encryption to ensure that a message can only be read by its intended recipient"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The application enables you to receive notifications and read incoming messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Get delivery and read receipts for texts"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "For example a very long SMS is sent by your friend and you don't it all to be read out"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read out text messages when connected to a device in the list using audio stream and Text To Speech services (see manual for details)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Have incoming SMS messages read aloud and automatically respond with a customized message while driving"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "This way you can read the statusbar ticker and learn the sender and contents of the message even without grabing your phone"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "It records audio, video, and images during the emergency which can be accessed by the recipients of your alerts"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Simply switch on the application and your received SMS are reading"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "READ YOUR TEXT MESSAGES (SMS OR MMS)/EDIT YOUR TEXT MESSAGES (SMS OR MMS)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Know when messages have been delivered (Ds) and read (Rs)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Privacy Advisor scans and displays all apps that access your personal information, such as personal data, contacts, locations, and SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Your messages to edit SMS or MMS, read SMS or MMS, receive SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "How do I faso message to appear as a message has been read"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "This app allows you to be a responsible driver and stay connected by reading unlimited messages for free"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "With this new SDK, facebook will not inform us after messages have been read.So the notification won't be reduced immediately.Developers are working on this"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "By installing the Track girlfriend application on the target phone, you can remotely read all inbound and outbound SMS Text messages, view phone call logs (including name, number, time and length of call), web browsing history"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The App is intelligent enough to detect and read the token in the SMS and successfully process the transaction"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Very simple you just open the message and it will appear as read message"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Needed to receive text messages, read the messages out loud, and allow you to respond via voice"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Optionally, Premium users can read inbound/outbound SMS messages remotely, receive automatic alerts when a family member have arrived or left a place and more"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read and parse SMS from your bank and add it to xlsx"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": ") Receive SMS and read SMS or MMS"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read and view all inbound and outbound MMS messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "read or show save message"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "And it also can read out SMS in some supported languages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "scans and displays all apps that access your personal information, such as personal data, contacts, locations, and SMS"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Ninja SMS enables true multitasking by allowing you to read and reply to incoming messages without ever leaving your current screen"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The app reads out the name of the person calling you or the name of the person who has sent you an SMS"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Incoming sms text messages are are read out loud to you"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Unlike other monitoring solutions, SMS Tracker does not just forward a message to your phone via SMS which can cost you money, it saves the messages on a remote server that only you can access"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Worried about your SMS being read by others"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Speak Text Hands Free is uniquely different from other text readers as Speak Text will not read your private and potentially embarrassing texts aloud unless you tell it too"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "This program reads text messages from a central FIRE/EMS Dispatch service presents user with the information giving them an option to locate the incident on a map and get directions to it"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "widget to read message queues"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Have you ever worried about someone read your private messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Long-press on conversations and individual messages to access extended View, Delete, and Export options"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Enjoy chatting with unlimited text, video, and voice messaging, delivery and read receipts, typing status, and top-notch speed and reliability"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Incoming text messages read out to you"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "encrypt notes, send notes by email/sms/g+, backup/export to SD card (/sdcard/notes), attach pictures, compose to-do list notes (starting every line of a note with ' '), reminder, organize notes with labels, import notes from SMS (to provide this feature, the app needs the permission to read SMS)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Unlike other monitoring solutions, it does not just forward a message to your phone via SMS,it saves the messages on a Gmail Account that only you can access"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reads incoming message using Android Text-to-speech"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Description Mobile Locker hides sms, videos, photos, apps, facebook chats, protects them when someone attempts to access and read them on your phone or tablet, giving you full control over your privacy"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The text will be read aloud"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "BrowserTexting allows you to use your computer to read and send SMS text messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Receive SMS, Read contact data, Read phone state and identity"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "homescreen widget with no readed SMS, missed calls and no connected outgoing calls (pending calls) and buttons to dialpad, new sms, contacts and recent calls"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Your contact will receive an SMS text message with a link to securely read and respond to your message"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Speak Text Hands Free will read your incoming sms text messages only when given your voice command to do so"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Simply select the 'Compose a Message' icon within the TigerText application to access your mobile address book and select a contact to message"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Dragon Mobile Assistant can read your calendar alerts, Facebook Newsfeed updates and your text messages back to you"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "widget to read messages as they arrive"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Telegram offers free unlimited cloud storage for all your Telegram messages and media that you can securely access from multiple devices"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Voice messages appear in the Family Stream and can be listened to (audio) or read (text transcripts)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Text by Voice will automatically read incoming text messages aloud and give you a chance to respond"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reading and replying to incoming instant messages via Google Talk"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Unlike other messaging apps, unsend any text or photo message that hasnt been read"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Send and read coded messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "SMS Reader can read out the message for you in this situation"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Send rich messages or group chat with anyone from your phonebook and they will be able to read and reply to your messages from their default SMS app"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Option to save messages on your phone encrypted to prevent other apps reading your SMS messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Both permissions are used to read incoming text to determine if they are a poke and who to send a back poking them"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Log into the Dentaltown app with your Dentaltown login name and password and you can access the message boards in their entirety specially formatted for your mobile device"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Or maybe you want to remotely read your received text messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "View call logs and read all SMS messages from monitored devices (for Premium users)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Fake sent and received SMS/Txt messages and choose whether they are read or unread"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read your messages, download your call logs, view photos, share files and more"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The ability to read SMS and MMS, receive SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Hide incoming call and SMS details from prying eyes until it's safe to pick-up/read with UCS Privacy Screen"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "ixigo PNR Status reads PNR messages for flights and trains from your messages inbox and helps you view, manage and track your trip status with an intuitive design"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "It Creates the Call Log Backup, Exports it your email address, Monitors your Internet Usage from Cellular Network, Regulates the Ringtone/Alert Level based on the Ambient Noise, Creates a list of people for whom you want to Reject Calls/Answer Calls automatically, Sends SMS to the people if their calls are missed, Uses Specially Composed Ringtones to alert you for the Calls/SMS, Announces the Caller ID of the caller, Reads out SMS for you"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "It will read the message to you and ask if you want to respond 4"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Whether you want your inbox Sms or e-mail automatically read while driving"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Receive/Read your text messages (SMS or MMS)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Access your SMS quickly via pop-up and share it directly from the pop-up"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "partial support for MMS (reading/deleting/locking)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "'Bluetooth Launcher' reads WhatsApp, SMS, Viber, Line and other notifications (Support Bluetooth MAP)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "This is a totally free application and we need the permissions to read the applications and enable system switches, we promise not to collect your personal messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reads text messages (SMS and GTalk) while device is connected"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Unlike other monitoring solutions, Track girlfriend does not just forward a message to your phone via SMS which can cost you money, it saves the messages on a remote server that only you can access"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Start reading of notifications Read Whatsapp, SMS, Viber, Line, etc when you are at home with the charger or in the car connected by bluetooth"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Send, read, forward and delete SMS messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "we all have stuff on our phones we'd like to keep to ourselves, like contacts, pics, videos, SMS and even Facebook messages, but how can we protect them when someone attempts to access and read our phones"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Write SMS and Read SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "It can read messages from Gmail (even 2.3.5, if you are rooted) with 3 different solutions explained here"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "We never access or read your messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "talk, call numbers and contacts, send and receive texts messages and email, set alarms, search websites, get answers from encyclopedias, find places, read news, get weather forecasts, do basic math, updates Facebook statuses, tweet, organize calendar, tasks and notes, play music and videos, open sites and applications, translate, navigate, check in on Foursquare, remind, learn from you new commands and much more"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "We get tired of having to stop what we are doing, pickup our phone, unlock it, navigate to the text messaging app, read the message, optionally reply to the message, put the phone back down, and then go back to what we were working on"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "By installing the SMS Tracker Agent on the target phone, you can remotely read all inbound and outbound SMS Text messages, MMS multimedia messages, photos sent and received, view phone call logs (including name, number, and length of call), web browsing history and view GPS location information on a map"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Get notified when your message is delivered and read by your friend"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Reads SMS contents (available in paid version only)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "THIS APP WILL READ THE SMS FROM UR INBOX AND SHOW THE USER IN AMERICAN SIGN LANGUAGE(ASL)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Key features let you know when your messages have been read, recall any messages that you have sent, and define a message lifespan after which your messages will self-destruct"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Customize text to be read"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": ") Read contact data Required to map the phone number received during call or SMS to the person's name in the contact data"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "When a message is received simply say 'Read Message' and the text will be read aloud along with the sender name"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Auto SMS auto-replies to all incoming text messages and reads aloud received messages.Its a simple sms app to use while driving"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "You can when your message was read and recall it at anytime"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Monitor incoming SMS and read and reply through the inbox"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The recipient can read those messages only when he has the right key (password)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "to receive and read the SMS contents and sender ID"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "In the lock screen to quickly read unread SMS"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Encrypt messages while sending to contacts so your phone carrier or government cannot read it"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "While most find my phone type apps require the user to access a web application, PhoneGuard is controlled entirely by commands within SMS (text) messages"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "If NSA, or any other hacker, intercepts or hack your phone, they cannot read your SMS messages"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Read aloud incoming text messages and reply hands-free"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "reads last message id to know when a message has been sent"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "About permissions Read/Modify contacts Read/Write text messages (SMS and MMS) Read/Write call log Read/Write user-defined dictionary Read/Write web bookmarks Set wallpaper"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Fake SMS log (sent, received, read, unread)"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "It Reads the text messages received and sends the autoreply with the users location.NOTE"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Needs root access , SMS read, Contact read permissions and SD-Card for temporary storage"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "export,sms, reply,call,Forward,Spam,Reload,Save into sdcard, read locally saved files"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Real-time confirmation when messages are read"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Mark as read, delete, reply directly from the sms popup"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Twitter Facebook Google+ MySpace Foursquare LinkedIn SMS RSS Identi.ca Pinterest (read only)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "The bubble appears long enough and has a large enough text that you can read it (unlike notifications)"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "XMS shows you when messages are sent and read"
+  },
+  {
+    "label": "1",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Cool popup window for accessing private message, talks, multimedia messages, pokes, and friend requests"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "We may not be able to reply to all the messages we receive, but we definitely try to read all of them"
+  },
+  {
+    "label": "0",
+    "permission": "read your text messages (sms or mms)",
+    "sentence": "Know when your friends have received and read your private messages"
+  }
+]

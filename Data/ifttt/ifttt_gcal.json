@@ -1,0 +1,1904 @@
+[
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Automatic Calendar Update Dropbox Calendar will automatically be updated when a booking or event is added."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Automatic Calendar Update",
+    "description": "Automatic Calendar Update Dropbox Calendar will automatically be updated when a booking or event is added.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Event starts on Google Calendar, send me an SMS Receive a text ~ 15 minutes before an event on your Google calendar starts."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Event starts on Google Calendar, send me an SMS",
+    "description": "Event starts on Google Calendar, send me an SMS Receive a text ~ 15 minutes before an event on your Google calendar starts.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar Notifier Get known every time your agenda has a new item"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Calendar Notifier",
+    "description": "Calendar Notifier Get known every time your agenda has a new item",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Create cards for holidays Useful for organisations to post holidays from a Google calendar to a trello board"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Create cards for holidays",
+    "description": "Create cards for holidays Useful for organisations to post holidays from a Google calendar to a trello board",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Scheduled tweet from Google Calendar Based on an Applet by Ryan E. Yip (http://twitter.com/ryaneyip)."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Use the name of the calendar event as the text to tweet, and put the URL in the event description"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Scheduled tweet from Google Calendar",
+    "description": "Scheduled tweet from Google Calendar Based on an Applet by Ryan E. Yip (http://twitter.com/ryaneyip). Use the name of the calendar event as the text to tweet, and put the URL in the event description",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Call me when a new event is added to my calendar"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Call me when a new event is added to my calendar",
+    "description": "Call me when a new event is added to my calendar ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Mute android device on Google Calendar Event This mutes your Android device when you have an Google Event."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If the device is already is muted, It will remain muted."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Android device will be set to Vibrate."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Mute android device on Google Calendar Event",
+    "description": "Mute android device on Google Calendar Event This mutes your Android device when you have an Google Event. If the device is already is muted, It will remain muted. Android device will be set to Vibrate.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If there is a B-Day on my calendar today, then send me a reminder"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "If there is a B-Day on my calendar today, then send me a reminder",
+    "description": "If there is a B-Day on my calendar today, then send me a reminder ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Get an SMS alert before any event starts on your Google Calendar."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Great tool!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "This things gonna keep me on track and on time!!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "!"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Get an SMS alert before any event starts on your Google Calendar.",
+    "description": "Get an SMS alert before any event starts on your Google Calendar. Great tool! This things gonna keep me on track and on time!!!",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar to to-do list Agenda on calendar comes to the reminder list."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Calendar to to-do list",
+    "description": "Calendar to to-do list Agenda on calendar comes to the reminder list.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Stretch"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Stretch",
+    "description": "Stretch ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Copy events to new calendar"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Copy events to new calendar",
+    "description": "Copy events to new calendar ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar events are created in Wunderlist too Useful when creating a to-do as a Google Calendar event for time-planning, and having it on Wunderlist to-do list too"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Google Calendar events are created in Wunderlist too",
+    "description": "Google Calendar events are created in Wunderlist too Useful when creating a to-do as a Google Calendar event for time-planning, and having it on Wunderlist to-do list too",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Tweeting a Google Calendar event (Beta!)"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Tweeting a Google Calendar event (Beta!)",
+    "description": "Tweeting a Google Calendar event (Beta!) ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Hueminder: Travel Time 25 Minutes Notes: place keyword text \"travel time 25 minutes\" in gcal description."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Hueminder: Travel Time 25 Minutes",
+    "description": "Hueminder: Travel Time 25 Minutes Notes: place keyword text \"travel time 25 minutes\" in gcal description.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Schedule Daily/Weekly Group Facebook Threads with Images Using Google Calendar + Buffer Automatically add daily or weekly threads with IMAGES  to your Facebook Group via BUFFER."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Simply create a Google Calendar Event Titled \"BUFFER THIS TO FB GROUP\" Put image url in the \"Where\" select then write your post in the \"Description\" area."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Set the REPEAT Function on Google Calendar so it automatically shoves posts to BUFFER on the right day of the week."
+      },
+      {
+        "manual-eval": 0,
+        "s": "(Yay for setting it and forgetting it!)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "(To get an image url - upload images to your site as media files or add them to google drive)"
+      },
+      {
+        "manual-eval": 0,
+        "s": "*Note: When this event is triggered it will slide your post into the next available BUFFER slot for that account*"
+      },
+      {
+        "manual-eval": 0,
+        "s": "***Remember IFTTT only works with ONE of the accounts You Control with Buffer."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Made sure it's set to the Facebook Group you want and not your Twitter or FB Business Page***"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Schedule Daily/Weekly Group Facebook Threads with Images Using Google Calendar + Buffer",
+    "description": "Schedule Daily/Weekly Group Facebook Threads with Images Using Google Calendar + Buffer Automatically add daily or weekly threads with IMAGES  to your Facebook Group via BUFFER.  \r\n\r\nSimply create a Google Calendar Event Titled \"BUFFER THIS TO FB GROUP\" Put image url in the \"Where\" select then write your post in the \"Description\" area. \r\n\r\nSet the REPEAT Function on Google Calendar so it automatically shoves posts to BUFFER on the right day of the week. (Yay for setting it and forgetting it!)  \r\n\r\n(To get an image url - upload images to your site as media files or add them to google drive) \r\n\r\n*Note: When this event is triggered it will slide your post into the next available BUFFER slot for that account*\r\n\r\n***Remember IFTTT only works with ONE of the accounts You Control with Buffer. Made sure it's set to the Facebook Group you want and not your Twitter or FB Business Page***",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Cal event triggers off."
+      },
+      {
+        "manual-eval": 1,
+        "s": "If you set a keyword or phrase from a Google Calendar event, the WeMo Switch will turn off."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Google Cal event triggers off.",
+    "description": "Google Cal event triggers off. If you set a keyword or phrase from a Google Calendar event, the WeMo Switch will turn off.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If any new event is added by anyone on a shared Google Calendar, then send me a notification."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "If any new event is added by anyone on a shared Google Calendar, then send me a notification.",
+    "description": "If any new event is added by anyone on a shared Google Calendar, then send me a notification. ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Post at 4:30a Will post onto Reddit at 4:30a"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Post at 4:30a",
+    "description": "Post at 4:30a Will post onto Reddit at 4:30a",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "task task"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "task",
+    "description": "task task",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Schedule your Twitter posts with Google Calendar."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Schedule your Twitter posts with Google Calendar.",
+    "description": "Schedule your Twitter posts with Google Calendar. ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Search for Work shift on google calendar, then set phone to vibrate when it starts."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I can't use location based muting/vibrate since I work from home, so using the search terms for repeating events in google calendar helps out alot, I always forget, however I at least need vibrate on."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Search for Work shift on google calendar, then set phone to vibrate when it starts.",
+    "description": "Search for Work shift on google calendar, then set phone to vibrate when it starts. I can't use location based muting/vibrate since I work from home, so using the search terms for repeating events in google calendar helps out alot, I always forget, however I at least need vibrate on.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Scheduled Linked in update"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Scheduled Linked in update",
+    "description": "Scheduled Linked in update ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "When an event on my Google Calendar is about to start, post it on Twitter!"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "When an event on my Google Calendar is about to start, post it on Twitter!",
+    "description": "When an event on my Google Calendar is about to start, post it on Twitter! ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Wish friends a Happy Birthday!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Send a status update to wish your Facebook friends a happy birthday!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "RealAgentEastBay.com"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Wish friends a Happy Birthday!",
+    "description": "Wish friends a Happy Birthday! Send a status update to wish your Facebook friends a happy birthday!\r\nRealAgentEastBay.com",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Birthday reminders from Google Cal to SMS"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Birthday reminders from Google Cal to SMS",
+    "description": "Birthday reminders from Google Cal to SMS ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Automatic Evernote Journal"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Automatic Evernote Journal",
+    "description": "Automatic Evernote Journal ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Activate Holiday Mode from Google Calendar when you're away In your calendar, mark your holiday with a specific keyword or phrase to automatically enable Holiday mode on your Daikin AC unit at the start of your holiday."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Activate Holiday Mode from Google Calendar when you're away",
+    "description": "Activate Holiday Mode from Google Calendar when you're away In your calendar, mark your holiday with a specific keyword or phrase to automatically enable Holiday mode on your Daikin AC unit at the start of your holiday.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Use your Google Calendar to schedule FocusTime sessions."
+      },
+      {
+        "manual-eval": 0,
+        "s": "FocusTime will temporarily block access to distracting websites so you can focus on more productive work."
+      },
+      {
+        "manual-eval": 1,
+        "s": "This Applet makes it easy to 'timebox' your calendar and schedule periods devoted to focused work."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Use your Google Calendar to schedule FocusTime sessions.",
+    "description": "Use your Google Calendar to schedule FocusTime sessions. FocusTime will temporarily block access to distracting websites so you can focus on more productive work. This Applet makes it easy to 'timebox' your calendar and schedule periods devoted to focused work.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add meeting minutes to Evernote Allows you to automatically add a meeting minutes note to Evernote 15 minutes before your meeting, if the meeting is scheduled in Google Calendar."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Add meeting minutes to Evernote",
+    "description": "Add meeting minutes to Evernote Allows you to automatically add a meeting minutes note to Evernote 15 minutes before your meeting, if the meeting is scheduled in Google Calendar.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "auto birthday wish should check for updates from facebook on birthdays and sends birthday wish"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "auto birthday wish",
+    "description": "auto birthday wish should check for updates from facebook on birthdays and sends birthday wish",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google calendar alarm by placing an event in your google calendar you can have you phone play a song as an alarm."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Google calendar alarm",
+    "description": "Google calendar alarm by placing an event in your google calendar you can have you phone play a song as an alarm.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "SMS Reminder for Tagged GCal Event SMS reminder sent 15 min prior to events tagged as \"IMP\""
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "SMS Reminder for Tagged GCal Event",
+    "description": "SMS Reminder for Tagged GCal Event SMS reminder sent 15 min prior to events tagged as \"IMP\"",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Turn Google Calendar events into Todoist tasks Turns any events on a particular calendar into Todoist tasks."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Use @ in the title of your task to label items in Todoist by context."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Turn Google Calendar events into Todoist tasks",
+    "description": "Turn Google Calendar events into Todoist tasks Turns any events on a particular calendar into Todoist tasks. Use @ in the title of your task to label items in Todoist by context.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Schedule post for a Telegram channel using your own bot!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "This recipes requires a telegram bot that is an administrator on your channel"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Check out the description at http://unnikked.ml/1Q1nfUZ"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Schedule post for a Telegram channel using your own bot!",
+    "description": "Schedule post for a Telegram channel using your own bot! This recipes requires a telegram bot that is an administrator on your channel\r\n\r\nCheck out the description at http://unnikked.ml/1Q1nfUZ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Mute ringtone, when an event starts in your Google Calendar Use this recipe, to not to be disturbed in meetings."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Mute ringtone, when an event starts in your Google Calendar",
+    "description": "Mute ringtone, when an event starts in your Google Calendar Use this recipe, to not to be disturbed in meetings.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Netatmo in Autumn Switch to Netatmo Winter Schedule in autumn, utilizing Google Calendar \"Solstice and Equinox\"."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Netatmo in Autumn",
+    "description": "Netatmo in Autumn Switch to Netatmo Winter Schedule in autumn, utilizing Google Calendar \"Solstice and Equinox\".",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Test Test"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Test",
+    "description": "Test Test",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Slack Notifications for Google Calendar Get rid of email notifications for events you've been invited to and put it on Slackbot's service instead."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Slack Notifications for Google Calendar",
+    "description": "Slack Notifications for Google Calendar Get rid of email notifications for events you've been invited to and put it on Slackbot's service instead.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "sms me my friends birthday"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "sms me my friends birthday",
+    "description": "sms me my friends birthday ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Use Google Calendar to Publish Facebook Page Status and Set to Repeat Directions: You need to use one Google Calendar for each Facebook page you own."
+      },
+      {
+        "manual-eval": 1,
+        "s": "It also has to be from your main calendar, not additional calendar within your main calendar."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Step 1) - Create a new event in Google Calendar with the title #fbstatus"
+      },
+      {
+        "manual-eval": 0,
+        "s": "(Step 2) - Type your status message in the event's \"Description\" field and hit save."
+      },
+      {
+        "manual-eval": 1,
+        "s": "(Step 3) - Schedule your \"event\" to repeat as often as desired."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The trigger will fire within 15 minutes of the starting time of an \"event\" on your Google Calendar that contains the #fbstatus."
+      },
+      {
+        "manual-eval": 0,
+        "s": "It will then create a new plain text status message on your Facebook Page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "If you include links in the message area they will be clickable on your page."
+      },
+      {
+        "manual-eval": 0,
+        "s": "That's it!"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Use Google Calendar to Publish Facebook Page Status and Set to Repeat",
+    "description": "Use Google Calendar to Publish Facebook Page Status and Set to Repeat Directions: You need to use one Google Calendar for each Facebook page you own. It also has to be from your main calendar, not additional calendar within your main calendar. \r\n(Step 1) - Create a new event in Google Calendar with the title #fbstatus \r\n(Step 2) - Type your status message in the event's \"Description\" field and hit save.\r\n(Step 3) - Schedule your \"event\" to repeat as often as desired. \r\n\r\nThe trigger will fire within 15 minutes of the starting time of an \"event\" on your Google Calendar that contains the #fbstatus.    It will then create a new plain text status message on your Facebook Page.  If you include links in the message area they will be clickable on your page. \r\n\r\nThat's it!",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Projects Complete this project ASAP"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Projects",
+    "description": "Projects Complete this project ASAP",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "New entries in Calendar will create a new task in TODOIST."
+      },
+      {
+        "manual-eval": 1,
+        "s": "Creating a new entry in Google Calendar will cause a new task to be created in your TODOIST Inbox"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "New entries in Calendar will create a new task in TODOIST.",
+    "description": "New entries in Calendar will create a new task in TODOIST. Creating a new entry in Google Calendar will cause a new task to be created in your TODOIST Inbox",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Format test testing to make it look better"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Format test",
+    "description": "Format test testing to make it look better",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Done to Log"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Done to Log",
+    "description": "Done to Log ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Scheduling Pictures For Tumblr Photo Blog"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Scheduling Pictures For Tumblr Photo Blog",
+    "description": "Scheduling Pictures For Tumblr Photo Blog ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar Event Day One Entry Will create an entry in the chosen Day One journal 15 minutes before every event starts in Google Calendar."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Google Calendar Event Day One Entry",
+    "description": "Google Calendar Event Day One Entry Will create an entry in the chosen Day One journal 15 minutes before every event starts in Google Calendar.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "new event If any new event added on ............, then create a page"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "new event",
+    "description": "new event If any new event added on ............, then create a page",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Google Calender's new Event to iOS Reminder"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Add Google Calender's new Event to iOS Reminder",
+    "description": "Add Google Calender's new Event to iOS Reminder ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Daily test test notes"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Daily test",
+    "description": "Daily test test notes",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "if your calendar has a notification send you a email Just fill in the blanks and magic will happen"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "if your calendar has a notification send you a email",
+    "description": "if your calendar has a notification send you a email Just fill in the blanks and magic will happen",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If any new event added on Daily Calendar, then send me an email I have found that Google Calendar doesn't always send notifications of added events."
+      },
+      {
+        "manual-eval": 0,
+        "s": "This trigger fixes that problem by sending you an email with the details."
+      },
+      {
+        "manual-eval": 0,
+        "s": "Some may find this useful others might not."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "If any new event added on Daily Calendar, then send me an email",
+    "description": "If any new event added on Daily Calendar, then send me an email I have found that Google Calendar doesn't always send notifications of added events. This trigger fixes that problem by sending you an email with the details. Some may find this useful others might not.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Call to wake me up when my calendar appointment says \"(WAKE UP)\" This Applet will give you a wakeup call whenever you have an appointment in your calendar that says \"(WAKE UP)\" in the title or description."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Call to wake me up when my calendar appointment says \"(WAKE UP)\"",
+    "description": "Call to wake me up when my calendar appointment says \"(WAKE UP)\" This Applet will give you a wakeup call whenever you have an appointment in your calendar that says \"(WAKE UP)\" in the title or description.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Track you car cost with your google calendar and add it to Evernote If you need to track travelling expenses by car and give a monthly report to somebody."
+      },
+      {
+        "manual-eval": 0,
+        "s": "I use them to add to an expense sheet and to have one place in Evernote each time I attend a meeting with my car."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Track you car cost with your google calendar and add it to Evernote",
+    "description": "Track you car cost with your google calendar and add it to Evernote If you need to track travelling expenses by car and give a monthly report to somebody. I use them to add to an expense sheet and to have one place in Evernote each time I attend a meeting with my car.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If google calendar triggers send notification to phone Enjoy"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "If google calendar triggers send notification to phone",
+    "description": "If google calendar triggers send notification to phone Enjoy",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google Calendar to Facebook Page"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Google Calendar to Facebook Page",
+    "description": "Google Calendar to Facebook Page ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Disable A/C timer when specific Google Calendar event begins Disable your A/C timer at the starting time of an event in Google Calendar that contains a specific keyword."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Disable A/C timer when specific Google Calendar event begins",
+    "description": "Disable A/C timer when specific Google Calendar event begins Disable your A/C timer at the starting time of an event in Google Calendar that contains a specific keyword.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Calendar Events to Todoist This recipe adds new events from a Google Calendar to a Todoist list on a specific project."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Add Calendar Events to Todoist",
+    "description": "Add Calendar Events to Todoist This recipe adds new events from a Google Calendar to a Todoist list on a specific project.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "test email trigger test"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "test",
+    "description": "test email trigger test",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "ADP Calendar This calendar exists to convert the ADP Calendar into a spreadsheet"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "ADP Calendar",
+    "description": "ADP Calendar This calendar exists to convert the ADP Calendar into a spreadsheet",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "If Chester Races is on send me notification to avoid Chester Roads Roads in Chester can be a nightmare so avoid with a notification top remind you races is on"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "If Chester Races is on send me notification to avoid Chester Roads",
+    "description": "If Chester Races is on send me notification to avoid Chester Roads Roads in Chester can be a nightmare so avoid with a notification top remind you races is on",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "When an event starts, mute phone Don't leave your phone's sound on accidentally during meetings"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "When an event starts, mute phone",
+    "description": "When an event starts, mute phone Don't leave your phone's sound on accidentally during meetings",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Schedule your tweets!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "You only need to create an event with the title #Twitter and the description of the event will be tweeted!"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Schedule your tweets!",
+    "description": "Schedule your tweets! You only need to create an event with the title #Twitter and the description of the event will be tweeted!",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Remind Hubs its garbage day Hubs is adorable but forgetful - send him a reminder each week to put the trash out."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Remind Hubs its garbage day",
+    "description": "Remind Hubs its garbage day Hubs is adorable but forgetful - send him a reminder each week to put the trash out.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Add Google Calendar entries with \"FutureFacebook\" as the title, and this Applet will Post to FB"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Add Google Calendar entries with \"FutureFacebook\" as the title, and this Applet will Post to FB",
+    "description": "Add Google Calendar entries with \"FutureFacebook\" as the title, and this Applet will Post to FB ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "if #sms is included in event title."
+      },
+      {
+        "manual-eval": 0,
+        "s": "sms is sent as reminder"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "if #sms is included in event title. sms is sent as reminder",
+    "description": "if #sms is included in event title. sms is sent as reminder ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Send an email with event info for sending DarkSky forecasts."
+      },
+      {
+        "manual-eval": 1,
+        "s": "I created this script to send myself Dark Sky forecasts for Calendar event locations... https://github.com/cmenscher/darkskymail This Applet sends a properly formatted email with the necessary info."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Send an email with event info for sending DarkSky forecasts.",
+    "description": "Send an email with event info for sending DarkSky forecasts. I created this script to send myself Dark Sky forecasts for Calendar event locations... https://github.com/cmenscher/darkskymail This Applet sends a properly formatted email with the necessary info.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "If activity starts get notification If activity starts get notification"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "If activity starts get notification",
+    "description": "If activity starts get notification If activity starts get notification",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Notify Raspberry Pi of holidays and special events"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Notify Raspberry Pi of holidays and special events",
+    "description": "Notify Raspberry Pi of holidays and special events ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Our last meeting Looking forward to our next meeting on Wednesday?"
+      },
+      {
+        "manual-eval": 0,
+        "s": "Read everything about our last meeting on our blog https://sites.google.com/site/troischenestoastmasters/blog"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Our last meeting",
+    "description": "Our last meeting Looking forward to our next meeting on Wednesday? Read everything about our last meeting on our blog https://sites.google.com/site/troischenestoastmasters/blog",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Event notice!"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Event notice!",
+    "description": "Event notice! ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Event Reminder to Slack 10 min reminders to slack channel"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Event Reminder to Slack",
+    "description": "Event Reminder to Slack 10 min reminders to slack channel",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Turn my heating off when I'm on holiday Ensure you don't leave the heating on when you are away."
+      },
+      {
+        "manual-eval": 1,
+        "s": "If you have scheduled a holiday in Google Calendar this recipe turns the heating off when the holiday starts."
+      },
+      {
+        "manual-eval": 1,
+        "s": "The heating will remain off until you turn it back on or to schedule."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Turn my heating off when I'm on holiday",
+    "description": "Turn my heating off when I'm on holiday Ensure you don't leave the heating on when you are away. If you have scheduled a holiday in Google Calendar this recipe turns the heating off when the holiday starts. The heating will remain off until you turn it back on or to schedule.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Before a event starts, post a reminder to a Slack channel, trigger is @"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Before a event starts, post a reminder to a Slack channel, trigger is @",
+    "description": "Before a event starts, post a reminder to a Slack channel, trigger is @ ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "When you have a meeting, auto create a note at Evernote"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "When you have a meeting, auto create a note at Evernote",
+    "description": "When you have a meeting, auto create a note at Evernote ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Phone on silent during meetings Phone on silent during meetings"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Phone on silent during meetings",
+    "description": "Phone on silent during meetings Phone on silent during meetings",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Make an #Evernote #Journal based on your #Calendar"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Make an #Evernote #Journal based on your #Calendar",
+    "description": "Make an #Evernote #Journal based on your #Calendar ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Automated birthday wishes."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Automated birthday wishes.",
+    "description": "Automated birthday wishes. ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Schedule Tweet Just create a event with title #twitter and write the tweet in description"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Schedule Tweet",
+    "description": "Schedule Tweet Just create a event with title #twitter and write the tweet in description",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Cal to Twitter Using #TW in Cal will post to Twitter"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Cal to Twitter",
+    "description": "Cal to Twitter Using #TW in Cal will post to Twitter",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Creating links If any event comes up that you want others to be notified of, just add it to calendar and Facebook will create a link."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Creating links",
+    "description": "Creating links If any event comes up that you want others to be notified of, just add it to calendar and Facebook will create a link.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar to Evernote New appointments to Evernote"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Calendar to Evernote",
+    "description": "Calendar to Evernote New appointments to Evernote",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Off to work!"
+      },
+      {
+        "manual-eval": 0,
+        "s": "If you frequently work in interesting events, this would be useful to get the message across."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Off to work!",
+    "description": "Off to work! If you frequently work in interesting events, this would be useful to get the message across.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Mute my device during meetings."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Mute my device during meetings.",
+    "description": "Mute my device during meetings. ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "My Calendar To Tumblr Make sure to add the maps calendar from epicksales"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "My Calendar To Tumblr",
+    "description": "My Calendar To Tumblr Make sure to add the maps calendar from epicksales",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "remind me of events tagged \"alarm\""
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "remind me of events tagged \"alarm\"",
+    "description": "remind me of events tagged \"alarm\" ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Push calendar event creation Push calendar event creation to pushbullet."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Push calendar event creation",
+    "description": "Push calendar event creation Push calendar event creation to pushbullet.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Turn nest off from calendar for me really"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Turn nest off from calendar",
+    "description": "Turn nest off from calendar for me really",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Google calender reminded by SMS"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Google calender reminded by SMS",
+    "description": "Google calender reminded by SMS ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "High Alert!"
+      },
+      {
+        "manual-eval": 1,
+        "s": "A PTA meeting starts in 15 minutes"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "High Alert! A PTA meeting starts in 15 minutes",
+    "description": "High Alert! A PTA meeting starts in 15 minutes ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Tweets a starting #geomatics event"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Tweets a starting #geomatics event",
+    "description": "Tweets a starting #geomatics event ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Before a calendar event starts, post reminder to a Flock group Setup a simple reminder 15 minutes before an event begins to a Flock group."
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Before a calendar event starts, post reminder to a Flock group",
+    "description": "Before a calendar event starts, post reminder to a Flock group Setup a simple reminder 15 minutes before an event begins to a Flock group.",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Add meeting minutes to Evernote"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Add meeting minutes to Evernote",
+    "description": "Add meeting minutes to Evernote ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Google Cal 2 SMS"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Google Cal 2 SMS",
+    "description": "Google Cal 2 SMS ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 0,
+        "s": "Special events, sent to buffer, posted to Facebook Pages"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Special events, sent to buffer, posted to Facebook Pages",
+    "description": "Special events, sent to buffer, posted to Facebook Pages ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "calendar 2 slack calendar to slack"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "calendar 2 slack",
+    "description": "calendar 2 slack calendar to slack",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "If event 15 Minutes from now, send me a push to pushbullet Just something to alert you if an event is going on in 15 minutes"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "If event 15 Minutes from now, send me a push to pushbullet",
+    "description": "If event 15 Minutes from now, send me a push to pushbullet Just something to alert you if an event is going on in 15 minutes",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar Event to Trello list Calendar Event to Trello list of your choosing"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any new event added",
+    "permissions": [
+      "trigger : Any new event added"
+    ],
+    "appid": "UNK",
+    "app": "Calendar Event to Trello list",
+    "description": "Calendar Event to Trello list Calendar Event to Trello list of your choosing",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar Event Post to LinkedIn"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Calendar Event Post to LinkedIn",
+    "description": "Calendar Event Post to LinkedIn ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Phones heads up Call 15 minutes before the event"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Phones heads up",
+    "description": "Phones heads up Call 15 minutes before the event",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Calendar Event Post to FB"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Event from search starts",
+    "permissions": [
+      "trigger : Event from search starts"
+    ],
+    "appid": "UNK",
+    "app": "Calendar Event Post to FB",
+    "description": "Calendar Event Post to FB ",
+    "apptype": "ifttt-recipe"
+  },
+  {
+    "sentences": [
+      {
+        "manual-eval": 1,
+        "s": "Clinic Calendar posting Today's Clinic and links:"
+      }
+    ],
+    "category": "UNK",
+    "consider_perm": "trigger : Any event starts",
+    "permissions": [
+      "trigger : Any event starts"
+    ],
+    "appid": "UNK",
+    "app": "Clinic Calendar posting",
+    "description": "Clinic Calendar posting Today's Clinic and links:",
+    "apptype": "ifttt-recipe"
+  }
+]
